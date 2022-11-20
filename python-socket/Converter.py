@@ -2,7 +2,12 @@ from datetime import datetime
 import json
 import io
 
-inputFile = io.open("./python-socket/beeGER.srt", mode='r', encoding='utf-8')
+mode = input("english or german:  ")
+if mode == "english":
+    inputFile = io.open("./python-socket/beeENG.srt", mode='r', encoding='utf-8')
+else:
+    inputFile = io.open("./python-socket/beeGER.srt", mode='r', encoding='utf-8')
+    
 lines = inputFile.readlines()
 lineCount = len(lines)
 
@@ -41,8 +46,20 @@ while(temp + 4 < lineCount):
         finalText = lines[temp + 2]
         temp = temp + 4
 
-    finalText = finalText.replace("\n", "")
-    mySet[deltaStart] = {"Delay":deltaEnd-deltaStart, "Text":finalText}
- 
-with open("./python-socket/german.json", 'w') as json_file:
-    json.dump(mySet, json_file, indent=4, ensure_ascii=False)
+    finalText = finalText.replace("\n", " ")
+    finalText = finalText.replace("ü", "u")
+    finalText = finalText.replace("ö", "")
+    finalText = finalText.replace("ä", "")
+    finalText = finalText.replace("ß", "")
+    
+    if mode == "english":
+        mySet[deltaStart] = {"Delay":deltaEnd-deltaStart, "Text":finalText}
+    else:
+        mySet[deltaStart + 5] = {"Delay":deltaEnd-deltaStart, "Text":finalText}
+    
+if mode == "english":
+    with open("./python-socket/english.json", 'w') as json_file:
+        json.dump(mySet, json_file, indent=4)
+else:
+    with open("./python-socket/german.json", 'w') as json_file:
+        json.dump(mySet, json_file, indent=4, ensure_ascii=False)

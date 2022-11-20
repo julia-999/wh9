@@ -1,10 +1,5394 @@
 {
     "58": {
         "Delay": 4,
-        "Text": "Yellow, black. Yellow, black.\nYellow, black. Yellow, black.\n"
+        "Text": "Yellow, black. Yellow, black. Yellow, black. Yellow, black. "
     },
     "62": {
         "Delay": 3,
-        "Text": "Ooh, black and yellow!\nLet's shake it up a little.\n"
+        "Text": "Ooh, black and yellow! Let's shake it up a little. "
+    },
+    "76": {
+        "Delay": 2,
+        "Text": "Barry! Breakfast is ready! "
+    },
+    "79": {
+        "Delay": 1,
+        "Text": "Coming! "
+    },
+    "80": {
+        "Delay": 3,
+        "Text": "Hang on a second. "
+    },
+    "84": {
+        "Delay": 1,
+        "Text": "Hello? "
+    },
+    "85": {
+        "Delay": 1,
+        "Text": "- Barry? - Adam? "
+    },
+    "86": {
+        "Delay": 3,
+        "Text": "- Can you believe this is happening? - I can't. I'll pick you up. "
+    },
+    "92": {
+        "Delay": 2,
+        "Text": "Looking sharp. "
+    },
+    "97": {
+        "Delay": 3,
+        "Text": "Use the stairs. Your father paid good money for those. "
+    },
+    "101": {
+        "Delay": 1,
+        "Text": "Sorry. I'm excited. "
+    },
+    "102": {
+        "Delay": 3,
+        "Text": "Here's the graduate. We're very proud of you, son. "
+    },
+    "105": {
+        "Delay": 2,
+        "Text": "A perfect report card, all B's. "
+    },
+    "108": {
+        "Delay": 1,
+        "Text": "Very proud. "
+    },
+    "109": {
+        "Delay": 2,
+        "Text": "Ma! I got a thing going here. "
+    },
+    "111": {
+        "Delay": 3,
+        "Text": "- You got lint on your fuzz. - Ow! That's me! "
+    },
+    "114": {
+        "Delay": 3,
+        "Text": "- Wave to us! We'll be in row 118,000. - Bye! "
+    },
+    "117": {
+        "Delay": 3,
+        "Text": "Barry, I told you, stop flying in the house! "
+    },
+    "142": {
+        "Delay": 1,
+        "Text": "- Hey, Adam. - Hey, Barry. "
+    },
+    "144": {
+        "Delay": 3,
+        "Text": "- Is that fuzz gel? - A little. Special day, graduation. "
+    },
+    "147": {
+        "Delay": 1,
+        "Text": "Never thought I'd make it. "
+    },
+    "148": {
+        "Delay": 3,
+        "Text": "Three days grade school, three days high school. "
+    },
+    "151": {
+        "Delay": 1,
+        "Text": "Those were awkward. "
+    },
+    "152": {
+        "Delay": 4,
+        "Text": "Three days college. I'm glad I took a day and hitchhiked around the hive. "
+    },
+    "157": {
+        "Delay": 1,
+        "Text": "You did come back different. "
+    },
+    "159": {
+        "Delay": 1,
+        "Text": "Hi, Barry. "
+    },
+    "160": {
+        "Delay": 2,
+        "Text": "Artie, growing a mustache? Looks good. "
+    },
+    "163": {
+        "Delay": 2,
+        "Text": "- Hear about Frankie? - Yeah. "
+    },
+    "165": {
+        "Delay": 3,
+        "Text": "- You going to the funeral? - No, I'm not going. "
+    },
+    "168": {
+        "Delay": 2,
+        "Text": "Everybody knows, sting someone, you die. "
+    },
+    "170": {
+        "Delay": 2,
+        "Text": "Don't waste it on a squirrel. Such a hothead. "
+    },
+    "173": {
+        "Delay": 2,
+        "Text": "I guess he could have just gotten out of the way. "
+    },
+    "183": {
+        "Delay": 3,
+        "Text": "I love this incorporating an amusement park into our day. "
+    },
+    "186": {
+        "Delay": 3,
+        "Text": "That's why we don't need vacations. "
+    },
+    "195": {
+        "Delay": 3,
+        "Text": "Boy, quite a bit of pomp, under the circumstances. "
+    },
+    "202": {
+        "Delay": 3,
+        "Text": "- Well, Adam, today we are men. - We are! "
+    },
+    "205": {
+        "Delay": 1,
+        "Text": "- Bee-men. - Amen! "
+    },
+    "206": {
+        "Delay": 2,
+        "Text": "Hallelujah! "
+    },
+    "208": {
+        "Delay": 4,
+        "Text": "Students, faculty, distinguished bees, "
+    },
+    "212": {
+        "Delay": 2,
+        "Text": "please welcome Dean Buzzwell. "
+    },
+    "215": {
+        "Delay": 5,
+        "Text": "Welcome, New Hive City graduating class of "
+    },
+    "221": {
+        "Delay": 1,
+        "Text": "9:15. "
+    },
+    "223": {
+        "Delay": 2,
+        "Text": "That concludes our ceremonies. "
+    },
+    "227": {
+        "Delay": 4,
+        "Text": "And begins your career at Honex lndustries! "
+    },
+    "231": {
+        "Delay": 2,
+        "Text": "Will we pick our job today? "
+    },
+    "233": {
+        "Delay": 2,
+        "Text": "I heard it's just orientation. "
+    },
+    "235": {
+        "Delay": 2,
+        "Text": "Heads up! Here we go. "
+    },
+    "238": {
+        "Delay": 4,
+        "Text": "Keep your hands and antennas inside the tram at all times. "
+    },
+    "251": {
+        "Delay": 3,
+        "Text": "- Wonderwhat it'll be like? - A little scary. "
+    },
+    "255": {
+        "Delay": 3,
+        "Text": "Welcome to Honex, a division of Honesco "
+    },
+    "258": {
+        "Delay": 3,
+        "Text": "and a part of the Hexagon Group. "
+    },
+    "261": {
+        "Delay": 1,
+        "Text": "This is it! "
+    },
+    "265": {
+        "Delay": 1,
+        "Text": "Wow. "
+    },
+    "271": {
+        "Delay": 1,
+        "Text": "Wow. "
+    },
+    "272": {
+        "Delay": 3,
+        "Text": "We know that you, as a bee, have worked yourwhole life "
+    },
+    "276": {
+        "Delay": 4,
+        "Text": "to get to the point where you can work for yourwhole life. "
+    },
+    "280": {
+        "Delay": 4,
+        "Text": "Honey begins when our valiant Pollen Jocks bring the nectar to the hive. "
+    },
+    "284": {
+        "Delay": 2,
+        "Text": "Our top-secret formula "
+    },
+    "286": {
+        "Delay": 4,
+        "Text": "is automatically color-corrected, scent-adjusted and bubble-contoured "
+    },
+    "291": {
+        "Delay": 2,
+        "Text": "into this soothing sweet syrup "
+    },
+    "293": {
+        "Delay": 4,
+        "Text": "with its distinctive golden glow you know as... "
+    },
+    "297": {
+        "Delay": 2,
+        "Text": "Honey! "
+    },
+    "302": {
+        "Delay": 2,
+        "Text": "- That girl was hot. - She's my cousin! "
+    },
+    "304": {
+        "Delay": 2,
+        "Text": "- She is? - Yes, we're all cousins. "
+    },
+    "306": {
+        "Delay": 4,
+        "Text": "- Right. You're right. - At Honex, we constantly strive "
+    },
+    "310": {
+        "Delay": 3,
+        "Text": "to improve every aspect of bee existence. "
+    },
+    "314": {
+        "Delay": 3,
+        "Text": "These bees are stress-testing a new helmet technology. "
+    },
+    "333": {
+        "Delay": 3,
+        "Text": "- What do you think he makes? - Not enough. "
+    },
+    "336": {
+        "Delay": 3,
+        "Text": "Here we have our latest advancement, the Krelman. "
+    },
+    "339": {
+        "Delay": 3,
+        "Text": "- What does that do? - Catches that little strand of honey "
+    },
+    "342": {
+        "Delay": 4,
+        "Text": "that hangs after you pour it. Saves us millions. "
+    },
+    "348": {
+        "Delay": 2,
+        "Text": "Can anyone work on the Krelman? "
+    },
+    "351": {
+        "Delay": 3,
+        "Text": "Of course. Most bee jobs are small ones. But bees know "
+    },
+    "354": {
+        "Delay": 4,
+        "Text": "that every small job, if it's done well, means a lot. "
+    },
+    "358": {
+        "Delay": 2,
+        "Text": "But choose carefully "
+    },
+    "360": {
+        "Delay": 5,
+        "Text": "because you'll stay in the job you pick for the rest of your life. "
+    },
+    "366": {
+        "Delay": 3,
+        "Text": "The same job the rest of your life? I didn't know that. "
+    },
+    "369": {
+        "Delay": 2,
+        "Text": "What's the difference? "
+    },
+    "372": {
+        "Delay": 4,
+        "Text": "You'll be happy to know that bees, as a species, haven't had one day off "
+    },
+    "376": {
+        "Delay": 3,
+        "Text": "in 27 million years. "
+    },
+    "380": {
+        "Delay": 2,
+        "Text": "So you'll just work us to death? "
+    },
+    "382": {
+        "Delay": 1,
+        "Text": "We'll sure try. "
+    },
+    "401": {
+        "Delay": 3,
+        "Text": "Wow! That blew my mind! "
+    },
+    "405": {
+        "Delay": 3,
+        "Text": "\"What's the difference?\" How can you say that? "
+    },
+    "408": {
+        "Delay": 2,
+        "Text": "One job forever? "
+    },
+    "410": {
+        "Delay": 1,
+        "Text": "That's an insane choice to have to make. "
+    },
+    "411": {
+        "Delay": 4,
+        "Text": "I'm relieved. Now we only have to make one decision in life. "
+    },
+    "415": {
+        "Delay": 3,
+        "Text": "But, Adam, how could they never have told us that? "
+    },
+    "418": {
+        "Delay": 2,
+        "Text": "Why would you question anything? We're bees. "
+    },
+    "421": {
+        "Delay": 2,
+        "Text": "We're the most perfectly functioning society on Earth. "
+    },
+    "426": {
+        "Delay": 3,
+        "Text": "You ever think maybe things work a little too well here? "
+    },
+    "429": {
+        "Delay": 2,
+        "Text": "Like what? Give me one example. "
+    },
+    "435": {
+        "Delay": 2,
+        "Text": "I don't know. But you know what I'm talking about. "
+    },
+    "441": {
+        "Delay": 3,
+        "Text": "Please clear the gate. Royal Nectar Force on approach. "
+    },
+    "444": {
+        "Delay": 2,
+        "Text": "Wait a second. Check it out. "
+    },
+    "446": {
+        "Delay": 2,
+        "Text": "- Hey, those are Pollen Jocks! - Wow. "
+    },
+    "460": {
+        "Delay": 2,
+        "Text": "I've never seen them this close. "
+    },
+    "462": {
+        "Delay": 2,
+        "Text": "They know what it's like outside the hive. "
+    },
+    "464": {
+        "Delay": 2,
+        "Text": "Yeah, but some don't come back. "
+    },
+    "466": {
+        "Delay": 2,
+        "Text": "- Hey, Jocks! - Hi, Jocks! "
+    },
+    "491": {
+        "Delay": 2,
+        "Text": "You guys did great! "
+    },
+    "493": {
+        "Delay": 5,
+        "Text": "You're monsters! You're sky freaks! I love it! I love it! "
+    },
+    "498": {
+        "Delay": 2,
+        "Text": "- I wonderwhere they were. - I don't know. "
+    },
+    "500": {
+        "Delay": 1,
+        "Text": "Their day's not planned. "
+    },
+    "502": {
+        "Delay": 3,
+        "Text": "Outside the hive, flying who knows where, doing who knows what. "
+    },
+    "505": {
+        "Delay": 3,
+        "Text": "You can't just decide to be a Pollen Jock. "
+    },
+    "508": {
+        "Delay": 1,
+        "Text": "You have to be bred for that. "
+    },
+    "510": {
+        "Delay": 1,
+        "Text": "Right. "
+    },
+    "512": {
+        "Delay": 4,
+        "Text": "Look. That's more pollen than you and I will see in a lifetime. "
+    },
+    "516": {
+        "Delay": 3,
+        "Text": "It's just a status symbol. Bees make too much of it. "
+    },
+    "519": {
+        "Delay": 6,
+        "Text": "Perhaps. Unless you're wearing it and the ladies see you wearing it. "
+    },
+    "525": {
+        "Delay": 3,
+        "Text": "Those ladies? Aren't they our cousins, too? "
+    },
+    "528": {
+        "Delay": 2,
+        "Text": "Distant. Distant. "
+    },
+    "531": {
+        "Delay": 1,
+        "Text": "Look at these two. "
+    },
+    "532": {
+        "Delay": 3,
+        "Text": "- Couple of Hive Harrys. - Let's have fun with them. "
+    },
+    "535": {
+        "Delay": 2,
+        "Text": "It must be dangerous being a Pollen Jock. "
+    },
+    "537": {
+        "Delay": 3,
+        "Text": "Yeah. Once a bear pinned me against a mushroom! "
+    },
+    "540": {
+        "Delay": 4,
+        "Text": "He had a paw on my throat, and with the other, he was slapping me! "
+    },
+    "544": {
+        "Delay": 3,
+        "Text": "- Oh, my! - I never thought I'd knock him out. "
+    },
+    "547": {
+        "Delay": 2,
+        "Text": "What were you doing during this? "
+    },
+    "549": {
+        "Delay": 2,
+        "Text": "Trying to alert the authorities. "
+    },
+    "551": {
+        "Delay": 1,
+        "Text": "I can autograph that. "
+    },
+    "552": {
+        "Delay": 3,
+        "Text": "A little gusty out there today, wasn't it, comrades? "
+    },
+    "555": {
+        "Delay": 1,
+        "Text": "Yeah. Gusty. "
+    },
+    "557": {
+        "Delay": 3,
+        "Text": "We're hitting a sunflower patch six miles from here tomorrow. "
+    },
+    "560": {
+        "Delay": 2,
+        "Text": "- Six miles, huh? - Barry! "
+    },
+    "562": {
+        "Delay": 3,
+        "Text": "A puddle jump for us, but maybe you're not up for it. "
+    },
+    "565": {
+        "Delay": 2,
+        "Text": "- Maybe I am. - You are not! "
+    },
+    "567": {
+        "Delay": 3,
+        "Text": "We're going 0900 at J-Gate. "
+    },
+    "571": {
+        "Delay": 4,
+        "Text": "What do you think, buzzy-boy? Are you bee enough? "
+    },
+    "575": {
+        "Delay": 4,
+        "Text": "I might be. It all depends on what 0900 means. "
+    },
+    "589": {
+        "Delay": 3,
+        "Text": "- Hey, Honex! - Dad, you surprised me. "
+    },
+    "592": {
+        "Delay": 2,
+        "Text": "You decide what you're interested in? "
+    },
+    "595": {
+        "Delay": 3,
+        "Text": "- Well, there's a lot of choices. - But you only get one. "
+    },
+    "599": {
+        "Delay": 2,
+        "Text": "Do you ever get bored doing the same job every day? "
+    },
+    "601": {
+        "Delay": 2,
+        "Text": "Son, let me tell you about stirring. "
+    },
+    "603": {
+        "Delay": 4,
+        "Text": "You grab that stick, and you just move it around, and you stir it around. "
+    },
+    "607": {
+        "Delay": 4,
+        "Text": "You get yourself into a rhythm. It's a beautiful thing. "
+    },
+    "611": {
+        "Delay": 2,
+        "Text": "You know, Dad, the more I think about it, "
+    },
+    "613": {
+        "Delay": 3,
+        "Text": "maybe the honey field just isn't right for me. "
+    },
+    "617": {
+        "Delay": 2,
+        "Text": "You were thinking ofwhat, making balloon animals? "
+    },
+    "619": {
+        "Delay": 3,
+        "Text": "That's a bad job for a guy with a stinger. "
+    },
+    "622": {
+        "Delay": 3,
+        "Text": "Janet, your son's not sure he wants to go into honey! "
+    },
+    "625": {
+        "Delay": 4,
+        "Text": "- Barry, you are so funny sometimes. - I'm not trying to be funny. "
+    },
+    "629": {
+        "Delay": 4,
+        "Text": "You're not funny! You're going into honey. Our son, the stirrer! "
+    },
+    "633": {
+        "Delay": 3,
+        "Text": "- You're gonna be a stirrer? - No one's listening to me! "
+    },
+    "636": {
+        "Delay": 1,
+        "Text": "Wait till you see the sticks I have. "
+    },
+    "638": {
+        "Delay": 2,
+        "Text": "I could say anything right now. I'm gonna get an ant tattoo! "
+    },
+    "641": {
+        "Delay": 2,
+        "Text": "Let's open some honey and celebrate! "
+    },
+    "643": {
+        "Delay": 3,
+        "Text": "Maybe I'll pierce my thorax. Shave my antennae. "
+    },
+    "646": {
+        "Delay": 2,
+        "Text": "Shack up with a grasshopper. "
+    },
+    "648": {
+        "Delay": 2,
+        "Text": "Get a gold tooth and call everybody \"dawg\"! "
+    },
+    "650": {
+        "Delay": 2,
+        "Text": "I'm so proud. "
+    },
+    "659": {
+        "Delay": 3,
+        "Text": "- We're starting work today! - Today's the day. "
+    },
+    "662": {
+        "Delay": 2,
+        "Text": "Come on! All the good jobs will be gone. "
+    },
+    "664": {
+        "Delay": 1,
+        "Text": "Yeah, right. "
+    },
+    "665": {
+        "Delay": 5,
+        "Text": "Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal... "
+    },
+    "670": {
+        "Delay": 3,
+        "Text": "- Is it still available? - Hang on. Two left! "
+    },
+    "673": {
+        "Delay": 1,
+        "Text": "One of them's yours! "
+    },
+    "674": {
+        "Delay": 2,
+        "Text": "Congratulations! Step to the side. "
+    },
+    "677": {
+        "Delay": 3,
+        "Text": "- What'd you get? - Picking crud out. Stellar! "
+    },
+    "680": {
+        "Delay": 1,
+        "Text": "Wow! "
+    },
+    "681": {
+        "Delay": 1,
+        "Text": "Couple of newbies? "
+    },
+    "682": {
+        "Delay": 2,
+        "Text": "Yes, sir! Our first day! We are ready! "
+    },
+    "684": {
+        "Delay": 2,
+        "Text": "Make your choice. "
+    },
+    "688": {
+        "Delay": 2,
+        "Text": "- You want to go first? - No, you go. "
+    },
+    "690": {
+        "Delay": 2,
+        "Text": "Oh, my. What's available? "
+    },
+    "692": {
+        "Delay": 3,
+        "Text": "Restroom attendant's open, not for the reason you think. "
+    },
+    "695": {
+        "Delay": 4,
+        "Text": "- Any chance of getting the Krelman? - Sure, you're on. "
+    },
+    "701": {
+        "Delay": 2,
+        "Text": "I'm sorry, the Krelman just closed out. "
+    },
+    "703": {
+        "Delay": 2,
+        "Text": "Wax monkey's always open. "
+    },
+    "706": {
+        "Delay": 1,
+        "Text": "The Krelman opened up again. "
+    },
+    "707": {
+        "Delay": 1,
+        "Text": "What happened? "
+    },
+    "709": {
+        "Delay": 3,
+        "Text": "A bee died. Makes an opening. See? He's dead. Another dead one. "
+    },
+    "712": {
+        "Delay": 2,
+        "Text": "Deady. Deadified. Two more dead. "
+    },
+    "714": {
+        "Delay": 4,
+        "Text": "Dead from the neck up. Dead from the neck down. That's life! "
+    },
+    "718": {
+        "Delay": 2,
+        "Text": "Oh, this is so hard! "
+    },
+    "721": {
+        "Delay": 2,
+        "Text": "Heating, cooling, stunt bee, pourer, stirrer, "
+    },
+    "723": {
+        "Delay": 4,
+        "Text": "humming, inspector number seven, lint coordinator, stripe supervisor, "
+    },
+    "728": {
+        "Delay": 3,
+        "Text": "mite wrangler. Barry, what do you think I should... Barry? "
+    },
+    "731": {
+        "Delay": 2,
+        "Text": "Barry! "
+    },
+    "734": {
+        "Delay": 3,
+        "Text": "All right, we've got the sunflower patch in quadrant nine... "
+    },
+    "738": {
+        "Delay": 1,
+        "Text": "What happened to you? Where are you? "
+    },
+    "739": {
+        "Delay": 3,
+        "Text": "- I'm going out. - Out? Out where? "
+    },
+    "742": {
+        "Delay": 1,
+        "Text": "- Out there. - Oh, no! "
+    },
+    "743": {
+        "Delay": 3,
+        "Text": "I have to, before I go to work for the rest of my life. "
+    },
+    "746": {
+        "Delay": 3,
+        "Text": "You're gonna die! You're crazy! Hello? "
+    },
+    "749": {
+        "Delay": 1,
+        "Text": "Another call coming in. "
+    },
+    "751": {
+        "Delay": 4,
+        "Text": "If anyone's feeling brave, there's a Korean deli on 83rd "
+    },
+    "755": {
+        "Delay": 3,
+        "Text": "that gets their roses today. "
+    },
+    "758": {
+        "Delay": 1,
+        "Text": "Hey, guys. "
+    },
+    "759": {
+        "Delay": 3,
+        "Text": "- Look at that. - Isn't that the kid we saw yesterday? "
+    },
+    "762": {
+        "Delay": 2,
+        "Text": "Hold it, son, flight deck's restricted. "
+    },
+    "765": {
+        "Delay": 2,
+        "Text": "It's okay, Lou. We're gonna take him up. "
+    },
+    "767": {
+        "Delay": 2,
+        "Text": "Really? Feeling lucky, are you? "
+    },
+    "769": {
+        "Delay": 3,
+        "Text": "Sign here, here. Just initial that. "
+    },
+    "772": {
+        "Delay": 2,
+        "Text": "- Thank you. - Okay. "
+    },
+    "774": {
+        "Delay": 2,
+        "Text": "You got a rain advisory today, "
+    },
+    "776": {
+        "Delay": 4,
+        "Text": "and as you all know, bees cannot fly in rain. "
+    },
+    "780": {
+        "Delay": 3,
+        "Text": "So be careful. As always, watch your brooms, "
+    },
+    "783": {
+        "Delay": 3,
+        "Text": "hockey sticks, dogs, birds, bears and bats. "
+    },
+    "786": {
+        "Delay": 4,
+        "Text": "Also, I got a couple of reports of root beer being poured on us. "
+    },
+    "790": {
+        "Delay": 5,
+        "Text": "Murphy's in a home because of it, babbling like a cicada! "
+    },
+    "795": {
+        "Delay": 3,
+        "Text": "- That's awful. - And a reminder for you rookies, "
+    },
+    "798": {
+        "Delay": 4,
+        "Text": "bee law number one, absolutely no talking to humans! "
+    },
+    "802": {
+        "Delay": 2,
+        "Text": "All right, launch positions! "
+    },
+    "805": {
+        "Delay": 5,
+        "Text": "Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! "
+    },
+    "811": {
+        "Delay": 2,
+        "Text": "Black and yellow! "
+    },
+    "813": {
+        "Delay": 1,
+        "Text": "Hello! "
+    },
+    "816": {
+        "Delay": 2,
+        "Text": "You ready for this, hot shot? "
+    },
+    "818": {
+        "Delay": 2,
+        "Text": "Yeah. Yeah, bring it on. "
+    },
+    "820": {
+        "Delay": 1,
+        "Text": "Wind, check. "
+    },
+    "821": {
+        "Delay": 2,
+        "Text": "- Antennae, check. - Nectar pack, check. "
+    },
+    "823": {
+        "Delay": 3,
+        "Text": "- Wings, check. - Stinger, check. "
+    },
+    "826": {
+        "Delay": 2,
+        "Text": "Scared out of my shorts, check. "
+    },
+    "828": {
+        "Delay": 3,
+        "Text": "Okay, ladies, let's move it out! "
+    },
+    "841": {
+        "Delay": 4,
+        "Text": "Pound those petunias, you striped stem-suckers! "
+    },
+    "846": {
+        "Delay": 4,
+        "Text": "All of you, drain those flowers! "
+    },
+    "866": {
+        "Delay": 2,
+        "Text": "Wow! I'm out! "
+    },
+    "869": {
+        "Delay": 2,
+        "Text": "I can't believe I'm out! "
+    },
+    "873": {
+        "Delay": 1,
+        "Text": "So blue. "
+    },
+    "882": {
+        "Delay": 2,
+        "Text": "I feel so fast and free! "
+    },
+    "886": {
+        "Delay": 1,
+        "Text": "Box kite! "
+    },
+    "888": {
+        "Delay": 2,
+        "Text": "Wow! "
+    },
+    "905": {
+        "Delay": 2,
+        "Text": "Flowers! "
+    },
+    "912": {
+        "Delay": 2,
+        "Text": "This is Blue Leader. We have roses visual. "
+    },
+    "914": {
+        "Delay": 2,
+        "Text": "Bring it around 30 degrees and hold. "
+    },
+    "917": {
+        "Delay": 1,
+        "Text": "Roses! "
+    },
+    "918": {
+        "Delay": 2,
+        "Text": "30 degrees, roger. Bringing it around. "
+    },
+    "932": {
+        "Delay": 2,
+        "Text": "Stand to the side, kid. It's got a bit of a kick. "
+    },
+    "942": {
+        "Delay": 2,
+        "Text": "That is one nectar collector! "
+    },
+    "945": {
+        "Delay": 2,
+        "Text": "- Ever see pollination up close? - No, sir. "
+    },
+    "947": {
+        "Delay": 3,
+        "Text": "I pick up some pollen here, sprinkle it over here. "
+    },
+    "950": {
+        "Delay": 3,
+        "Text": "Maybe a dash over there, a pinch on that one. "
+    },
+    "953": {
+        "Delay": 2,
+        "Text": "See that? It's a little bit of magic. "
+    },
+    "955": {
+        "Delay": 3,
+        "Text": "That's amazing. Why do we do that? "
+    },
+    "958": {
+        "Delay": 1,
+        "Text": "That's pollen power. "
+    },
+    "959": {
+        "Delay": 4,
+        "Text": "More pollen, more flowers, more nectar, more honey for us. "
+    },
+    "963": {
+        "Delay": 1,
+        "Text": "Cool. "
+    },
+    "985": {
+        "Delay": 5,
+        "Text": "I'm picking up a lot of bright yellow. Could be daisies. Don't we need those? "
+    },
+    "991": {
+        "Delay": 1,
+        "Text": "Copy that visual. "
+    },
+    "992": {
+        "Delay": 3,
+        "Text": "Wait. One of these flowers seems to be on the move. "
+    },
+    "995": {
+        "Delay": 2,
+        "Text": "Say again? You're reporting a moving flower? "
+    },
+    "997": {
+        "Delay": 2,
+        "Text": "Affirmative. "
+    },
+    "1009": {
+        "Delay": 2,
+        "Text": "That was on the line! "
+    },
+    "1011": {
+        "Delay": 2,
+        "Text": "This is the coolest. What is it? "
+    },
+    "1013": {
+        "Delay": 3,
+        "Text": "I don't know, but I'm loving this color. "
+    },
+    "1016": {
+        "Delay": 4,
+        "Text": "It smells good. Not like a flower, but I like it. "
+    },
+    "1020": {
+        "Delay": 2,
+        "Text": "Yeah, fuzzy. "
+    },
+    "1022": {
+        "Delay": 2,
+        "Text": "Chemical-y. "
+    },
+    "1024": {
+        "Delay": 2,
+        "Text": "Careful, guys. It's a little grabby. "
+    },
+    "1027": {
+        "Delay": 2,
+        "Text": "My sweet lord of bees! "
+    },
+    "1029": {
+        "Delay": 2,
+        "Text": "Candy-brain, get offthere! "
+    },
+    "1032": {
+        "Delay": 1,
+        "Text": "Problem! "
+    },
+    "1036": {
+        "Delay": 2,
+        "Text": "- Guys! - This could be bad. "
+    },
+    "1038": {
+        "Delay": 1,
+        "Text": "Affirmative. "
+    },
+    "1040": {
+        "Delay": 1,
+        "Text": "Very close. "
+    },
+    "1042": {
+        "Delay": 1,
+        "Text": "Gonna hurt. "
+    },
+    "1044": {
+        "Delay": 2,
+        "Text": "Mama's little boy. "
+    },
+    "1046": {
+        "Delay": 2,
+        "Text": "You are way out of position, rookie! "
+    },
+    "1051": {
+        "Delay": 2,
+        "Text": "Coming in at you like a missile! "
+    },
+    "1056": {
+        "Delay": 3,
+        "Text": "Help me! "
+    },
+    "1060": {
+        "Delay": 2,
+        "Text": "I don't think these are flowers. "
+    },
+    "1062": {
+        "Delay": 2,
+        "Text": "- Should we tell him? - I think he knows. "
+    },
+    "1064": {
+        "Delay": 2,
+        "Text": "What is this? "
+    },
+    "1071": {
+        "Delay": 1,
+        "Text": "Match point! "
+    },
+    "1072": {
+        "Delay": 5,
+        "Text": "You can start packing up, honey, because you're about to eat it! "
+    },
+    "1086": {
+        "Delay": 1,
+        "Text": "Yowser! "
+    },
+    "1116": {
+        "Delay": 1,
+        "Text": "Gross. "
+    },
+    "1123": {
+        "Delay": 1,
+        "Text": "There's a bee in the car! "
+    },
+    "1126": {
+        "Delay": 2,
+        "Text": "- Do something! - I'm driving! "
+    },
+    "1128": {
+        "Delay": 2,
+        "Text": "- Hi, bee. - He's back here! "
+    },
+    "1130": {
+        "Delay": 2,
+        "Text": "He's going to sting me! "
+    },
+    "1140": {
+        "Delay": 4,
+        "Text": "Nobody move. If you don't move, he won't sting you. Freeze! "
+    },
+    "1145": {
+        "Delay": 2,
+        "Text": "He blinked! "
+    },
+    "1147": {
+        "Delay": 1,
+        "Text": "Spray him, Granny! "
+    },
+    "1148": {
+        "Delay": 1,
+        "Text": "What are you doing? "
+    },
+    "1158": {
+        "Delay": 3,
+        "Text": "Wow, the tension level out here is unbelievable. "
+    },
+    "1162": {
+        "Delay": 2,
+        "Text": "I gotta get home. "
+    },
+    "1173": {
+        "Delay": 3,
+        "Text": "Can't fly in rain. Can't fly in rain. "
+    },
+    "1177": {
+        "Delay": 1,
+        "Text": "Can't fly in rain. "
+    },
+    "1187": {
+        "Delay": 3,
+        "Text": "Mayday! Mayday! Bee going down! "
+    },
+    "1193": {
+        "Delay": 3,
+        "Text": "Ken, could you close the window please? "
+    },
+    "1196": {
+        "Delay": 3,
+        "Text": "Check out my new r\u00c3\u00a9sum\u00c3\u00a9. I made it into a fold-out brochure. "
+    },
+    "1199": {
+        "Delay": 2,
+        "Text": "You see? Folds out. "
+    },
+    "1201": {
+        "Delay": 3,
+        "Text": "Oh, no. More humans. I don't need this. "
+    },
+    "1207": {
+        "Delay": 1,
+        "Text": "What was that? "
+    },
+    "1208": {
+        "Delay": 4,
+        "Text": "Maybe this time. This time. This time. This time! This time! This... "
+    },
+    "1213": {
+        "Delay": 1,
+        "Text": "Drapes! "
+    },
+    "1214": {
+        "Delay": 2,
+        "Text": "That is diabolical. "
+    },
+    "1216": {
+        "Delay": 3,
+        "Text": "It's fantastic. It's got all my special skills, "
+    },
+    "1220": {
+        "Delay": 1,
+        "Text": "even my top-ten favorite movies. "
+    },
+    "1221": {
+        "Delay": 2,
+        "Text": "What's your number one? Star Wars? "
+    },
+    "1223": {
+        "Delay": 2,
+        "Text": "Nah, I don't go for that "
+    },
+    "1227": {
+        "Delay": 1,
+        "Text": "kind of stuff. "
+    },
+    "1228": {
+        "Delay": 3,
+        "Text": "No wonderwe shouldn't talk to them. They're out of their minds. "
+    },
+    "1231": {
+        "Delay": 2,
+        "Text": "When I leave a job interview, they're flabbergasted, "
+    },
+    "1233": {
+        "Delay": 2,
+        "Text": "can't believe what I say. "
+    },
+    "1235": {
+        "Delay": 3,
+        "Text": "There's the sun. Maybe that's a way out. "
+    },
+    "1239": {
+        "Delay": 3,
+        "Text": "I don't remember the sun having a big 75 on it. "
+    },
+    "1248": {
+        "Delay": 3,
+        "Text": "I predicted global warming. "
+    },
+    "1251": {
+        "Delay": 4,
+        "Text": "I could feel it getting hotter. At first I thought it was just me. "
+    },
+    "1255": {
+        "Delay": 2,
+        "Text": "Wait! Stop! Bee! "
+    },
+    "1260": {
+        "Delay": 2,
+        "Text": "Stand back. These are winter boots. "
+    },
+    "1265": {
+        "Delay": 1,
+        "Text": "Wait! "
+    },
+    "1267": {
+        "Delay": 1,
+        "Text": "Don't kill him! "
+    },
+    "1268": {
+        "Delay": 3,
+        "Text": "You know I'm allergic to them! This thing could kill me! "
+    },
+    "1271": {
+        "Delay": 3,
+        "Text": "Why does his life have less value than yours? "
+    },
+    "1274": {
+        "Delay": 5,
+        "Text": "Why does his life have any less value than mine? Is that your statement? "
+    },
+    "1280": {
+        "Delay": 2,
+        "Text": "I'm just saying all life has value. "
+    },
+    "1282": {
+        "Delay": 3,
+        "Text": "You don't know what he's capable offeeling. "
+    },
+    "1287": {
+        "Delay": 1,
+        "Text": "My brochure! "
+    },
+    "1303": {
+        "Delay": 1,
+        "Text": "There you go, little guy. "
+    },
+    "1308": {
+        "Delay": 3,
+        "Text": "I'm not scared of him. It's an allergic thing. "
+    },
+    "1311": {
+        "Delay": 3,
+        "Text": "Put that on your r\u00c3\u00a9sum\u00c3\u00a9 brochure. "
+    },
+    "1314": {
+        "Delay": 2,
+        "Text": "My whole face could puff up. "
+    },
+    "1316": {
+        "Delay": 2,
+        "Text": "Make it one of your special skills. "
+    },
+    "1318": {
+        "Delay": 3,
+        "Text": "Knocking someone out is also a special skill. "
+    },
+    "1324": {
+        "Delay": 2,
+        "Text": "Right. Bye, Vanessa. Thanks. "
+    },
+    "1326": {
+        "Delay": 3,
+        "Text": "- Vanessa, next week? Yogurt night? - Sure, Ken. You know, whatever. "
+    },
+    "1330": {
+        "Delay": 2,
+        "Text": "- You could put carob chips on there. - Bye. "
+    },
+    "1332": {
+        "Delay": 2,
+        "Text": "- Supposed to be less calories. - Bye. "
+    },
+    "1341": {
+        "Delay": 2,
+        "Text": "I gotta say something. "
+    },
+    "1343": {
+        "Delay": 3,
+        "Text": "She saved my life. I gotta say something. "
+    },
+    "1347": {
+        "Delay": 2,
+        "Text": "All right, here it goes. "
+    },
+    "1361": {
+        "Delay": 1,
+        "Text": "Nah. "
+    },
+    "1369": {
+        "Delay": 2,
+        "Text": "What would I say? "
+    },
+    "1373": {
+        "Delay": 2,
+        "Text": "I could really get in trouble. "
+    },
+    "1377": {
+        "Delay": 4,
+        "Text": "It's a bee law. You're not supposed to talk to a human. "
+    },
+    "1381": {
+        "Delay": 1,
+        "Text": "I can't believe I'm doing this. "
+    },
+    "1383": {
+        "Delay": 1,
+        "Text": "I've got to. "
+    },
+    "1385": {
+        "Delay": 2,
+        "Text": "Oh, I can't do it. Come on! "
+    },
+    "1388": {
+        "Delay": 2,
+        "Text": "No. Yes. No. "
+    },
+    "1390": {
+        "Delay": 2,
+        "Text": "Do it. I can't. "
+    },
+    "1392": {
+        "Delay": 5,
+        "Text": "How should I start it? \"You like jazz?\" No, that's no good. "
+    },
+    "1397": {
+        "Delay": 2,
+        "Text": "Here she comes! Speak, you fool! "
+    },
+    "1400": {
+        "Delay": 1,
+        "Text": "Hi! "
+    },
+    "1401": {
+        "Delay": 2,
+        "Text": "I'm sorry. "
+    },
+    "1403": {
+        "Delay": 2,
+        "Text": "- You're talking. - Yes, I know. "
+    },
+    "1405": {
+        "Delay": 2,
+        "Text": "You're talking! "
+    },
+    "1407": {
+        "Delay": 1,
+        "Text": "I'm so sorry. "
+    },
+    "1408": {
+        "Delay": 4,
+        "Text": "No, it's okay. It's fine. I know I'm dreaming. "
+    },
+    "1412": {
+        "Delay": 2,
+        "Text": "But I don't recall going to bed. "
+    },
+    "1414": {
+        "Delay": 3,
+        "Text": "Well, I'm sure this is very disconcerting. "
+    },
+    "1417": {
+        "Delay": 5,
+        "Text": "This is a bit of a surprise to me. I mean, you're a bee! "
+    },
+    "1422": {
+        "Delay": 3,
+        "Text": "I am. And I'm not supposed to be doing this, "
+    },
+    "1425": {
+        "Delay": 3,
+        "Text": "but they were all trying to kill me. "
+    },
+    "1428": {
+        "Delay": 2,
+        "Text": "And if it wasn't for you... "
+    },
+    "1430": {
+        "Delay": 3,
+        "Text": "I had to thank you. It's just how I was raised. "
+    },
+    "1435": {
+        "Delay": 2,
+        "Text": "That was a little weird. "
+    },
+    "1437": {
+        "Delay": 2,
+        "Text": "- I'm talking with a bee. - Yeah. "
+    },
+    "1439": {
+        "Delay": 4,
+        "Text": "I'm talking to a bee. And the bee is talking to me! "
+    },
+    "1443": {
+        "Delay": 3,
+        "Text": "I just want to say I'm grateful. I'll leave now. "
+    },
+    "1446": {
+        "Delay": 3,
+        "Text": "- Wait! How did you learn to do that? - What? "
+    },
+    "1449": {
+        "Delay": 2,
+        "Text": "The talking thing. "
+    },
+    "1452": {
+        "Delay": 4,
+        "Text": "Same way you did, I guess. \"Mama, Dada, honey.\" You pick it up. "
+    },
+    "1456": {
+        "Delay": 1,
+        "Text": "- That's very funny. - Yeah. "
+    },
+    "1457": {
+        "Delay": 5,
+        "Text": "Bees are funny. If we didn't laugh, we'd cry with what we have to deal with. "
+    },
+    "1462": {
+        "Delay": 1,
+        "Text": "Anyway... "
+    },
+    "1463": {
+        "Delay": 4,
+        "Text": "- Can I get you something? - Like what? "
+    },
+    "1467": {
+        "Delay": 4,
+        "Text": "I don't know. I mean... I don't know. Coffee? "
+    },
+    "1471": {
+        "Delay": 2,
+        "Text": "I don't want to put you out. "
+    },
+    "1473": {
+        "Delay": 3,
+        "Text": "It's no trouble. It takes two minutes. "
+    },
+    "1476": {
+        "Delay": 2,
+        "Text": "- It's just coffee. - I hate to impose. "
+    },
+    "1478": {
+        "Delay": 3,
+        "Text": "- Don't be ridiculous! - Actually, I would love a cup. "
+    },
+    "1481": {
+        "Delay": 2,
+        "Text": "Hey, you want rum cake? "
+    },
+    "1483": {
+        "Delay": 1,
+        "Text": "- I shouldn't. - Have some. "
+    },
+    "1484": {
+        "Delay": 2,
+        "Text": "- No, I can't. - Come on! "
+    },
+    "1486": {
+        "Delay": 2,
+        "Text": "I'm trying to lose a couple micrograms. "
+    },
+    "1488": {
+        "Delay": 3,
+        "Text": "- Where? - These stripes don't help. "
+    },
+    "1491": {
+        "Delay": 1,
+        "Text": "You look great! "
+    },
+    "1492": {
+        "Delay": 3,
+        "Text": "I don't know if you know anything about fashion. "
+    },
+    "1495": {
+        "Delay": 1,
+        "Text": "Are you all right? "
+    },
+    "1496": {
+        "Delay": 2,
+        "Text": "No. "
+    },
+    "1500": {
+        "Delay": 3,
+        "Text": "He's making the tie in the cab as they're flying up Madison. "
+    },
+    "1504": {
+        "Delay": 1,
+        "Text": "He finally gets there. "
+    },
+    "1506": {
+        "Delay": 3,
+        "Text": "He runs up the steps into the church. The wedding is on. "
+    },
+    "1509": {
+        "Delay": 4,
+        "Text": "And he says, \"Watermelon? I thought you said Guatemalan. "
+    },
+    "1513": {
+        "Delay": 3,
+        "Text": "\"Why would I marry a watermelon?\" "
+    },
+    "1521": {
+        "Delay": 3,
+        "Text": "Is that a bee joke? "
+    },
+    "1524": {
+        "Delay": 2,
+        "Text": "That's the kind of stuffwe do. "
+    },
+    "1526": {
+        "Delay": 2,
+        "Text": "Yeah, different. "
+    },
+    "1528": {
+        "Delay": 3,
+        "Text": "So, what are you gonna do, Barry? "
+    },
+    "1531": {
+        "Delay": 2,
+        "Text": "About work? I don't know. "
+    },
+    "1533": {
+        "Delay": 4,
+        "Text": "I want to do my part for the hive, but I can't do it the way they want. "
+    },
+    "1537": {
+        "Delay": 2,
+        "Text": "I know how you feel. "
+    },
+    "1539": {
+        "Delay": 2,
+        "Text": "- You do? - Sure. "
+    },
+    "1541": {
+        "Delay": 4,
+        "Text": "My parents wanted me to be a lawyer or a doctor, but I wanted to be a florist. "
+    },
+    "1545": {
+        "Delay": 3,
+        "Text": "- Really? - My only interest is flowers. "
+    },
+    "1548": {
+        "Delay": 4,
+        "Text": "Our new queen was just elected with that same campaign slogan. "
+    },
+    "1553": {
+        "Delay": 3,
+        "Text": "Anyway, if you look... "
+    },
+    "1556": {
+        "Delay": 2,
+        "Text": "There's my hive right there. See it? "
+    },
+    "1559": {
+        "Delay": 1,
+        "Text": "You're in Sheep Meadow! "
+    },
+    "1560": {
+        "Delay": 3,
+        "Text": "Yes! I'm right off the Turtle Pond! "
+    },
+    "1563": {
+        "Delay": 5,
+        "Text": "No way! I know that area. I lost a toe ring there once. "
+    },
+    "1568": {
+        "Delay": 3,
+        "Text": "- Why do girls put rings on their toes? - Why not? "
+    },
+    "1571": {
+        "Delay": 3,
+        "Text": "- It's like putting a hat on your knee. - Maybe I'll try that. "
+    },
+    "1574": {
+        "Delay": 4,
+        "Text": "- You all right, ma'am? - Oh, yeah. Fine. "
+    },
+    "1578": {
+        "Delay": 2,
+        "Text": "Just having two cups of coffee! "
+    },
+    "1593": {
+        "Delay": 3,
+        "Text": "Anyway, this has been great. Thanks for the coffee. "
+    },
+    "1596": {
+        "Delay": 2,
+        "Text": "Yeah, it's no trouble. "
+    },
+    "1598": {
+        "Delay": 3,
+        "Text": "Sorry I couldn't finish it. If I did, I'd be up the rest of my life. "
+    },
+    "1602": {
+        "Delay": 1,
+        "Text": "Are you... "
+    },
+    "1605": {
+        "Delay": 2,
+        "Text": "Can I take a piece of this with me? "
+    },
+    "1607": {
+        "Delay": 3,
+        "Text": "Sure! Here, have a crumb. "
+    },
+    "1611": {
+        "Delay": 2,
+        "Text": "- Thanks! - Yeah. "
+    },
+    "1615": {
+        "Delay": 3,
+        "Text": "All right. Well, then, I guess I'll see you around. "
+    },
+    "1618": {
+        "Delay": 1,
+        "Text": "Or not. "
+    },
+    "1620": {
+        "Delay": 1,
+        "Text": "Okay, Barry. "
+    },
+    "1621": {
+        "Delay": 3,
+        "Text": "And thank you so much again, for before. "
+    },
+    "1624": {
+        "Delay": 2,
+        "Text": "Oh, that? That was nothing. "
+    },
+    "1626": {
+        "Delay": 3,
+        "Text": "Well, not nothing, but... Anyway... "
+    },
+    "1650": {
+        "Delay": 2,
+        "Text": "This can't possibly work. "
+    },
+    "1652": {
+        "Delay": 3,
+        "Text": "He's all set to go. We may as well try it. "
+    },
+    "1655": {
+        "Delay": 2,
+        "Text": "Okay, Dave, pull the chute. "
+    },
+    "1661": {
+        "Delay": 1,
+        "Text": "- Sounds amazing. - It was amazing! "
+    },
+    "1662": {
+        "Delay": 3,
+        "Text": "It was the scariest, happiest moment of my life. "
+    },
+    "1665": {
+        "Delay": 3,
+        "Text": "Humans! I can't believe you were with humans! "
+    },
+    "1668": {
+        "Delay": 3,
+        "Text": "Giant, scary humans! What were they like? "
+    },
+    "1671": {
+        "Delay": 2,
+        "Text": "Huge and crazy. They talk crazy. "
+    },
+    "1673": {
+        "Delay": 3,
+        "Text": "They eat crazy giant things. They drive crazy. "
+    },
+    "1676": {
+        "Delay": 4,
+        "Text": "- Do they try and kill you, like on TV? - Some of them. But some of them don't. "
+    },
+    "1680": {
+        "Delay": 1,
+        "Text": "- How'd you get back? - Poodle. "
+    },
+    "1681": {
+        "Delay": 4,
+        "Text": "You did it, and I'm glad. You saw whatever you wanted to see. "
+    },
+    "1685": {
+        "Delay": 2,
+        "Text": "You had your \"experience.\" "
+    },
+    "1687": {
+        "Delay": 3,
+        "Text": "Now you can pick out your job and be normal. "
+    },
+    "1690": {
+        "Delay": 2,
+        "Text": "- Well... - Well? "
+    },
+    "1692": {
+        "Delay": 1,
+        "Text": "Well, I met someone. "
+    },
+    "1693": {
+        "Delay": 3,
+        "Text": "You did? Was she Bee-ish? "
+    },
+    "1696": {
+        "Delay": 3,
+        "Text": "- A wasp? Your parents will kill you! - No, no, no, not a wasp. "
+    },
+    "1699": {
+        "Delay": 2,
+        "Text": "- Spider? - I'm not attracted to spiders. "
+    },
+    "1701": {
+        "Delay": 3,
+        "Text": "I know it's the hottest thing, with the eight legs and all. "
+    },
+    "1704": {
+        "Delay": 3,
+        "Text": "I can't get by that face. "
+    },
+    "1707": {
+        "Delay": 2,
+        "Text": "So who is she? "
+    },
+    "1709": {
+        "Delay": 2,
+        "Text": "She's human. "
+    },
+    "1711": {
+        "Delay": 5,
+        "Text": "No, no. That's a bee law. You wouldn't break a bee law. "
+    },
+    "1716": {
+        "Delay": 2,
+        "Text": "- Her name's Vanessa. - Oh, boy. "
+    },
+    "1718": {
+        "Delay": 3,
+        "Text": "She's so nice. And she's a florist! "
+    },
+    "1721": {
+        "Delay": 3,
+        "Text": "Oh, no! You're dating a human florist! "
+    },
+    "1724": {
+        "Delay": 1,
+        "Text": "We're not dating. "
+    },
+    "1725": {
+        "Delay": 4,
+        "Text": "You're flying outside the hive, talking to humans that attack our homes "
+    },
+    "1729": {
+        "Delay": 4,
+        "Text": "with powerwashers and M-80s! One-eighth a stick of dynamite! "
+    },
+    "1734": {
+        "Delay": 3,
+        "Text": "She saved my life! And she understands me. "
+    },
+    "1737": {
+        "Delay": 1,
+        "Text": "This is over! "
+    },
+    "1739": {
+        "Delay": 1,
+        "Text": "Eat this. "
+    },
+    "1740": {
+        "Delay": 3,
+        "Text": "This is not over! What was that? "
+    },
+    "1743": {
+        "Delay": 2,
+        "Text": "- They call it a crumb. - It was so stingin' stripey! "
+    },
+    "1745": {
+        "Delay": 4,
+        "Text": "And that's not what they eat. That's what falls offwhat they eat! "
+    },
+    "1749": {
+        "Delay": 2,
+        "Text": "- You know what a Cinnabon is? - No. "
+    },
+    "1751": {
+        "Delay": 3,
+        "Text": "It's bread and cinnamon and frosting. They heat it up... "
+    },
+    "1755": {
+        "Delay": 1,
+        "Text": "Sit down! "
+    },
+    "1756": {
+        "Delay": 1,
+        "Text": "- ...really hot! - Listen to me! "
+    },
+    "1757": {
+        "Delay": 4,
+        "Text": "We are not them! We're us. There's us and there's them! "
+    },
+    "1762": {
+        "Delay": 3,
+        "Text": "Yes, but who can deny the heart that is yearning? "
+    },
+    "1765": {
+        "Delay": 3,
+        "Text": "There's no yearning. Stop yearning. Listen to me! "
+    },
+    "1768": {
+        "Delay": 4,
+        "Text": "You have got to start thinking bee, my friend. Thinking bee! "
+    },
+    "1772": {
+        "Delay": 2,
+        "Text": "- Thinking bee. - Thinking bee. "
+    },
+    "1774": {
+        "Delay": 4,
+        "Text": "Thinking bee! Thinking bee! Thinking bee! Thinking bee! "
+    },
+    "1780": {
+        "Delay": 2,
+        "Text": "There he is. He's in the pool. "
+    },
+    "1782": {
+        "Delay": 3,
+        "Text": "You know what your problem is, Barry? "
+    },
+    "1785": {
+        "Delay": 1,
+        "Text": "I gotta start thinking bee? "
+    },
+    "1786": {
+        "Delay": 2,
+        "Text": "How much longerwill this go on? "
+    },
+    "1789": {
+        "Delay": 3,
+        "Text": "It's been three days! Why aren't you working? "
+    },
+    "1792": {
+        "Delay": 3,
+        "Text": "I've got a lot of big life decisions to think about. "
+    },
+    "1795": {
+        "Delay": 4,
+        "Text": "What life? You have no life! You have no job. You're barely a bee! "
+    },
+    "1799": {
+        "Delay": 3,
+        "Text": "Would it kill you to make a little honey? "
+    },
+    "1802": {
+        "Delay": 2,
+        "Text": "Barry, come out. Your father's talking to you. "
+    },
+    "1804": {
+        "Delay": 2,
+        "Text": "Martin, would you talk to him? "
+    },
+    "1806": {
+        "Delay": 2,
+        "Text": "Barry, I'm talking to you! "
+    },
+    "1815": {
+        "Delay": 1,
+        "Text": "<i>\u266a Sugar \u266a</i> "
+    },
+    "1818": {
+        "Delay": 2,
+        "Text": "<i>\u266a Ah, honey, honey \u266a</i> "
+    },
+    "1822": {
+        "Delay": 3,
+        "Text": "<i>\u266a You are my candy, girl \u266a</i> "
+    },
+    "1825": {
+        "Delay": 4,
+        "Text": "<i>\u266a And you got me wanting you \u266a</i> "
+    },
+    "1831": {
+        "Delay": 1,
+        "Text": "<i>\u266a Honey \u266a</i> "
+    },
+    "1834": {
+        "Delay": 2,
+        "Text": "<i>\u266a Ah, sugar, sugar \u266a</i> "
+    },
+    "1836": {
+        "Delay": 2,
+        "Text": "You coming? "
+    },
+    "1838": {
+        "Delay": 2,
+        "Text": "Got everything? "
+    },
+    "1840": {
+        "Delay": 2,
+        "Text": "All set! "
+    },
+    "1842": {
+        "Delay": 1,
+        "Text": "Go ahead. I'll catch up. "
+    },
+    "1843": {
+        "Delay": 2,
+        "Text": "Don't be too long. "
+    },
+    "1846": {
+        "Delay": 4,
+        "Text": "<i>\u266a I just can't believe the loveliness of loving you \u266a</i> "
+    },
+    "1850": {
+        "Delay": 4,
+        "Text": "<i>\u266a I just can't believe it's true \u266a</i> "
+    },
+    "1854": {
+        "Delay": 4,
+        "Text": "<i>\u266a I just can't believe the wonder of this feeling, too \u266a</i> "
+    },
+    "1858": {
+        "Delay": 2,
+        "Text": "<i>\u266a I just can't believe it's true \u266a</i> "
+    },
+    "1860": {
+        "Delay": 2,
+        "Text": "Watch this! "
+    },
+    "1862": {
+        "Delay": 1,
+        "Text": "<i>\u266a Sugar \u266a</i> "
+    },
+    "1865": {
+        "Delay": 2,
+        "Text": "<i>\u266a Ah, honey, honey \u266a</i> "
+    },
+    "1873": {
+        "Delay": 1,
+        "Text": "Vanessa! "
+    },
+    "1878": {
+        "Delay": 3,
+        "Text": "- We're still here. - I told you not to yell at him. "
+    },
+    "1881": {
+        "Delay": 1,
+        "Text": "He doesn't respond to yelling! "
+    },
+    "1883": {
+        "Delay": 2,
+        "Text": "- Then why yell at me? - Because you don't listen! "
+    },
+    "1885": {
+        "Delay": 1,
+        "Text": "I'm not listening to this. "
+    },
+    "1886": {
+        "Delay": 2,
+        "Text": "Sorry, I've gotta go. "
+    },
+    "1888": {
+        "Delay": 2,
+        "Text": "- Where are you going? - I'm meeting a friend. "
+    },
+    "1890": {
+        "Delay": 3,
+        "Text": "A girl? Is this why you can't decide? "
+    },
+    "1893": {
+        "Delay": 1,
+        "Text": "Bye. "
+    },
+    "1894": {
+        "Delay": 2,
+        "Text": "I just hope she's Bee-ish. "
+    },
+    "1900": {
+        "Delay": 4,
+        "Text": "They have a huge parade offlowers every year in Pasadena? "
+    },
+    "1904": {
+        "Delay": 5,
+        "Text": "To be in the Tournament of Roses, that's every florist's dream! "
+    },
+    "1909": {
+        "Delay": 4,
+        "Text": "Up on a float, surrounded by flowers, crowds cheering. "
+    },
+    "1913": {
+        "Delay": 4,
+        "Text": "A tournament. Do the roses compete in athletic events? "
+    },
+    "1917": {
+        "Delay": 4,
+        "Text": "No. All right, I've got one. How come you don't fly everywhere? "
+    },
+    "1922": {
+        "Delay": 3,
+        "Text": "It's exhausting. Why don't you run everywhere? It's faster. "
+    },
+    "1925": {
+        "Delay": 3,
+        "Text": "Yeah, okay, I see, I see. All right, your turn. "
+    },
+    "1928": {
+        "Delay": 3,
+        "Text": "TiVo. You can just freeze live TV? That's insane! "
+    },
+    "1931": {
+        "Delay": 2,
+        "Text": "You don't have that? "
+    },
+    "1933": {
+        "Delay": 4,
+        "Text": "We have Hivo, but it's a disease. It's a horrible, horrible disease. "
+    },
+    "1937": {
+        "Delay": 1,
+        "Text": "Oh, my. "
+    },
+    "1939": {
+        "Delay": 1,
+        "Text": "Dumb bees! "
+    },
+    "1940": {
+        "Delay": 4,
+        "Text": "You must want to sting all those jerks. "
+    },
+    "1944": {
+        "Delay": 3,
+        "Text": "We try not to sting. It's usually fatal for us. "
+    },
+    "1947": {
+        "Delay": 2,
+        "Text": "So you have to watch your temper. "
+    },
+    "1950": {
+        "Delay": 3,
+        "Text": "Very carefully. You kick a wall, take a walk, "
+    },
+    "1953": {
+        "Delay": 4,
+        "Text": "write an angry letter and throw it out. Work through it like any emotion: "
+    },
+    "1957": {
+        "Delay": 3,
+        "Text": "Anger, jealousy, lust. "
+    },
+    "1961": {
+        "Delay": 3,
+        "Text": "Oh, my goodness! Are you okay? "
+    },
+    "1964": {
+        "Delay": 1,
+        "Text": "Yeah. "
+    },
+    "1965": {
+        "Delay": 2,
+        "Text": "- What is wrong with you? - It's a bug. "
+    },
+    "1968": {
+        "Delay": 4,
+        "Text": "He's not bothering anybody. Get out of here, you creep! "
+    },
+    "1972": {
+        "Delay": 2,
+        "Text": "What was that? A Pick 'n Save circular? "
+    },
+    "1974": {
+        "Delay": 3,
+        "Text": "Yeah, it was. How did you know? "
+    },
+    "1977": {
+        "Delay": 3,
+        "Text": "It felt like about 10 pages. Seventy-five is pretty much our limit. "
+    },
+    "1981": {
+        "Delay": 2,
+        "Text": "You've really got that down to a science. "
+    },
+    "1983": {
+        "Delay": 3,
+        "Text": "- I lost a cousin to Italian Vogue. - I'll bet. "
+    },
+    "1986": {
+        "Delay": 3,
+        "Text": "What in the name of Mighty Hercules is this? "
+    },
+    "1989": {
+        "Delay": 4,
+        "Text": "How did this get here? Cute Bee, Golden Blossom, "
+    },
+    "1993": {
+        "Delay": 2,
+        "Text": "Ray Liotta Private Select? "
+    },
+    "1997": {
+        "Delay": 2,
+        "Text": "- Is he that actor? - I never heard of him. "
+    },
+    "1999": {
+        "Delay": 3,
+        "Text": "- Why is this here? - For people. We eat it. "
+    },
+    "2002": {
+        "Delay": 2,
+        "Text": "You don't have enough food of your own? "
+    },
+    "2004": {
+        "Delay": 3,
+        "Text": "- Well, yes. - How do you get it? "
+    },
+    "2007": {
+        "Delay": 2,
+        "Text": "- Bees make it. - I know who makes it! "
+    },
+    "2010": {
+        "Delay": 1,
+        "Text": "And it's hard to make it! "
+    },
+    "2011": {
+        "Delay": 4,
+        "Text": "There's heating, cooling, stirring. You need a whole Krelman thing! "
+    },
+    "2015": {
+        "Delay": 3,
+        "Text": "- It's organic. - It's our-ganic! "
+    },
+    "2018": {
+        "Delay": 1,
+        "Text": "It's just honey, Barry. "
+    },
+    "2019": {
+        "Delay": 2,
+        "Text": "Just what? "
+    },
+    "2021": {
+        "Delay": 3,
+        "Text": "Bees don't know about this! This is stealing! A lot of stealing! "
+    },
+    "2024": {
+        "Delay": 5,
+        "Text": "You've taken our homes, schools, hospitals! This is all we have! "
+    },
+    "2029": {
+        "Delay": 3,
+        "Text": "And it's on sale? I'm getting to the bottom of this. "
+    },
+    "2032": {
+        "Delay": 2,
+        "Text": "I'm getting to the bottom of all of this! "
+    },
+    "2041": {
+        "Delay": 2,
+        "Text": "Hey, Hector. "
+    },
+    "2045": {
+        "Delay": 2,
+        "Text": "- You almost done? - Almost. "
+    },
+    "2049": {
+        "Delay": 3,
+        "Text": "He is here. I sense it. "
+    },
+    "2061": {
+        "Delay": 2,
+        "Text": "Well, I guess I'll go home now "
+    },
+    "2063": {
+        "Delay": 4,
+        "Text": "and just leave this nice honey out, with no one around. "
+    },
+    "2067": {
+        "Delay": 2,
+        "Text": "You're busted, box boy! "
+    },
+    "2070": {
+        "Delay": 3,
+        "Text": "I knew I heard something. So you can talk! "
+    },
+    "2073": {
+        "Delay": 3,
+        "Text": "I can talk. And now you'll start talking! "
+    },
+    "2076": {
+        "Delay": 3,
+        "Text": "Where you getting the sweet stuff? Who's your supplier? "
+    },
+    "2079": {
+        "Delay": 2,
+        "Text": "I don't understand. I thought we were friends. "
+    },
+    "2081": {
+        "Delay": 3,
+        "Text": "The last thing we want to do is upset bees! "
+    },
+    "2085": {
+        "Delay": 2,
+        "Text": "You're too late! It's ours now! "
+    },
+    "2088": {
+        "Delay": 2,
+        "Text": "You, sir, have crossed the wrong sword! "
+    },
+    "2090": {
+        "Delay": 3,
+        "Text": "You, sir, will be lunch for my iguana, Ignacio! "
+    },
+    "2093": {
+        "Delay": 3,
+        "Text": "Where is the honey coming from? "
+    },
+    "2097": {
+        "Delay": 2,
+        "Text": "Tell me where! "
+    },
+    "2099": {
+        "Delay": 3,
+        "Text": "Honey Farms! It comes from Honey Farms! "
+    },
+    "2125": {
+        "Delay": 1,
+        "Text": "Crazy person! "
+    },
+    "2162": {
+        "Delay": 3,
+        "Text": "What horrible thing has happened here? "
+    },
+    "2165": {
+        "Delay": 3,
+        "Text": "These faces, they never knew what hit them. "
+    },
+    "2168": {
+        "Delay": 2,
+        "Text": "And now they're on the road to nowhere! "
+    },
+    "2171": {
+        "Delay": 2,
+        "Text": "Just keep still. "
+    },
+    "2173": {
+        "Delay": 2,
+        "Text": "- What? You're not dead? - Do I look dead? "
+    },
+    "2175": {
+        "Delay": 3,
+        "Text": "They will wipe anything that moves. Where you headed? "
+    },
+    "2178": {
+        "Delay": 3,
+        "Text": "To Honey Farms. I am onto something huge here. "
+    },
+    "2182": {
+        "Delay": 4,
+        "Text": "I'm going to Alaska. Moose blood, crazy stuff. Blows your head off! "
+    },
+    "2186": {
+        "Delay": 2,
+        "Text": "I'm going to Tacoma. "
+    },
+    "2188": {
+        "Delay": 2,
+        "Text": "- And you? - He really is dead. "
+    },
+    "2190": {
+        "Delay": 2,
+        "Text": "All right. "
+    },
+    "2192": {
+        "Delay": 1,
+        "Text": "Uh-oh! "
+    },
+    "2193": {
+        "Delay": 2,
+        "Text": "- What is that? - Oh, no! "
+    },
+    "2195": {
+        "Delay": 2,
+        "Text": "- A wiper! Triple blade! - Triple blade? "
+    },
+    "2197": {
+        "Delay": 3,
+        "Text": "Jump on! It's your only chance, bee! "
+    },
+    "2200": {
+        "Delay": 4,
+        "Text": "Why does everything have to be so doggone clean? "
+    },
+    "2204": {
+        "Delay": 2,
+        "Text": "How much do you people need to see? "
+    },
+    "2206": {
+        "Delay": 3,
+        "Text": "Open your eyes! Stick your head out the window! "
+    },
+    "2209": {
+        "Delay": 4,
+        "Text": "From NPR News in Washington, I'm Carl Kasell. "
+    },
+    "2213": {
+        "Delay": 2,
+        "Text": "But don't kill no more bugs! "
+    },
+    "2217": {
+        "Delay": 3,
+        "Text": "- Bee! - Moose blood guy! "
+    },
+    "2229": {
+        "Delay": 2,
+        "Text": "- You hear something? - Like what? "
+    },
+    "2231": {
+        "Delay": 1,
+        "Text": "Like tiny screaming. "
+    },
+    "2233": {
+        "Delay": 1,
+        "Text": "Turn off the radio. "
+    },
+    "2246": {
+        "Delay": 2,
+        "Text": "Whassup, bee boy? "
+    },
+    "2248": {
+        "Delay": 1,
+        "Text": "Hey, Blood. "
+    },
+    "2250": {
+        "Delay": 3,
+        "Text": "Just a row of honey jars, as far as the eye could see. "
+    },
+    "2253": {
+        "Delay": 1,
+        "Text": "Wow! "
+    },
+    "2254": {
+        "Delay": 4,
+        "Text": "I assume wherever this truck goes is where they're getting it. "
+    },
+    "2258": {
+        "Delay": 1,
+        "Text": "I mean, that honey's ours. "
+    },
+    "2259": {
+        "Delay": 3,
+        "Text": "- Bees hang tight. - We're all jammed in. "
+    },
+    "2262": {
+        "Delay": 1,
+        "Text": "It's a close community. "
+    },
+    "2263": {
+        "Delay": 4,
+        "Text": "Not us, man. We on our own. Every mosquito on his own. "
+    },
+    "2267": {
+        "Delay": 4,
+        "Text": "- What if you get in trouble? - You a mosquito, you in trouble. "
+    },
+    "2271": {
+        "Delay": 3,
+        "Text": "Nobody likes us. They just smack. See a mosquito, smack, smack! "
+    },
+    "2274": {
+        "Delay": 3,
+        "Text": "At least you're out in the world. You must meet girls. "
+    },
+    "2278": {
+        "Delay": 4,
+        "Text": "Mosquito girls try to trade up, get with a moth, dragonfly. "
+    },
+    "2282": {
+        "Delay": 2,
+        "Text": "Mosquito girl don't want no mosquito. "
+    },
+    "2285": {
+        "Delay": 2,
+        "Text": "You got to be kidding me! "
+    },
+    "2287": {
+        "Delay": 4,
+        "Text": "Mooseblood's about to leave the building! So long, bee! "
+    },
+    "2291": {
+        "Delay": 2,
+        "Text": "- Hey, guys! - Mooseblood! "
+    },
+    "2293": {
+        "Delay": 4,
+        "Text": "I knew I'd catch y'all down here. Did you bring your crazy straw? "
+    },
+    "2314": {
+        "Delay": 4,
+        "Text": "We throw it in jars, slap a label on it, and it's pretty much pure profit. "
+    },
+    "2318": {
+        "Delay": 2,
+        "Text": "What is this place? "
+    },
+    "2320": {
+        "Delay": 2,
+        "Text": "A bee's got a brain the size of a pinhead. "
+    },
+    "2322": {
+        "Delay": 2,
+        "Text": "They are pinheads! "
+    },
+    "2325": {
+        "Delay": 1,
+        "Text": "Pinhead. "
+    },
+    "2327": {
+        "Delay": 3,
+        "Text": "- Check out the new smoker. - Oh, sweet. That's the one you want. "
+    },
+    "2330": {
+        "Delay": 2,
+        "Text": "The Thomas 3000! "
+    },
+    "2332": {
+        "Delay": 1,
+        "Text": "Smoker? "
+    },
+    "2333": {
+        "Delay": 5,
+        "Text": "Ninety puffs a minute, semi-automatic. Twice the nicotine, all the tar. "
+    },
+    "2340": {
+        "Delay": 3,
+        "Text": "A couple breaths of this knocks them right out. "
+    },
+    "2345": {
+        "Delay": 3,
+        "Text": "They make the honey, and we make the money. "
+    },
+    "2348": {
+        "Delay": 3,
+        "Text": "\"They make the honey, and we make the money\"? "
+    },
+    "2371": {
+        "Delay": 2,
+        "Text": "Oh, my! "
+    },
+    "2376": {
+        "Delay": 2,
+        "Text": "What's going on? Are you okay? "
+    },
+    "2378": {
+        "Delay": 2,
+        "Text": "Yeah. It doesn't last too long. "
+    },
+    "2380": {
+        "Delay": 4,
+        "Text": "Do you know you're in a fake hive with fake walls? "
+    },
+    "2384": {
+        "Delay": 3,
+        "Text": "Our queen was moved here. We had no choice. "
+    },
+    "2387": {
+        "Delay": 3,
+        "Text": "This is your queen? That's a man in women's clothes! "
+    },
+    "2390": {
+        "Delay": 2,
+        "Text": "That's a drag queen! "
+    },
+    "2397": {
+        "Delay": 2,
+        "Text": "What is this? "
+    },
+    "2408": {
+        "Delay": 2,
+        "Text": "Oh, no! There's hundreds of them! "
+    },
+    "2421": {
+        "Delay": 1,
+        "Text": "Bee honey. "
+    },
+    "2422": {
+        "Delay": 5,
+        "Text": "Our honey is being brazenly stolen on a massive scale! "
+    },
+    "2427": {
+        "Delay": 3,
+        "Text": "This is worse than anything bears have done! "
+    },
+    "2430": {
+        "Delay": 1,
+        "Text": "I intend to do something. "
+    },
+    "2431": {
+        "Delay": 1,
+        "Text": "Oh, Barry, stop. "
+    },
+    "2432": {
+        "Delay": 4,
+        "Text": "Who told you humans are taking our honey? That's a rumor. "
+    },
+    "2436": {
+        "Delay": 2,
+        "Text": "Do these look like rumors? "
+    },
+    "2438": {
+        "Delay": 3,
+        "Text": "That's a conspiracy theory. These are obviously doctored photos. "
+    },
+    "2441": {
+        "Delay": 3,
+        "Text": "How did you get mixed up in this? "
+    },
+    "2444": {
+        "Delay": 1,
+        "Text": "He's been talking to humans. "
+    },
+    "2445": {
+        "Delay": 2,
+        "Text": "- What? - Talking to humans? "
+    },
+    "2447": {
+        "Delay": 3,
+        "Text": "He has a human girlfriend. And they make out! "
+    },
+    "2450": {
+        "Delay": 2,
+        "Text": "Make out? Barry! "
+    },
+    "2452": {
+        "Delay": 1,
+        "Text": "We do not. "
+    },
+    "2453": {
+        "Delay": 2,
+        "Text": "- You wish you could. - Whose side are you on? "
+    },
+    "2455": {
+        "Delay": 1,
+        "Text": "The bees! "
+    },
+    "2456": {
+        "Delay": 5,
+        "Text": "I dated a cricket once in San Antonio. Those crazy legs kept me up all night. "
+    },
+    "2461": {
+        "Delay": 3,
+        "Text": "Barry, this is what you want to do with your life? "
+    },
+    "2464": {
+        "Delay": 4,
+        "Text": "I want to do it for all our lives. Nobody works harder than bees! "
+    },
+    "2468": {
+        "Delay": 2,
+        "Text": "Dad, I remember you coming home so overworked "
+    },
+    "2470": {
+        "Delay": 4,
+        "Text": "your hands were still stirring. You couldn't stop. "
+    },
+    "2474": {
+        "Delay": 1,
+        "Text": "I remember that. "
+    },
+    "2475": {
+        "Delay": 4,
+        "Text": "What right do they have to our honey? We live on two cups a year. "
+    },
+    "2479": {
+        "Delay": 3,
+        "Text": "They put it in lip balm for no reason whatsoever! "
+    },
+    "2482": {
+        "Delay": 2,
+        "Text": "Even if it's true, what can one bee do? "
+    },
+    "2485": {
+        "Delay": 1,
+        "Text": "Sting them where it really hurts. "
+    },
+    "2486": {
+        "Delay": 2,
+        "Text": "In the face! The eye! "
+    },
+    "2488": {
+        "Delay": 1,
+        "Text": "- That would hurt. - No. "
+    },
+    "2489": {
+        "Delay": 2,
+        "Text": "Up the nose? That's a killer. "
+    },
+    "2491": {
+        "Delay": 4,
+        "Text": "There's only one place you can sting the humans, one place where it matters. "
+    },
+    "2496": {
+        "Delay": 4,
+        "Text": "Hive at Five, the hive's only full-hour action news source. "
+    },
+    "2505": {
+        "Delay": 2,
+        "Text": "No more bee beards! "
+    },
+    "2509": {
+        "Delay": 3,
+        "Text": "With Bob Bumble at the anchor desk. "
+    },
+    "2512": {
+        "Delay": 2,
+        "Text": "Weatherwith Storm Stinger. "
+    },
+    "2514": {
+        "Delay": 1,
+        "Text": "Sports with Buzz Larvi. "
+    },
+    "2515": {
+        "Delay": 2,
+        "Text": "And Jeanette Chung. "
+    },
+    "2519": {
+        "Delay": 3,
+        "Text": "- Good evening. I'm Bob Bumble. - And I'm Jeanette Chung. "
+    },
+    "2522": {
+        "Delay": 3,
+        "Text": "A tri-county bee, Barry Benson, "
+    },
+    "2525": {
+        "Delay": 4,
+        "Text": "intends to sue the human race for stealing our honey, "
+    },
+    "2529": {
+        "Delay": 3,
+        "Text": "packaging it and profiting from it illegally! "
+    },
+    "2534": {
+        "Delay": 3,
+        "Text": "Tomorrow night on Bee Larry King, "
+    },
+    "2537": {
+        "Delay": 5,
+        "Text": "we'll have three former queens here in our studio, discussing their new book, "
+    },
+    "2542": {
+        "Delay": 3,
+        "Text": "Classy Ladies, out this week on Hexagon. "
+    },
+    "2545": {
+        "Delay": 3,
+        "Text": "Tonight we're talking to Barry Benson. "
+    },
+    "2548": {
+        "Delay": 3,
+        "Text": "Did you ever think, \"I'm a kid from the hive. I can't do this\"? "
+    },
+    "2551": {
+        "Delay": 3,
+        "Text": "Bees have never been afraid to change the world. "
+    },
+    "2554": {
+        "Delay": 3,
+        "Text": "What about Bee Columbus? Bee Gandhi? Bejesus? "
+    },
+    "2557": {
+        "Delay": 3,
+        "Text": "Where I'm from, we'd never sue humans. "
+    },
+    "2560": {
+        "Delay": 3,
+        "Text": "We were thinking of stickball or candy stores. "
+    },
+    "2563": {
+        "Delay": 1,
+        "Text": "How old are you? "
+    },
+    "2564": {
+        "Delay": 4,
+        "Text": "The bee community is supporting you in this case, "
+    },
+    "2568": {
+        "Delay": 3,
+        "Text": "which will be the trial of the bee century. "
+    },
+    "2571": {
+        "Delay": 3,
+        "Text": "You know, they have a Larry King in the human world, too. "
+    },
+    "2574": {
+        "Delay": 2,
+        "Text": "It's a common name. Next week... "
+    },
+    "2576": {
+        "Delay": 5,
+        "Text": "He looks like you and has a show and suspenders and colored dots... "
+    },
+    "2581": {
+        "Delay": 2,
+        "Text": "Next week... "
+    },
+    "2583": {
+        "Delay": 4,
+        "Text": "Glasses, quotes on the bottom from the guest even though you just heard them. "
+    },
+    "2587": {
+        "Delay": 4,
+        "Text": "Bear Week next week! They're scary, hairy and here live. "
+    },
+    "2591": {
+        "Delay": 5,
+        "Text": "Always leans forward, pointy shoulders, squinty eyes, very Jewish. "
+    },
+    "2598": {
+        "Delay": 5,
+        "Text": "In tennis, you attack at the point ofweakness! "
+    },
+    "2603": {
+        "Delay": 3,
+        "Text": "It was my grandmother, Ken. She's 81. "
+    },
+    "2607": {
+        "Delay": 3,
+        "Text": "Honey, her backhand's a joke! I'm not gonna take advantage of that? "
+    },
+    "2610": {
+        "Delay": 3,
+        "Text": "Quiet, please. Actual work going on here. "
+    },
+    "2614": {
+        "Delay": 2,
+        "Text": "- Is that that same bee? - Yes, it is! "
+    },
+    "2616": {
+        "Delay": 3,
+        "Text": "I'm helping him sue the human race. "
+    },
+    "2620": {
+        "Delay": 2,
+        "Text": "- Hello. - Hello, bee. "
+    },
+    "2622": {
+        "Delay": 2,
+        "Text": "This is Ken. "
+    },
+    "2624": {
+        "Delay": 3,
+        "Text": "Yeah, I remember you. Timberland, size ten and a half. "
+    },
+    "2627": {
+        "Delay": 2,
+        "Text": "Vibram sole, I believe. "
+    },
+    "2629": {
+        "Delay": 2,
+        "Text": "Why does he talk again? "
+    },
+    "2631": {
+        "Delay": 3,
+        "Text": "Listen, you better go 'cause we're really busy working. "
+    },
+    "2634": {
+        "Delay": 2,
+        "Text": "But it's our yogurt night! "
+    },
+    "2637": {
+        "Delay": 1,
+        "Text": "Bye-bye. "
+    },
+    "2639": {
+        "Delay": 3,
+        "Text": "Why is yogurt night so difficult? "
+    },
+    "2643": {
+        "Delay": 3,
+        "Text": "You poor thing. You two have been at this for hours! "
+    },
+    "2646": {
+        "Delay": 3,
+        "Text": "Yes, and Adam here has been a huge help. "
+    },
+    "2650": {
+        "Delay": 2,
+        "Text": "- Frosting... - How many sugars? "
+    },
+    "2652": {
+        "Delay": 2,
+        "Text": "Just one. I try not to use the competition. "
+    },
+    "2656": {
+        "Delay": 2,
+        "Text": "So why are you helping me? "
+    },
+    "2658": {
+        "Delay": 2,
+        "Text": "Bees have good qualities. "
+    },
+    "2662": {
+        "Delay": 2,
+        "Text": "And it takes my mind off the shop. "
+    },
+    "2665": {
+        "Delay": 3,
+        "Text": "Instead offlowers, people are giving balloon bouquets now. "
+    },
+    "2668": {
+        "Delay": 3,
+        "Text": "Those are great, ifyou're three. "
+    },
+    "2671": {
+        "Delay": 1,
+        "Text": "And artificial flowers. "
+    },
+    "2672": {
+        "Delay": 4,
+        "Text": "- Oh, those just get me psychotic! - Yeah, me, too. "
+    },
+    "2676": {
+        "Delay": 3,
+        "Text": "Bent stingers, pointless pollination. "
+    },
+    "2679": {
+        "Delay": 2,
+        "Text": "Bees must hate those fake things! "
+    },
+    "2681": {
+        "Delay": 2,
+        "Text": "Nothing worse than a daffodil that's had work done. "
+    },
+    "2684": {
+        "Delay": 3,
+        "Text": "Maybe this could make up for it a little bit. "
+    },
+    "2687": {
+        "Delay": 3,
+        "Text": "- This lawsuit's a pretty big deal. - I guess. "
+    },
+    "2690": {
+        "Delay": 2,
+        "Text": "You sure you want to go through with it? "
+    },
+    "2692": {
+        "Delay": 3,
+        "Text": "Am I sure? When I'm done with the humans, they won't be able to say, "
+    },
+    "2695": {
+        "Delay": 3,
+        "Text": "\"Honey, I'm home,\" without paying a royalty! "
+    },
+    "2701": {
+        "Delay": 3,
+        "Text": "It's an incredible scene here in downtown Manhattan, "
+    },
+    "2704": {
+        "Delay": 5,
+        "Text": "where the world anxiously waits, because for the first time in history, "
+    },
+    "2709": {
+        "Delay": 4,
+        "Text": "we will hear for ourselves if a honeybee can actually speak. "
+    },
+    "2717": {
+        "Delay": 2,
+        "Text": "What have we gotten into here, Barry? "
+    },
+    "2721": {
+        "Delay": 1,
+        "Text": "It's pretty big, isn't it? "
+    },
+    "2722": {
+        "Delay": 3,
+        "Text": "I can't believe how many humans don't work during the day. "
+    },
+    "2725": {
+        "Delay": 4,
+        "Text": "You think billion-dollar multinational food companies have good lawyers? "
+    },
+    "2730": {
+        "Delay": 3,
+        "Text": "Everybody needs to stay behind the barricade. "
+    },
+    "2745": {
+        "Delay": 3,
+        "Text": "- What's the matter? - I don't know, I just got a chill. "
+    },
+    "2755": {
+        "Delay": 2,
+        "Text": "Well, if it isn't the bee team. "
+    },
+    "2758": {
+        "Delay": 2,
+        "Text": "You boys work on this? "
+    },
+    "2762": {
+        "Delay": 4,
+        "Text": "All rise! The Honorable Judge Bumbleton presiding. "
+    },
+    "2766": {
+        "Delay": 5,
+        "Text": "All right. Case number 4475, Superior Court of New York, "
+    },
+    "2771": {
+        "Delay": 2,
+        "Text": "Barry Bee Benson versus the Honey lndustry "
+    },
+    "2773": {
+        "Delay": 2,
+        "Text": "is now in session. "
+    },
+    "2775": {
+        "Delay": 5,
+        "Text": "Mr. Montgomery, you're representing the five food companies collectively? "
+    },
+    "2780": {
+        "Delay": 2,
+        "Text": "A privilege. "
+    },
+    "2782": {
+        "Delay": 5,
+        "Text": "Mr. Benson, you're representing all the bees of the world? "
+    },
+    "2798": {
+        "Delay": 3,
+        "Text": "I'm kidding. Yes, Your Honor, we're ready to proceed. "
+    },
+    "2803": {
+        "Delay": 3,
+        "Text": "Mr. Montgomery, your opening statement, please. "
+    },
+    "2809": {
+        "Delay": 3,
+        "Text": "Ladies and gentlemen of the jury, "
+    },
+    "2812": {
+        "Delay": 3,
+        "Text": "my grandmotherwas a simple woman. "
+    },
+    "2815": {
+        "Delay": 4,
+        "Text": "Born on a farm, she believed it was man's divine right "
+    },
+    "2819": {
+        "Delay": 5,
+        "Text": "to benefit from the bounty of nature God put before us. "
+    },
+    "2824": {
+        "Delay": 4,
+        "Text": "If we lived in the topsy-turvy world Mr. Benson imagines, "
+    },
+    "2828": {
+        "Delay": 2,
+        "Text": "just think ofwhat would it mean. "
+    },
+    "2830": {
+        "Delay": 3,
+        "Text": "I would have to negotiate with the silkworm "
+    },
+    "2833": {
+        "Delay": 4,
+        "Text": "for the elastic in my britches! "
+    },
+    "2837": {
+        "Delay": 2,
+        "Text": "Talking bee! "
+    },
+    "2839": {
+        "Delay": 2,
+        "Text": "How do we know this isn't some sort of "
+    },
+    "2841": {
+        "Delay": 4,
+        "Text": "holographic motion-picture-capture Hollywood wizardry? "
+    },
+    "2845": {
+        "Delay": 3,
+        "Text": "They could be using laser beams! "
+    },
+    "2848": {
+        "Delay": 3,
+        "Text": "Robotics! Ventriloquism! Cloning! "
+    },
+    "2851": {
+        "Delay": 4,
+        "Text": "For all we know, he could be on steroids! "
+    },
+    "2857": {
+        "Delay": 2,
+        "Text": "Mr. Benson? "
+    },
+    "2864": {
+        "Delay": 3,
+        "Text": "Ladies and gentlemen, there's no trickery here. "
+    },
+    "2867": {
+        "Delay": 4,
+        "Text": "I'm just an ordinary bee. Honey's pretty important to me. "
+    },
+    "2871": {
+        "Delay": 3,
+        "Text": "It's important to all bees. We invented it! "
+    },
+    "2874": {
+        "Delay": 3,
+        "Text": "We make it. And we protect it with our lives. "
+    },
+    "2877": {
+        "Delay": 2,
+        "Text": "Unfortunately, there are some people in this room "
+    },
+    "2879": {
+        "Delay": 4,
+        "Text": "who think they can take it from us 'cause we're the little guys! "
+    },
+    "2883": {
+        "Delay": 3,
+        "Text": "I'm hoping that, after this is all over, "
+    },
+    "2886": {
+        "Delay": 4,
+        "Text": "you'll see how, by taking our honey, you not only take everything we have, "
+    },
+    "2890": {
+        "Delay": 2,
+        "Text": "but everything we are! "
+    },
+    "2896": {
+        "Delay": 3,
+        "Text": "I wish he'd dress like that all the time. So nice! "
+    },
+    "2899": {
+        "Delay": 2,
+        "Text": "Call your first witness. "
+    },
+    "2901": {
+        "Delay": 3,
+        "Text": "So, Mr. Klauss Vanderhayden of Honey Farms, "
+    },
+    "2904": {
+        "Delay": 3,
+        "Text": "- big company you have. - I suppose so. "
+    },
+    "2907": {
+        "Delay": 4,
+        "Text": "I see you also own Honeyburton and Honron! "
+    },
+    "2911": {
+        "Delay": 3,
+        "Text": "Yes, they provide beekeepers for our farms. "
+    },
+    "2914": {
+        "Delay": 3,
+        "Text": "Beekeeper. I find that to be a very disturbing term. "
+    },
+    "2917": {
+        "Delay": 4,
+        "Text": "I don't imagine you employ any bee-free-ers, do you? "
+    },
+    "2922": {
+        "Delay": 1,
+        "Text": "- No. - I couldn't hear you. "
+    },
+    "2924": {
+        "Delay": 1,
+        "Text": "- No. - No. "
+    },
+    "2925": {
+        "Delay": 4,
+        "Text": "Because you don't free bees. You keep bees. Not only that, "
+    },
+    "2929": {
+        "Delay": 5,
+        "Text": "it seems you thought a bearwould be an appropriate image for a jar of honey. "
+    },
+    "2934": {
+        "Delay": 2,
+        "Text": "They're very lovable creatures. "
+    },
+    "2936": {
+        "Delay": 4,
+        "Text": "Yogi Bear, Fozzie Bear, Build-A-Bear. "
+    },
+    "2940": {
+        "Delay": 1,
+        "Text": "You mean like this? "
+    },
+    "2945": {
+        "Delay": 2,
+        "Text": "Bears kill bees! "
+    },
+    "2947": {
+        "Delay": 3,
+        "Text": "How'd you like his head crashing through your living room? "
+    },
+    "2951": {
+        "Delay": 3,
+        "Text": "Biting into your couch! Spitting out your throw pillows! "
+    },
+    "2955": {
+        "Delay": 2,
+        "Text": "Okay, that's enough. Take him away. "
+    },
+    "2963": {
+        "Delay": 5,
+        "Text": "So, Mr. Sting, thank you for being here. Your name intrigues me. "
+    },
+    "2968": {
+        "Delay": 3,
+        "Text": "- Where have I heard it before? - I was with a band called The Police. "
+    },
+    "2971": {
+        "Delay": 2,
+        "Text": "But you've never been a police officer, have you? "
+    },
+    "2974": {
+        "Delay": 2,
+        "Text": "- No, I haven't. - No, you haven't. "
+    },
+    "2976": {
+        "Delay": 2,
+        "Text": "And so here we have yet another example "
+    },
+    "2978": {
+        "Delay": 3,
+        "Text": "of bee culture casually stolen by a human "
+    },
+    "2981": {
+        "Delay": 3,
+        "Text": "for nothing more than a prance-about stage name. "
+    },
+    "2984": {
+        "Delay": 1,
+        "Text": "Oh, please. "
+    },
+    "2985": {
+        "Delay": 2,
+        "Text": "Have you ever been stung, Mr. Sting? "
+    },
+    "2987": {
+        "Delay": 3,
+        "Text": "Because I'm feeling a little stung, Sting. "
+    },
+    "2990": {
+        "Delay": 5,
+        "Text": "Or should I say, Mr. Gordon M. Sumner! "
+    },
+    "2996": {
+        "Delay": 3,
+        "Text": "That's not his real name? You idiots! "
+    },
+    "3000": {
+        "Delay": 4,
+        "Text": "Mr. Liotta, first, belated congratulations on your Emmy win "
+    },
+    "3004": {
+        "Delay": 2,
+        "Text": "for a guest spot on ER in 2005. "
+    },
+    "3007": {
+        "Delay": 1,
+        "Text": "Thank you. Thank you. "
+    },
+    "3009": {
+        "Delay": 3,
+        "Text": "I see from your r\u00c3\u00a9sum\u00c3\u00a9 that you're devilishly handsome "
+    },
+    "3012": {
+        "Delay": 4,
+        "Text": "with a churning inner turmoil that's ready to blow. "
+    },
+    "3016": {
+        "Delay": 2,
+        "Text": "I enjoy what I do. Is that a crime? "
+    },
+    "3019": {
+        "Delay": 3,
+        "Text": "Not yet it isn't. But is this what it's come to for you? "
+    },
+    "3022": {
+        "Delay": 2,
+        "Text": "Exploiting tiny, helpless bees "
+    },
+    "3024": {
+        "Delay": 4,
+        "Text": "so you don't have to rehearse your part and learn your lines, sir? "
+    },
+    "3028": {
+        "Delay": 3,
+        "Text": "Watch it, Benson! I could blow right now! "
+    },
+    "3031": {
+        "Delay": 3,
+        "Text": "This isn't a goodfella. This is a badfella! "
+    },
+    "3035": {
+        "Delay": 4,
+        "Text": "Why doesn't someone just step on this creep, and we can all go home? "
+    },
+    "3039": {
+        "Delay": 2,
+        "Text": "- Order in this court! - You're all thinking it! "
+    },
+    "3042": {
+        "Delay": 1,
+        "Text": "Order! Order, I say! "
+    },
+    "3043": {
+        "Delay": 2,
+        "Text": "- Say it! - Mr. Liotta, please sit down! "
+    },
+    "3051": {
+        "Delay": 3,
+        "Text": "I think it was awfully nice of that bear to pitch in like that. "
+    },
+    "3054": {
+        "Delay": 3,
+        "Text": "I think the jury's on our side. "
+    },
+    "3057": {
+        "Delay": 3,
+        "Text": "Are we doing everything right, legally? "
+    },
+    "3060": {
+        "Delay": 1,
+        "Text": "I'm a florist. "
+    },
+    "3061": {
+        "Delay": 4,
+        "Text": "Right. Well, here's to a great team. "
+    },
+    "3065": {
+        "Delay": 1,
+        "Text": "To a great team! "
+    },
+    "3068": {
+        "Delay": 2,
+        "Text": "Well, hello. "
+    },
+    "3070": {
+        "Delay": 2,
+        "Text": "- Ken! - Hello. "
+    },
+    "3072": {
+        "Delay": 2,
+        "Text": "I didn't think you were coming. "
+    },
+    "3074": {
+        "Delay": 5,
+        "Text": "No, I was just late. I tried to call, but... The battery. "
+    },
+    "3079": {
+        "Delay": 5,
+        "Text": "I didn't want all this to go to waste, so I called Barry. Luckily, he was free. "
+    },
+    "3084": {
+        "Delay": 2,
+        "Text": "Oh, that was lucky. "
+    },
+    "3088": {
+        "Delay": 4,
+        "Text": "There's a little left. I could heat it up. "
+    },
+    "3092": {
+        "Delay": 2,
+        "Text": "Yeah, heat it up, sure, whatever. "
+    },
+    "3098": {
+        "Delay": 3,
+        "Text": "So, I hear you're quite a tennis player. "
+    },
+    "3101": {
+        "Delay": 3,
+        "Text": "I'm not much for the game myself. The ball's a little grabby. "
+    },
+    "3107": {
+        "Delay": 3,
+        "Text": "That's where I usually sit. Right there. "
+    },
+    "3112": {
+        "Delay": 4,
+        "Text": "Ken, Barry was looking at your r\u00c3\u00a9sum\u00c3\u00a9, and he agreed with me "
+    },
+    "3116": {
+        "Delay": 5,
+        "Text": "that eating with chopsticks isn't really a special skill. "
+    },
+    "3121": {
+        "Delay": 3,
+        "Text": "You think I don't see what you're doing? "
+    },
+    "3124": {
+        "Delay": 3,
+        "Text": "I know how hard it is to find the rightjob. We have that in common. "
+    },
+    "3128": {
+        "Delay": 2,
+        "Text": "Do we? "
+    },
+    "3130": {
+        "Delay": 4,
+        "Text": "Bees have 100 percent employment, but we do jobs like taking the crud out. "
+    },
+    "3134": {
+        "Delay": 3,
+        "Text": "That's just what I was thinking about doing. "
+    },
+    "3137": {
+        "Delay": 5,
+        "Text": "Ken, I let Barry borrow your razor for his fuzz. I hope that was all right. "
+    },
+    "3146": {
+        "Delay": 2,
+        "Text": "I'm going to drain the old stinger. "
+    },
+    "3148": {
+        "Delay": 2,
+        "Text": "Yeah, you do that. "
+    },
+    "3154": {
+        "Delay": 1,
+        "Text": "Look at that. "
+    },
+    "3164": {
+        "Delay": 6,
+        "Text": "You know, I've just about had it with your little mind games. "
+    },
+    "3171": {
+        "Delay": 2,
+        "Text": "- What's that? - Italian Vogue. "
+    },
+    "3173": {
+        "Delay": 2,
+        "Text": "Mamma mia, that's a lot of pages. "
+    },
+    "3175": {
+        "Delay": 1,
+        "Text": "A lot of ads. "
+    },
+    "3176": {
+        "Delay": 2,
+        "Text": "Rememberwhat Van said, "
+    },
+    "3178": {
+        "Delay": 2,
+        "Text": "why is your life more valuable than mine? "
+    },
+    "3180": {
+        "Delay": 3,
+        "Text": "Funny, I just can't seem to recall that! "
+    },
+    "3184": {
+        "Delay": 3,
+        "Text": "I think something stinks in here! "
+    },
+    "3187": {
+        "Delay": 2,
+        "Text": "I love the smell of flowers. "
+    },
+    "3189": {
+        "Delay": 3,
+        "Text": "How do you like the smell offlames? "
+    },
+    "3192": {
+        "Delay": 1,
+        "Text": "Not as much. "
+    },
+    "3209": {
+        "Delay": 1,
+        "Text": "Water bug! Not taking sides! "
+    },
+    "3213": {
+        "Delay": 3,
+        "Text": "Ken, I'm wearing a Chapstick hat! This is pathetic! "
+    },
+    "3216": {
+        "Delay": 2,
+        "Text": "I've got issues! "
+    },
+    "3222": {
+        "Delay": 3,
+        "Text": "Well, well, well, a royal flush! "
+    },
+    "3225": {
+        "Delay": 2,
+        "Text": "- You're bluffing. - Am I? "
+    },
+    "3238": {
+        "Delay": 2,
+        "Text": "Surf's up, dude! "
+    },
+    "3240": {
+        "Delay": 1,
+        "Text": "Poo water! "
+    },
+    "3244": {
+        "Delay": 2,
+        "Text": "That bowl is gnarly. "
+    },
+    "3246": {
+        "Delay": 4,
+        "Text": "Except for those dirty yellow rings! "
+    },
+    "3250": {
+        "Delay": 2,
+        "Text": "Kenneth! What are you doing? "
+    },
+    "3252": {
+        "Delay": 4,
+        "Text": "You know, I don't even like honey! I don't eat it! "
+    },
+    "3256": {
+        "Delay": 2,
+        "Text": "We need to talk! "
+    },
+    "3258": {
+        "Delay": 2,
+        "Text": "He's just a little bee! "
+    },
+    "3260": {
+        "Delay": 5,
+        "Text": "And he happens to be the nicest bee I've met in a long time! "
+    },
+    "3265": {
+        "Delay": 5,
+        "Text": "Long time? What are you talking about? Are there other bugs in your life? "
+    },
+    "3270": {
+        "Delay": 3,
+        "Text": "No, but there are other things bugging me in life. "
+    },
+    "3273": {
+        "Delay": 2,
+        "Text": "And you're one of them! "
+    },
+    "3275": {
+        "Delay": 3,
+        "Text": "Fine! Talking bees, no yogurt night... "
+    },
+    "3278": {
+        "Delay": 4,
+        "Text": "My nerves are fried from riding on this emotional roller coaster! "
+    },
+    "3282": {
+        "Delay": 2,
+        "Text": "Goodbye, Ken. "
+    },
+    "3288": {
+        "Delay": 2,
+        "Text": "And for your information, "
+    },
+    "3290": {
+        "Delay": 5,
+        "Text": "I prefer sugar-free, artificial sweeteners made by man! "
+    },
+    "3296": {
+        "Delay": 2,
+        "Text": "I'm sorry about all that. "
+    },
+    "3298": {
+        "Delay": 4,
+        "Text": "I know it's got an aftertaste! I like it! "
+    },
+    "3304": {
+        "Delay": 3,
+        "Text": "I always felt there was some kind of barrier between Ken and me. "
+    },
+    "3307": {
+        "Delay": 3,
+        "Text": "I couldn't overcome it. Oh, well. "
+    },
+    "3310": {
+        "Delay": 2,
+        "Text": "Are you okay for the trial? "
+    },
+    "3312": {
+        "Delay": 3,
+        "Text": "I believe Mr. Montgomery is about out of ideas. "
+    },
+    "3315": {
+        "Delay": 4,
+        "Text": "We would like to call Mr. Barry Benson Bee to the stand. "
+    },
+    "3319": {
+        "Delay": 2,
+        "Text": "Good idea! "
+    },
+    "3321": {
+        "Delay": 3,
+        "Text": "You can really see why he's considered one of the best lawyers... "
+    },
+    "3324": {
+        "Delay": 1,
+        "Text": "Yeah. "
+    },
+    "3328": {
+        "Delay": 2,
+        "Text": "Layton, you've gotta weave some magic with this jury, "
+    },
+    "3330": {
+        "Delay": 2,
+        "Text": "or it's gonna be all over. "
+    },
+    "3332": {
+        "Delay": 4,
+        "Text": "Don't worry. The only thing I have to do to turn this jury around "
+    },
+    "3337": {
+        "Delay": 3,
+        "Text": "is to remind them ofwhat they don't like about bees. "
+    },
+    "3340": {
+        "Delay": 3,
+        "Text": "- You got the tweezers? - Are you allergic? "
+    },
+    "3343": {
+        "Delay": 3,
+        "Text": "Only to losing, son. Only to losing. "
+    },
+    "3346": {
+        "Delay": 5,
+        "Text": "Mr. Benson Bee, I'll ask you what I think we'd all like to know. "
+    },
+    "3351": {
+        "Delay": 5,
+        "Text": "What exactly is your relationship to that woman? "
+    },
+    "3357": {
+        "Delay": 1,
+        "Text": "We're friends. "
+    },
+    "3358": {
+        "Delay": 2,
+        "Text": "- Good friends? - Yes. "
+    },
+    "3360": {
+        "Delay": 3,
+        "Text": "How good? Do you live together? "
+    },
+    "3363": {
+        "Delay": 2,
+        "Text": "Wait a minute... "
+    },
+    "3365": {
+        "Delay": 1,
+        "Text": "Are you her little "
+    },
+    "3367": {
+        "Delay": 1,
+        "Text": "bedbug? "
+    },
+    "3369": {
+        "Delay": 3,
+        "Text": "I've seen a bee documentary or two. From what I understand, "
+    },
+    "3372": {
+        "Delay": 4,
+        "Text": "doesn't your queen give birth to all the bee children? "
+    },
+    "3376": {
+        "Delay": 3,
+        "Text": "- Yeah, but... - So those aren't your real parents! "
+    },
+    "3380": {
+        "Delay": 1,
+        "Text": "- Oh, Barry... - Yes, they are! "
+    },
+    "3381": {
+        "Delay": 2,
+        "Text": "Hold me back! "
+    },
+    "3383": {
+        "Delay": 3,
+        "Text": "You're an illegitimate bee, aren't you, Benson? "
+    },
+    "3386": {
+        "Delay": 1,
+        "Text": "He's denouncing bees! "
+    },
+    "3387": {
+        "Delay": 3,
+        "Text": "Don't y'all date your cousins? "
+    },
+    "3390": {
+        "Delay": 3,
+        "Text": "- Objection! - I'm going to pincushion this guy! "
+    },
+    "3396": {
+        "Delay": 2,
+        "Text": "Adam, don't! It's what he wants! "
+    },
+    "3403": {
+        "Delay": 2,
+        "Text": "Oh, I'm hit! "
+    },
+    "3405": {
+        "Delay": 2,
+        "Text": "Oh, lordy, I am hit! "
+    },
+    "3407": {
+        "Delay": 2,
+        "Text": "Order! Order! "
+    },
+    "3409": {
+        "Delay": 3,
+        "Text": "The venom! The venom is coursing through my veins! "
+    },
+    "3412": {
+        "Delay": 4,
+        "Text": "I have been felled by a winged beast of destruction! "
+    },
+    "3416": {
+        "Delay": 3,
+        "Text": "You see? You can't treat them like equals! "
+    },
+    "3419": {
+        "Delay": 2,
+        "Text": "They're striped savages! "
+    },
+    "3421": {
+        "Delay": 5,
+        "Text": "Stinging's the only thing they know! It's theirway! "
+    },
+    "3426": {
+        "Delay": 3,
+        "Text": "- Adam, stay with me. - I can't feel my legs. "
+    },
+    "3430": {
+        "Delay": 4,
+        "Text": "What angel of mercy will come forward to suck the poison "
+    },
+    "3434": {
+        "Delay": 2,
+        "Text": "from my heaving buttocks? "
+    },
+    "3436": {
+        "Delay": 3,
+        "Text": "I will have order in my court. Order! "
+    },
+    "3440": {
+        "Delay": 1,
+        "Text": "Order, please! "
+    },
+    "3443": {
+        "Delay": 3,
+        "Text": "The case of the honeybees versus the human race "
+    },
+    "3446": {
+        "Delay": 2,
+        "Text": "took a pointed turn against the bees yesterday "
+    },
+    "3448": {
+        "Delay": 4,
+        "Text": "when one of their legal team stung Layton T. Montgomery. "
+    },
+    "3467": {
+        "Delay": 2,
+        "Text": "- Hey, buddy. - Hey. "
+    },
+    "3469": {
+        "Delay": 2,
+        "Text": "- Is there much pain? - Yeah. "
+    },
+    "3473": {
+        "Delay": 2,
+        "Text": "I... "
+    },
+    "3476": {
+        "Delay": 2,
+        "Text": "- I blew the whole case, didn't I? - It doesn't matter. "
+    },
+    "3478": {
+        "Delay": 3,
+        "Text": "What matters is you're alive. You could have died. "
+    },
+    "3481": {
+        "Delay": 3,
+        "Text": "I'd be better off dead. Look at me. "
+    },
+    "3484": {
+        "Delay": 5,
+        "Text": "They got it from the cafeteria downstairs, in a tuna sandwich. "
+    },
+    "3489": {
+        "Delay": 3,
+        "Text": "Look, there's a little celery still on it. "
+    },
+    "3493": {
+        "Delay": 1,
+        "Text": "What was it like to sting someone? "
+    },
+    "3494": {
+        "Delay": 3,
+        "Text": "I can't explain it. It was all... "
+    },
+    "3497": {
+        "Delay": 3,
+        "Text": "All adrenaline and then... And then ecstasy! "
+    },
+    "3503": {
+        "Delay": 2,
+        "Text": "All right. "
+    },
+    "3505": {
+        "Delay": 2,
+        "Text": "You think it was all a trap? "
+    },
+    "3507": {
+        "Delay": 3,
+        "Text": "Of course. I'm sorry. I flew us right into this. "
+    },
+    "3510": {
+        "Delay": 2,
+        "Text": "What were we thinking? Look at us. "
+    },
+    "3512": {
+        "Delay": 3,
+        "Text": "We're just a couple of bugs in this world. "
+    },
+    "3515": {
+        "Delay": 2,
+        "Text": "What will the humans do to us ifthey win? "
+    },
+    "3517": {
+        "Delay": 1,
+        "Text": "I don't know. "
+    },
+    "3518": {
+        "Delay": 4,
+        "Text": "I hear they put the roaches in motels. That doesn't sound so bad. "
+    },
+    "3522": {
+        "Delay": 4,
+        "Text": "Adam, they check in, but they don't check out! "
+    },
+    "3526": {
+        "Delay": 1,
+        "Text": "Oh, my. "
+    },
+    "3529": {
+        "Delay": 3,
+        "Text": "Could you get a nurse to close that window? "
+    },
+    "3532": {
+        "Delay": 2,
+        "Text": "- Why? - The smoke. "
+    },
+    "3534": {
+        "Delay": 2,
+        "Text": "Bees don't smoke. "
+    },
+    "3536": {
+        "Delay": 3,
+        "Text": "Right. Bees don't smoke. "
+    },
+    "3540": {
+        "Delay": 4,
+        "Text": "Bees don't smoke! But some bees are smoking. "
+    },
+    "3544": {
+        "Delay": 2,
+        "Text": "That's it! That's our case! "
+    },
+    "3546": {
+        "Delay": 2,
+        "Text": "It is? It's not over? "
+    },
+    "3548": {
+        "Delay": 2,
+        "Text": "Get dressed. I've gotta go somewhere. "
+    },
+    "3550": {
+        "Delay": 3,
+        "Text": "Get back to the court and stall. Stall any way you can. "
+    },
+    "3556": {
+        "Delay": 3,
+        "Text": "And assuming you've done step 29 correctly, "
+    },
+    "3559": {
+        "Delay": 1,
+        "Text": "you're ready for the tub. "
+    },
+    "3566": {
+        "Delay": 2,
+        "Text": "Mr. Flayman. "
+    },
+    "3568": {
+        "Delay": 1,
+        "Text": "Yes? Yes, Your Honor! "
+    },
+    "3570": {
+        "Delay": 2,
+        "Text": "Where is the rest of your team? "
+    },
+    "3572": {
+        "Delay": 3,
+        "Text": "Well, Your Honor, it's interesting. "
+    },
+    "3575": {
+        "Delay": 2,
+        "Text": "Bees are trained to fly haphazardly, "
+    },
+    "3577": {
+        "Delay": 3,
+        "Text": "and as a result, we don't make very good time. "
+    },
+    "3581": {
+        "Delay": 2,
+        "Text": "I actually heard a funny story about... "
+    },
+    "3583": {
+        "Delay": 3,
+        "Text": "Your Honor, haven't these ridiculous bugs "
+    },
+    "3586": {
+        "Delay": 3,
+        "Text": "taken up enough of this court's valuable time? "
+    },
+    "3589": {
+        "Delay": 4,
+        "Text": "How much longerwill we allow these absurd shenanigans to go on? "
+    },
+    "3593": {
+        "Delay": 5,
+        "Text": "They have presented no compelling evidence to support their charges "
+    },
+    "3598": {
+        "Delay": 4,
+        "Text": "against my clients, who run legitimate businesses. "
+    },
+    "3603": {
+        "Delay": 3,
+        "Text": "I move for a complete dismissal of this entire case! "
+    },
+    "3607": {
+        "Delay": 1,
+        "Text": "Mr. Flayman, I'm afraid I'm going "
+    },
+    "3608": {
+        "Delay": 3,
+        "Text": "to have to consider Mr. Montgomery's motion. "
+    },
+    "3611": {
+        "Delay": 2,
+        "Text": "But you can't! We have a terrific case. "
+    },
+    "3613": {
+        "Delay": 3,
+        "Text": "Where is your proof? Where is the evidence? "
+    },
+    "3616": {
+        "Delay": 3,
+        "Text": "Show me the smoking gun! "
+    },
+    "3620": {
+        "Delay": 2,
+        "Text": "Hold it, Your Honor! You want a smoking gun? "
+    },
+    "3623": {
+        "Delay": 2,
+        "Text": "Here is your smoking gun. "
+    },
+    "3628": {
+        "Delay": 2,
+        "Text": "What is that? "
+    },
+    "3630": {
+        "Delay": 1,
+        "Text": "It's a bee smoker! "
+    },
+    "3631": {
+        "Delay": 3,
+        "Text": "What, this? This harmless little contraption? "
+    },
+    "3634": {
+        "Delay": 4,
+        "Text": "This couldn't hurt a fly, let alone a bee. "
+    },
+    "3644": {
+        "Delay": 2,
+        "Text": "Look at what has happened "
+    },
+    "3646": {
+        "Delay": 4,
+        "Text": "to bees who have never been asked, \"Smoking or non?\" "
+    },
+    "3650": {
+        "Delay": 2,
+        "Text": "Is this what nature intended for us? "
+    },
+    "3652": {
+        "Delay": 3,
+        "Text": "To be forcibly addicted to smoke machines "
+    },
+    "3655": {
+        "Delay": 3,
+        "Text": "in man-made wooden slat work camps? "
+    },
+    "3658": {
+        "Delay": 5,
+        "Text": "Living out our lives as honey slaves to the white man? "
+    },
+    "3665": {
+        "Delay": 4,
+        "Text": "- What are we gonna do? - He's playing the species card. "
+    },
+    "3669": {
+        "Delay": 4,
+        "Text": "Ladies and gentlemen, please, free these bees! "
+    },
+    "3673": {
+        "Delay": 3,
+        "Text": "Free the bees! Free the bees! "
+    },
+    "3677": {
+        "Delay": 1,
+        "Text": "Free the bees! "
+    },
+    "3678": {
+        "Delay": 3,
+        "Text": "Free the bees! Free the bees! "
+    },
+    "3681": {
+        "Delay": 4,
+        "Text": "The court finds in favor of the bees! "
+    },
+    "3685": {
+        "Delay": 2,
+        "Text": "Vanessa, we won! "
+    },
+    "3687": {
+        "Delay": 3,
+        "Text": "I knew you could do it! High-five! "
+    },
+    "3691": {
+        "Delay": 1,
+        "Text": "Sorry. "
+    },
+    "3692": {
+        "Delay": 3,
+        "Text": "I'm okay! You know what this means? "
+    },
+    "3695": {
+        "Delay": 2,
+        "Text": "All the honey will finally belong to the bees. "
+    },
+    "3697": {
+        "Delay": 3,
+        "Text": "Now we won't have to work so hard all the time. "
+    },
+    "3703": {
+        "Delay": 4,
+        "Text": "This is an unholy perversion of the balance of nature, Benson. "
+    },
+    "3707": {
+        "Delay": 2,
+        "Text": "You'll regret this. "
+    },
+    "3710": {
+        "Delay": 2,
+        "Text": "Barry, how much honey is out there? "
+    },
+    "3712": {
+        "Delay": 2,
+        "Text": "All right. One at a time. "
+    },
+    "3714": {
+        "Delay": 2,
+        "Text": "Barry, who are you wearing? "
+    },
+    "3716": {
+        "Delay": 3,
+        "Text": "My sweater is Ralph Lauren, and I have no pants. "
+    },
+    "3719": {
+        "Delay": 3,
+        "Text": "- What if Montgomery's right? - What do you mean? "
+    },
+    "3722": {
+        "Delay": 4,
+        "Text": "We've been living the bee way a long time, 27 million years. "
+    },
+    "3728": {
+        "Delay": 4,
+        "Text": "Congratulations on your victory. What will you demand as a settlement? "
+    },
+    "3732": {
+        "Delay": 4,
+        "Text": "First, we'll demand a complete shutdown of all bee work camps. "
+    },
+    "3738": {
+        "Delay": 3,
+        "Text": "Then we want back the honey that was ours to begin with, "
+    },
+    "3741": {
+        "Delay": 1,
+        "Text": "every last drop. "
+    },
+    "3742": {
+        "Delay": 4,
+        "Text": "We demand an end to the glorification of the bear as anything more "
+    },
+    "3747": {
+        "Delay": 2,
+        "Text": "than a filthy, smelly, bad-breath stink machine. "
+    },
+    "3750": {
+        "Delay": 2,
+        "Text": "We're all aware ofwhat they do in the woods. "
+    },
+    "3754": {
+        "Delay": 1,
+        "Text": "Wait for my signal. "
+    },
+    "3757": {
+        "Delay": 1,
+        "Text": "Take him out. "
+    },
+    "3760": {
+        "Delay": 3,
+        "Text": "He'll have nausea for a few hours, then he'll be fine. "
+    },
+    "3763": {
+        "Delay": 4,
+        "Text": "And we will no longer tolerate bee-negative nicknames... "
+    },
+    "3767": {
+        "Delay": 2,
+        "Text": "But it's just a prance-about stage name! "
+    },
+    "3769": {
+        "Delay": 3,
+        "Text": "...unnecessary inclusion of honey in bogus health products "
+    },
+    "3772": {
+        "Delay": 4,
+        "Text": "and la-dee-da human tea-time snack garnishments. "
+    },
+    "3778": {
+        "Delay": 1,
+        "Text": "Can't breathe. "
+    },
+    "3782": {
+        "Delay": 1,
+        "Text": "Bring it in, boys! "
+    },
+    "3785": {
+        "Delay": 2,
+        "Text": "Hold it right there! Good. "
+    },
+    "3789": {
+        "Delay": 1,
+        "Text": "Tap it. "
+    },
+    "3794": {
+        "Delay": 3,
+        "Text": "Mr. Buzzwell, we just passed three cups, "
+    },
+    "3797": {
+        "Delay": 2,
+        "Text": "and there's gallons more coming! "
+    },
+    "3799": {
+        "Delay": 4,
+        "Text": "- I think we need to shut down! - Shut down? We've never shut down. "
+    },
+    "3804": {
+        "Delay": 4,
+        "Text": "Shut down honey production! Stop making honey! "
+    },
+    "3813": {
+        "Delay": 1,
+        "Text": "Turn your key, sir! "
+    },
+    "3826": {
+        "Delay": 1,
+        "Text": "What do we do now? "
+    },
+    "3831": {
+        "Delay": 2,
+        "Text": "Cannonball! "
+    },
+    "3841": {
+        "Delay": 2,
+        "Text": "We're shutting down honey production! "
+    },
+    "3843": {
+        "Delay": 1,
+        "Text": "Mission abort. "
+    },
+    "3844": {
+        "Delay": 4,
+        "Text": "Aborting pollination and nectar detail. Returning to base. "
+    },
+    "3895": {
+        "Delay": 3,
+        "Text": "Adam, you wouldn't believe how much honey was out there. "
+    },
+    "3898": {
+        "Delay": 1,
+        "Text": "Oh, yeah? "
+    },
+    "3899": {
+        "Delay": 3,
+        "Text": "What's going on? Where is everybody? "
+    },
+    "3903": {
+        "Delay": 2,
+        "Text": "- Are they out celebrating? - They're home. "
+    },
+    "3905": {
+        "Delay": 4,
+        "Text": "They don't know what to do. Laying out, sleeping in. "
+    },
+    "3909": {
+        "Delay": 3,
+        "Text": "I heard your Uncle Carl was on his way to San Antonio with a cricket. "
+    },
+    "3912": {
+        "Delay": 1,
+        "Text": "At least we got our honey back. "
+    },
+    "3913": {
+        "Delay": 5,
+        "Text": "Sometimes I think, so what if humans liked our honey? Who wouldn't? "
+    },
+    "3918": {
+        "Delay": 4,
+        "Text": "It's the greatest thing in the world! I was excited to be part of making it. "
+    },
+    "3923": {
+        "Delay": 3,
+        "Text": "This was my new desk. This was my new job. "
+    },
+    "3926": {
+        "Delay": 3,
+        "Text": "I wanted to do it really well. And now... "
+    },
+    "3930": {
+        "Delay": 2,
+        "Text": "Now I can't. "
+    },
+    "3942": {
+        "Delay": 3,
+        "Text": "I don't understand why they're not happy. "
+    },
+    "3945": {
+        "Delay": 3,
+        "Text": "I thought their lives would be better! "
+    },
+    "3948": {
+        "Delay": 3,
+        "Text": "They're doing nothing. It's amazing. Honey really changes people. "
+    },
+    "3951": {
+        "Delay": 3,
+        "Text": "You don't have any idea what's going on, do you? "
+    },
+    "3955": {
+        "Delay": 2,
+        "Text": "- What did you want to show me? - This. "
+    },
+    "3959": {
+        "Delay": 2,
+        "Text": "What happened here? "
+    },
+    "3961": {
+        "Delay": 2,
+        "Text": "That is not the half of it. "
+    },
+    "3969": {
+        "Delay": 2,
+        "Text": "Oh, no. Oh, my. "
+    },
+    "3972": {
+        "Delay": 2,
+        "Text": "They're all wilting. "
+    },
+    "3974": {
+        "Delay": 2,
+        "Text": "Doesn't look very good, does it? "
+    },
+    "3976": {
+        "Delay": 1,
+        "Text": "No. "
+    },
+    "3978": {
+        "Delay": 2,
+        "Text": "And whose fault do you think that is? "
+    },
+    "3983": {
+        "Delay": 1,
+        "Text": "You know, I'm gonna guess bees. "
+    },
+    "3984": {
+        "Delay": 4,
+        "Text": "- Bees? - Specifically, me. "
+    },
+    "3988": {
+        "Delay": 4,
+        "Text": "I didn't think bees not needing to make honey would affect all these things. "
+    },
+    "3992": {
+        "Delay": 5,
+        "Text": "It's not just flowers. Fruits, vegetables, they all need bees. "
+    },
+    "3997": {
+        "Delay": 3,
+        "Text": "That's ourwhole SAT test right there. "
+    },
+    "4000": {
+        "Delay": 4,
+        "Text": "Take away produce, that affects the entire animal kingdom. "
+    },
+    "4004": {
+        "Delay": 2,
+        "Text": "And then, of course... "
+    },
+    "4006": {
+        "Delay": 2,
+        "Text": "The human species? "
+    },
+    "4010": {
+        "Delay": 3,
+        "Text": "So if there's no more pollination, "
+    },
+    "4013": {
+        "Delay": 2,
+        "Text": "it could all just go south here, couldn't it? "
+    },
+    "4015": {
+        "Delay": 4,
+        "Text": "I know this is also partly my fault. "
+    },
+    "4023": {
+        "Delay": 2,
+        "Text": "How about a suicide pact? "
+    },
+    "4025": {
+        "Delay": 1,
+        "Text": "How do we do it? "
+    },
+    "4026": {
+        "Delay": 4,
+        "Text": "- I'll sting you, you step on me. - Thatjust kills you twice. "
+    },
+    "4030": {
+        "Delay": 1,
+        "Text": "Right, right. "
+    },
+    "4032": {
+        "Delay": 4,
+        "Text": "Listen, Barry, sorry, but I gotta get going. "
+    },
+    "4043": {
+        "Delay": 2,
+        "Text": "I had to open my mouth and talk. "
+    },
+    "4048": {
+        "Delay": 1,
+        "Text": "Vanessa? "
+    },
+    "4052": {
+        "Delay": 3,
+        "Text": "Vanessa? Why are you leaving? Where are you going? "
+    },
+    "4055": {
+        "Delay": 3,
+        "Text": "To the final Tournament of Roses parade in Pasadena. "
+    },
+    "4058": {
+        "Delay": 4,
+        "Text": "They've moved it to this weekend because all the flowers are dying. "
+    },
+    "4062": {
+        "Delay": 4,
+        "Text": "It's the last chance I'll ever have to see it. "
+    },
+    "4066": {
+        "Delay": 4,
+        "Text": "Vanessa, I just wanna say I'm sorry. I never meant it to turn out like this. "
+    },
+    "4070": {
+        "Delay": 2,
+        "Text": "I know. Me neither. "
+    },
+    "4075": {
+        "Delay": 3,
+        "Text": "Tournament of Roses. Roses can't do sports. "
+    },
+    "4079": {
+        "Delay": 4,
+        "Text": "Wait a minute. Roses. Roses? "
+    },
+    "4083": {
+        "Delay": 2,
+        "Text": "Roses! "
+    },
+    "4085": {
+        "Delay": 2,
+        "Text": "Vanessa! "
+    },
+    "4088": {
+        "Delay": 1,
+        "Text": "Roses? "
+    },
+    "4090": {
+        "Delay": 1,
+        "Text": "Barry? "
+    },
+    "4091": {
+        "Delay": 3,
+        "Text": "- Roses are flowers! - Yes, they are. "
+    },
+    "4094": {
+        "Delay": 3,
+        "Text": "Flowers, bees, pollen! "
+    },
+    "4097": {
+        "Delay": 3,
+        "Text": "I know. That's why this is the last parade. "
+    },
+    "4101": {
+        "Delay": 4,
+        "Text": "Maybe not. Could you ask him to slow down? "
+    },
+    "4105": {
+        "Delay": 1,
+        "Text": "Could you slow down? "
+    },
+    "4109": {
+        "Delay": 1,
+        "Text": "Barry! "
+    },
+    "4110": {
+        "Delay": 4,
+        "Text": "Okay, I made a huge mistake. This is a total disaster, all my fault. "
+    },
+    "4114": {
+        "Delay": 2,
+        "Text": "Yes, it kind of is. "
+    },
+    "4116": {
+        "Delay": 3,
+        "Text": "I've ruined the planet. I wanted to help you with the flower shop. "
+    },
+    "4119": {
+        "Delay": 1,
+        "Text": "I've made it worse. "
+    },
+    "4120": {
+        "Delay": 3,
+        "Text": "Actually, it's completely closed down. "
+    },
+    "4123": {
+        "Delay": 2,
+        "Text": "I thought maybe you were remodeling. "
+    },
+    "4125": {
+        "Delay": 2,
+        "Text": "But I have another idea, "
+    },
+    "4127": {
+        "Delay": 2,
+        "Text": "and it's greater than my previous ideas combined. "
+    },
+    "4129": {
+        "Delay": 2,
+        "Text": "I don't want to hear it! "
+    },
+    "4132": {
+        "Delay": 4,
+        "Text": "All right, they have the roses, the roses have the pollen. "
+    },
+    "4136": {
+        "Delay": 3,
+        "Text": "I know every bee, plant and flower bud in this park. "
+    },
+    "4139": {
+        "Delay": 4,
+        "Text": "All we gotta do is get what they've got back here with what we've got. "
+    },
+    "4143": {
+        "Delay": 1,
+        "Text": "- Bees. - Park. "
+    },
+    "4144": {
+        "Delay": 1,
+        "Text": "- Pollen! - Flowers. "
+    },
+    "4145": {
+        "Delay": 3,
+        "Text": "- Repollination! - Across the nation! "
+    },
+    "4149": {
+        "Delay": 3,
+        "Text": "Tournament of Roses, Pasadena, California. "
+    },
+    "4152": {
+        "Delay": 3,
+        "Text": "They've got nothing but flowers, floats and cotton candy. "
+    },
+    "4155": {
+        "Delay": 1,
+        "Text": "Security will be tight. "
+    },
+    "4157": {
+        "Delay": 1,
+        "Text": "I have an idea. "
+    },
+    "4158": {
+        "Delay": 2,
+        "Text": "Vanessa Bloome, FTD. "
+    },
+    "4160": {
+        "Delay": 2,
+        "Text": "Official floral business. It's real. "
+    },
+    "4163": {
+        "Delay": 2,
+        "Text": "Sorry, ma'am. Nice brooch. "
+    },
+    "4165": {
+        "Delay": 2,
+        "Text": "Thank you. It was a gift. "
+    },
+    "4168": {
+        "Delay": 2,
+        "Text": "Once inside, we just pick the right float. "
+    },
+    "4172": {
+        "Delay": 1,
+        "Text": "How aboutThe Princess and the Pea? "
+    },
+    "4174": {
+        "Delay": 3,
+        "Text": "I could be the princess, and you could be the pea! "
+    },
+    "4177": {
+        "Delay": 1,
+        "Text": "Yes, I got it. "
+    },
+    "4180": {
+        "Delay": 2,
+        "Text": "- Where should I sit? - What are you? "
+    },
+    "4182": {
+        "Delay": 2,
+        "Text": "- I believe I'm the pea. - The pea? "
+    },
+    "4184": {
+        "Delay": 2,
+        "Text": "It goes under the mattresses. "
+    },
+    "4186": {
+        "Delay": 3,
+        "Text": "- Not in this fairy tale, sweetheart. - I'm getting the marshal. "
+    },
+    "4189": {
+        "Delay": 3,
+        "Text": "You do that! This whole parade is a fiasco! "
+    },
+    "4194": {
+        "Delay": 2,
+        "Text": "Let's see what this baby'll do. "
+    },
+    "4197": {
+        "Delay": 2,
+        "Text": "Hey, what are you doing? "
+    },
+    "4201": {
+        "Delay": 5,
+        "Text": "Then all we do is blend in with traffic, without arousing suspicion. "
+    },
+    "4209": {
+        "Delay": 3,
+        "Text": "Once at the airport, there's no stopping us. "
+    },
+    "4212": {
+        "Delay": 1,
+        "Text": "Stop! Security. "
+    },
+    "4213": {
+        "Delay": 2,
+        "Text": "- You and your insect pack your float? - Yes. "
+    },
+    "4215": {
+        "Delay": 3,
+        "Text": "Has it been in your possession the entire time? "
+    },
+    "4218": {
+        "Delay": 2,
+        "Text": "Would you remove your shoes? "
+    },
+    "4220": {
+        "Delay": 2,
+        "Text": "- Remove your stinger. - It's part of me. "
+    },
+    "4222": {
+        "Delay": 3,
+        "Text": "I know. Just having some fun. Enjoy your flight. "
+    },
+    "4232": {
+        "Delay": 4,
+        "Text": "Then ifwe're lucky, we'll have just enough pollen to do the job. "
+    },
+    "4237": {
+        "Delay": 1,
+        "Text": "Can you believe how lucky we are? "
+    },
+    "4239": {
+        "Delay": 2,
+        "Text": "We have just enough pollen to do the job! "
+    },
+    "4241": {
+        "Delay": 1,
+        "Text": "I think this is gonna work. "
+    },
+    "4242": {
+        "Delay": 2,
+        "Text": "It's got to work. "
+    },
+    "4244": {
+        "Delay": 2,
+        "Text": "Attention, passengers, this is Captain Scott. "
+    },
+    "4246": {
+        "Delay": 2,
+        "Text": "We have a bit of bad weather in New York. "
+    },
+    "4249": {
+        "Delay": 2,
+        "Text": "It looks like we'll experience a couple hours delay. "
+    },
+    "4251": {
+        "Delay": 3,
+        "Text": "Barry, these are cut flowers with no water. "
+    },
+    "4254": {
+        "Delay": 1,
+        "Text": "They'll never make it. "
+    },
+    "4255": {
+        "Delay": 3,
+        "Text": "I gotta get up there and talk to them. "
+    },
+    "4258": {
+        "Delay": 1,
+        "Text": "Be careful. "
+    },
+    "4262": {
+        "Delay": 2,
+        "Text": "Can I get help with the Sky Mall magazine? "
+    },
+    "4264": {
+        "Delay": 4,
+        "Text": "I'd like to order the talking inflatable nose and ear hair trimmer. "
+    },
+    "4272": {
+        "Delay": 2,
+        "Text": "Captain, I'm in a real situation. "
+    },
+    "4274": {
+        "Delay": 2,
+        "Text": "- What'd you say, Hal? - Nothing. "
+    },
+    "4276": {
+        "Delay": 2,
+        "Text": "Bee! "
+    },
+    "4278": {
+        "Delay": 2,
+        "Text": "Don't freak out! My entire species... "
+    },
+    "4285": {
+        "Delay": 1,
+        "Text": "What are you doing? "
+    },
+    "4291": {
+        "Delay": 3,
+        "Text": "- Wait a minute! I'm an attorney! - Who's an attorney? "
+    },
+    "4294": {
+        "Delay": 2,
+        "Text": "Don't move. "
+    },
+    "4301": {
+        "Delay": 1,
+        "Text": "Oh, Barry. "
+    },
+    "4303": {
+        "Delay": 3,
+        "Text": "Good afternoon, passengers. This is your captain. "
+    },
+    "4306": {
+        "Delay": 4,
+        "Text": "Would a Miss Vanessa Bloome in 24B please report to the cockpit? "
+    },
+    "4310": {
+        "Delay": 2,
+        "Text": "And please hurry! "
+    },
+    "4314": {
+        "Delay": 2,
+        "Text": "What happened here? "
+    },
+    "4316": {
+        "Delay": 3,
+        "Text": "There was a DustBuster, a toupee, a life raft exploded. "
+    },
+    "4319": {
+        "Delay": 3,
+        "Text": "One's bald, one's in a boat, they're both unconscious! "
+    },
+    "4323": {
+        "Delay": 2,
+        "Text": "- Is that another bee joke? - No! "
+    },
+    "4325": {
+        "Delay": 2,
+        "Text": "No one's flying the plane! "
+    },
+    "4327": {
+        "Delay": 4,
+        "Text": "This is JFK control tower, Flight 356. What's your status? "
+    },
+    "4331": {
+        "Delay": 3,
+        "Text": "This is Vanessa Bloome. I'm a florist from New York. "
+    },
+    "4334": {
+        "Delay": 2,
+        "Text": "Where's the pilot? "
+    },
+    "4336": {
+        "Delay": 2,
+        "Text": "He's unconscious, and so is the copilot. "
+    },
+    "4338": {
+        "Delay": 4,
+        "Text": "Not good. Does anyone on board have flight experience? "
+    },
+    "4342": {
+        "Delay": 1,
+        "Text": "As a matter offact, there is. "
+    },
+    "4343": {
+        "Delay": 2,
+        "Text": "- Who's that? - Barry Benson. "
+    },
+    "4345": {
+        "Delay": 3,
+        "Text": "From the honey trial? Oh, great. "
+    },
+    "4348": {
+        "Delay": 2,
+        "Text": "Vanessa, this is nothing more than a big metal bee. "
+    },
+    "4350": {
+        "Delay": 2,
+        "Text": "It's got giant wings, huge engines. "
+    },
+    "4352": {
+        "Delay": 2,
+        "Text": "I can't fly a plane. "
+    },
+    "4354": {
+        "Delay": 2,
+        "Text": "- Why not? Isn't John Travolta a pilot? - Yes. "
+    },
+    "4356": {
+        "Delay": 2,
+        "Text": "How hard could it be? "
+    },
+    "4359": {
+        "Delay": 3,
+        "Text": "Wait, Barry! We're headed into some lightning. "
+    },
+    "4365": {
+        "Delay": 4,
+        "Text": "This is Bob Bumble. We have some late-breaking news from JFK Airport, "
+    },
+    "4369": {
+        "Delay": 3,
+        "Text": "where a suspenseful scene is developing. "
+    },
+    "4372": {
+        "Delay": 3,
+        "Text": "Barry Benson, fresh from his legal victory... "
+    },
+    "4375": {
+        "Delay": 1,
+        "Text": "That's Barry! "
+    },
+    "4376": {
+        "Delay": 3,
+        "Text": "...is attempting to land a plane, loaded with people, flowers "
+    },
+    "4380": {
+        "Delay": 2,
+        "Text": "and an incapacitated flight crew. "
+    },
+    "4382": {
+        "Delay": 1,
+        "Text": "Flowers? "
+    },
+    "4383": {
+        "Delay": 4,
+        "Text": "We have a storm in the area and two individuals at the controls "
+    },
+    "4387": {
+        "Delay": 3,
+        "Text": "with absolutely no flight experience. "
+    },
+    "4390": {
+        "Delay": 3,
+        "Text": "Just a minute. There's a bee on that plane. "
+    },
+    "4393": {
+        "Delay": 4,
+        "Text": "I'm quite familiarwith Mr. Benson and his no-account compadres. "
+    },
+    "4397": {
+        "Delay": 2,
+        "Text": "They've done enough damage. "
+    },
+    "4399": {
+        "Delay": 2,
+        "Text": "But isn't he your only hope? "
+    },
+    "4401": {
+        "Delay": 2,
+        "Text": "Technically, a bee shouldn't be able to fly at all. "
+    },
+    "4404": {
+        "Delay": 1,
+        "Text": "Theirwings are too small... "
+    },
+    "4406": {
+        "Delay": 2,
+        "Text": "Haven't we heard this a million times? "
+    },
+    "4408": {
+        "Delay": 4,
+        "Text": "\"The surface area of the wings and body mass make no sense.\" "
+    },
+    "4412": {
+        "Delay": 1,
+        "Text": "- Get this on the air! - Got it. "
+    },
+    "4414": {
+        "Delay": 1,
+        "Text": "- Stand by. - We're going live. "
+    },
+    "4416": {
+        "Delay": 3,
+        "Text": "The way we work may be a mystery to you. "
+    },
+    "4419": {
+        "Delay": 4,
+        "Text": "Making honey takes a lot of bees doing a lot of small jobs. "
+    },
+    "4423": {
+        "Delay": 2,
+        "Text": "But let me tell you about a small job. "
+    },
+    "4425": {
+        "Delay": 3,
+        "Text": "If you do it well, it makes a big difference. "
+    },
+    "4428": {
+        "Delay": 3,
+        "Text": "More than we realized. To us, to everyone. "
+    },
+    "4431": {
+        "Delay": 4,
+        "Text": "That's why I want to get bees back to working together. "
+    },
+    "4435": {
+        "Delay": 1,
+        "Text": "That's the bee way! "
+    },
+    "4436": {
+        "Delay": 4,
+        "Text": "We're not made of Jell-O. We get behind a fellow. "
+    },
+    "4440": {
+        "Delay": 2,
+        "Text": "- Black and yellow! - Hello! "
+    },
+    "4446": {
+        "Delay": 2,
+        "Text": "Left, right, down, hover. "
+    },
+    "4448": {
+        "Delay": 1,
+        "Text": "- Hover? - Forget hover. "
+    },
+    "4450": {
+        "Delay": 2,
+        "Text": "This isn't so hard. Beep-beep! Beep-beep! "
+    },
+    "4455": {
+        "Delay": 2,
+        "Text": "Barry, what happened? "
+    },
+    "4457": {
+        "Delay": 3,
+        "Text": "Wait, I think we were on autopilot the whole time. "
+    },
+    "4460": {
+        "Delay": 3,
+        "Text": "- That may have been helping me. - And now we're not! "
+    },
+    "4463": {
+        "Delay": 3,
+        "Text": "So it turns out I cannot fly a plane. "
+    },
+    "4469": {
+        "Delay": 4,
+        "Text": "All of you, let's get behind this fellow! Move it out! "
+    },
+    "4474": {
+        "Delay": 1,
+        "Text": "Move out! "
+    },
+    "4483": {
+        "Delay": 2,
+        "Text": "Our only chance is if I do what I'd do, "
+    },
+    "4485": {
+        "Delay": 2,
+        "Text": "you copy me with the wings of the plane! "
+    },
+    "4487": {
+        "Delay": 1,
+        "Text": "Don't have to yell. "
+    },
+    "4488": {
+        "Delay": 3,
+        "Text": "I'm not yelling! We're in a lot oftrouble. "
+    },
+    "4491": {
+        "Delay": 4,
+        "Text": "It's very hard to concentrate with that panicky tone in your voice! "
+    },
+    "4495": {
+        "Delay": 3,
+        "Text": "It's not a tone. I'm panicking! "
+    },
+    "4508": {
+        "Delay": 2,
+        "Text": "I can't do this! "
+    },
+    "4510": {
+        "Delay": 3,
+        "Text": "Vanessa, pull yourselftogether. You have to snap out of it! "
+    },
+    "4513": {
+        "Delay": 1,
+        "Text": "You snap out of it. "
+    },
+    "4515": {
+        "Delay": 1,
+        "Text": "You snap out of it. "
+    },
+    "4516": {
+        "Delay": 2,
+        "Text": "- You snap out of it! - You snap out of it! "
+    },
+    "4518": {
+        "Delay": 3,
+        "Text": "- You snap out of it! - You snap out of it! "
+    },
+    "4541": {
+        "Delay": 2,
+        "Text": "- You snap out of it! - You snap out of it! "
+    },
+    "4543": {
+        "Delay": 2,
+        "Text": "- Hold it! - Why? Come on, it's my turn. "
+    },
+    "4546": {
+        "Delay": 2,
+        "Text": "How is the plane flying? "
+    },
+    "4548": {
+        "Delay": 1,
+        "Text": "I don't know. "
+    },
+    "4550": {
+        "Delay": 1,
+        "Text": "Hello? "
+    },
+    "4551": {
+        "Delay": 3,
+        "Text": "Benson, got any flowers for a happy occasion in there? "
+    },
+    "4554": {
+        "Delay": 2,
+        "Text": "The Pollen Jocks! "
+    },
+    "4556": {
+        "Delay": 2,
+        "Text": "They do get behind a fellow. "
+    },
+    "4558": {
+        "Delay": 1,
+        "Text": "- Black and yellow. - Hello. "
+    },
+    "4559": {
+        "Delay": 4,
+        "Text": "All right, let's drop this tin can on the blacktop. "
+    },
+    "4563": {
+        "Delay": 2,
+        "Text": "Where? I can't see anything. Can you? "
+    },
+    "4566": {
+        "Delay": 2,
+        "Text": "No, nothing. It's all cloudy. "
+    },
+    "4568": {
+        "Delay": 2,
+        "Text": "Come on. You got to think bee, Barry. "
+    },
+    "4570": {
+        "Delay": 2,
+        "Text": "- Thinking bee. - Thinking bee. "
+    },
+    "4572": {
+        "Delay": 4,
+        "Text": "Thinking bee! Thinking bee! Thinking bee! "
+    },
+    "4576": {
+        "Delay": 2,
+        "Text": "Wait a minute. I think I'm feeling something. "
+    },
+    "4579": {
+        "Delay": 2,
+        "Text": "- What? - I don't know. It's strong, pulling me. "
+    },
+    "4581": {
+        "Delay": 3,
+        "Text": "Like a 27-million-year-old instinct. "
+    },
+    "4584": {
+        "Delay": 1,
+        "Text": "Bring the nose down. "
+    },
+    "4588": {
+        "Delay": 3,
+        "Text": "Thinking bee! Thinking bee! Thinking bee! "
+    },
+    "4592": {
+        "Delay": 4,
+        "Text": "- What in the world is on the tarmac? - Get some lights on that! "
+    },
+    "4596": {
+        "Delay": 4,
+        "Text": "Thinking bee! Thinking bee! Thinking bee! "
+    },
+    "4600": {
+        "Delay": 2,
+        "Text": "- Vanessa, aim for the flower. - Okay. "
+    },
+    "4602": {
+        "Delay": 1,
+        "Text": "Cut the engines. "
+    },
+    "4604": {
+        "Delay": 2,
+        "Text": "We're going in on bee power. Ready, boys? "
+    },
+    "4606": {
+        "Delay": 1,
+        "Text": "Affirmative! "
+    },
+    "4610": {
+        "Delay": 3,
+        "Text": "Good. Good. Easy, now. That's it. "
+    },
+    "4613": {
+        "Delay": 1,
+        "Text": "Land on that flower! "
+    },
+    "4615": {
+        "Delay": 1,
+        "Text": "Ready? Full reverse! "
+    },
+    "4616": {
+        "Delay": 1,
+        "Text": "Spin it around! "
+    },
+    "4621": {
+        "Delay": 2,
+        "Text": "- Not that flower! The other one! - Which one? "
+    },
+    "4623": {
+        "Delay": 2,
+        "Text": "- That flower. - I'm aiming at the flower! "
+    },
+    "4625": {
+        "Delay": 5,
+        "Text": "That's a fat guy in a flowered shirt. I mean the giant pulsating flower "
+    },
+    "4630": {
+        "Delay": 3,
+        "Text": "made of millions of bees! "
+    },
+    "4633": {
+        "Delay": 3,
+        "Text": "Pull forward. Nose down. Tail up. "
+    },
+    "4636": {
+        "Delay": 2,
+        "Text": "Rotate around it. "
+    },
+    "4639": {
+        "Delay": 3,
+        "Text": "- This is insane, Barry! - This is the only way I know how to fly. "
+    },
+    "4642": {
+        "Delay": 4,
+        "Text": "Am I koo-koo-kachoo, or is this plane flying in an insect-like pattern? "
+    },
+    "4646": {
+        "Delay": 4,
+        "Text": "Get your nose in there. Don't be afraid. Smell it. Full reverse! "
+    },
+    "4650": {
+        "Delay": 2,
+        "Text": "Just drop it. Be a part of it. "
+    },
+    "4652": {
+        "Delay": 5,
+        "Text": "Aim for the center! Now drop it in! Drop it in, woman! "
+    },
+    "4668": {
+        "Delay": 1,
+        "Text": "Come on, already. "
+    },
+    "4674": {
+        "Delay": 4,
+        "Text": "Barry, we did it! You taught me how to fly! "
+    },
+    "4678": {
+        "Delay": 2,
+        "Text": "- Yes. No high-five! - Right. "
+    },
+    "4680": {
+        "Delay": 3,
+        "Text": "Barry, it worked! Did you see the giant flower? "
+    },
+    "4683": {
+        "Delay": 5,
+        "Text": "What giant flower? Where? Of course I saw the flower! That was genius! "
+    },
+    "4688": {
+        "Delay": 2,
+        "Text": "- Thank you. - But we're not done yet. "
+    },
+    "4699": {
+        "Delay": 2,
+        "Text": "Listen, everyone! "
+    },
+    "4701": {
+        "Delay": 2,
+        "Text": "This runway is covered with the last pollen "
+    },
+    "4703": {
+        "Delay": 3,
+        "Text": "from the last flowers available anywhere on Earth. "
+    },
+    "4706": {
+        "Delay": 3,
+        "Text": "That means this is our last chance. "
+    },
+    "4709": {
+        "Delay": 5,
+        "Text": "We're the only ones who make honey, pollinate flowers and dress like this. "
+    },
+    "4714": {
+        "Delay": 3,
+        "Text": "Ifwe're gonna survive as a species, this is our moment! "
+    },
+    "4718": {
+        "Delay": 1,
+        "Text": "What do you say? "
+    },
+    "4719": {
+        "Delay": 5,
+        "Text": "Are we going to be bees, or just Museum of Natural History keychains? "
+    },
+    "4724": {
+        "Delay": 2,
+        "Text": "We're bees! "
+    },
+    "4726": {
+        "Delay": 1,
+        "Text": "Keychain! "
+    },
+    "4727": {
+        "Delay": 4,
+        "Text": "Then follow me! Except Keychain. "
+    },
+    "4731": {
+        "Delay": 2,
+        "Text": "Hold on, Barry. Here. "
+    },
+    "4733": {
+        "Delay": 2,
+        "Text": "You've earned this. "
+    },
+    "4741": {
+        "Delay": 2,
+        "Text": "Yeah! "
+    },
+    "4746": {
+        "Delay": 5,
+        "Text": "I'm a Pollen Jock! And it's a perfect fit. All I gotta do are the sleeves. "
+    },
+    "4755": {
+        "Delay": 1,
+        "Text": "Oh, yeah. "
+    },
+    "4756": {
+        "Delay": 2,
+        "Text": "That's our Barry. "
+    },
+    "4762": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4765": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4767": {
+        "Delay": 4,
+        "Text": "<i>\u266a And I say, it's all right \u266a</i> "
+    },
+    "4774": {
+        "Delay": 2,
+        "Text": "<i>\u266a Little darling \u266a</i> "
+    },
+    "4776": {
+        "Delay": 4,
+        "Text": "<i>\u266a it's been a long, cold, lonely winter \u266a</i> "
+    },
+    "4781": {
+        "Delay": 6,
+        "Text": "<i>\u266a Little darling it feels like years since it's been here \u266a</i> "
+    },
+    "4788": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4792": {
+        "Delay": 5,
+        "Text": "<i>\u266a Here comes the sun And I say, it's all right \u266a</i> "
+    },
+    "4804": {
+        "Delay": 2,
+        "Text": "<i>\u266a Little darling \u266a</i> "
+    },
+    "4806": {
+        "Delay": 4,
+        "Text": "<i>\u266a The smiles returning to the faces \u266a</i> "
+    },
+    "4811": {
+        "Delay": 2,
+        "Text": "<i>\u266a Little darling \u266a</i> "
+    },
+    "4813": {
+        "Delay": 4,
+        "Text": "<i>\u266a it seems like years since it's been here \u266a</i> "
+    },
+    "4819": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4822": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4824": {
+        "Delay": 4,
+        "Text": "<i>\u266a And I say, it's all right \u266a</i> "
+    },
+    "4828": {
+        "Delay": 2,
+        "Text": "Mom! The bees are back! "
+    },
+    "4840": {
+        "Delay": 3,
+        "Text": "Sun, sun, sun, here it comes! "
+    },
+    "4843": {
+        "Delay": 2,
+        "Text": "If anybody needs to make a call, now's the time. "
+    },
+    "4845": {
+        "Delay": 3,
+        "Text": "I got a feeling we'll be working late tonight! "
+    },
+    "4857": {
+        "Delay": 5,
+        "Text": "<i>\u266a Little darling I feel the ice is slowly melting \u266a</i> "
+    },
+    "4862": {
+        "Delay": 3,
+        "Text": "Here's your change. Have a great afternoon! "
+    },
+    "4865": {
+        "Delay": 2,
+        "Text": "Can I help who's next? "
+    },
+    "4867": {
+        "Delay": 5,
+        "Text": "Would you like some honey with that? It is bee-approved. Don't forget these. "
+    },
+    "4872": {
+        "Delay": 4,
+        "Text": "Milk, cream, cheese, it's all me. And I don't see a nickel! "
+    },
+    "4877": {
+        "Delay": 3,
+        "Text": "Sometimes I just feel like a piece of meat! "
+    },
+    "4881": {
+        "Delay": 1,
+        "Text": "I had no idea. "
+    },
+    "4882": {
+        "Delay": 2,
+        "Text": "Barry, I'm sorry. Have you got a moment? "
+    },
+    "4884": {
+        "Delay": 4,
+        "Text": "Would you excuse me? My mosquito associate will help you. "
+    },
+    "4888": {
+        "Delay": 1,
+        "Text": "Sorry I'm late. "
+    },
+    "4889": {
+        "Delay": 1,
+        "Text": "He's a lawyer, too? "
+    },
+    "4890": {
+        "Delay": 5,
+        "Text": "I was already a blood-sucking parasite. All I needed was a briefcase. "
+    },
+    "4895": {
+        "Delay": 2,
+        "Text": "Have a great afternoon! "
+    },
+    "4897": {
+        "Delay": 4,
+        "Text": "Barry, I just got this huge tulip order, and I can't get them anywhere. "
+    },
+    "4901": {
+        "Delay": 3,
+        "Text": "No problem, Vannie. Just leave it to me. "
+    },
+    "4904": {
+        "Delay": 2,
+        "Text": "You're a lifesaver, Barry. Can I help who's next? "
+    },
+    "4907": {
+        "Delay": 3,
+        "Text": "All right, scramble, Jocks! It's time to fly. "
+    },
+    "4910": {
+        "Delay": 2,
+        "Text": "Thank you, Barry! "
+    },
+    "4914": {
+        "Delay": 3,
+        "Text": "That bee is living my life! "
+    },
+    "4917": {
+        "Delay": 1,
+        "Text": "Let it go, Kenny. "
+    },
+    "4918": {
+        "Delay": 2,
+        "Text": "- When will this nightmare end? - Let it all go. "
+    },
+    "4922": {
+        "Delay": 3,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4925": {
+        "Delay": 2,
+        "Text": "<i>\u266a Here comes the sun \u266a</i> "
+    },
+    "4927": {
+        "Delay": 2,
+        "Text": "- Beautiful day to fly. - Sure is. "
+    },
+    "4929": {
+        "Delay": 4,
+        "Text": "Between you and me, I was dying to get out of that office. "
+    },
+    "4935": {
+        "Delay": 2,
+        "Text": "<i>\u266a It's all right \u266a</i> "
+    },
+    "5382": {
+        "Delay": 3,
+        "Text": "You have got to start thinking bee, my friend. "
+    },
+    "5385": {
+        "Delay": 2,
+        "Text": "- Thinking bee! - Me? "
+    },
+    "5387": {
+        "Delay": 4,
+        "Text": "Thinking bee! Thinking bee! Get smart and start thinking bee! "
+    },
+    "5391": {
+        "Delay": 1,
+        "Text": "Gee! "
+    },
+    "5392": {
+        "Delay": 2,
+        "Text": "<i>\u266a - Flying here and buzzing there \u266a \u266a - I'm loving the views \u266a</i> "
+    },
+    "5394": {
+        "Delay": 5,
+        "Text": "<i>\u266a Listen to me, cousin Every buzzer must choose to be a bee \u266a</i> "
+    },
+    "5399": {
+        "Delay": 3,
+        "Text": "<i>\u266a - Or not to be \u266a \u266a - Start thinking bee \u266a</i> "
+    },
+    "5402": {
+        "Delay": 3,
+        "Text": "<i>\u266a - Barry, you got no occupation \u266a \u266a - You mean like pollination? \u266a</i> "
+    },
+    "5405": {
+        "Delay": 3,
+        "Text": "<i>\u266a - Hey, now, that's thinking bee! \u266a \u266a - Start thinking bee \u266a</i> "
+    },
+    "5408": {
+        "Delay": 2,
+        "Text": "<i>\u266a Listen, fella Ain't you been on the tour? \u266a</i> "
+    },
+    "5410": {
+        "Delay": 3,
+        "Text": "<i>\u266a - Your stripes are black and yella \u266a \u266a - I just want to be sure \u266a</i> "
+    },
+    "5413": {
+        "Delay": 2,
+        "Text": "<i>\u266a - To be a bee \u266a \u266a - Start thinking bee \u266a</i> "
+    },
+    "5415": {
+        "Delay": 3,
+        "Text": "<i>\u266a - Can't I wait and see? \u266a \u266a - No, Barry, that's not to be \u266a</i> "
+    },
+    "5418": {
+        "Delay": 3,
+        "Text": "<i>\u266a Be a busy little bee Not a tizzy little bee \u266a</i> "
+    },
+    "5421": {
+        "Delay": 3,
+        "Text": "Hold it. Let's just stop for a second. Hold it. "
+    },
+    "5424": {
+        "Delay": 4,
+        "Text": "I'm sorry. I'm sorry, everyone. Can we stop here? "
+    },
+    "5428": {
+        "Delay": 3,
+        "Text": "I'm not making a major life decision during a production number! "
+    },
+    "5431": {
+        "Delay": 3,
+        "Text": "All right. Take ten, everybody. Wrap it up, guys. "
     }
 }

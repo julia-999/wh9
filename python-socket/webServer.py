@@ -1,38 +1,95 @@
 import asyncio
 import websockets
+import json
+import time
+import threading
 
-# def getSubtitle(status, timestamp):
-#     # Remote SQL
-#     try:
-#         with conn.cursor() as cur:
-#             cur.execute(stmt)
-#             row = cur.fetchone()
-#             conn.commit()
-#             if row: print(row[0])
-#     except ProgrammingError:
-#         return
-    
-#     # Local Dict
-    
-CONNECTIONS = set()
+ENGLISHCONNECTIONS = set()
+GERMANCONNECTIONS = set()
+CHROMECONNECTIONS = set()
 
-async def echo(websocket):
-    CONNECTIONS.add(websocket)
+THISMOSTRECENT = True
+englishDict = {}
+germanDict = {}
+
+EnglishCounter = 55
+GermanCounter = 55
+paused = False
+
+def EnglishMessageBus():
+    global EnglishCounter
+    global paused
+    print("English")
     
-    async for message in websocket:
-        print(message) 
-        status = ""
-        timestamp = ""
-        message_all('hello world')
+    while True:
+        if not paused:
+            try:
+                msgText = englishDict[str(EnglishCounter)]["Text"]
+                msgStr = '{ "' + str(EnglishCounter) + '" : {"Delay": ' + str(delay) + ',"Text": "' + msgText + '"}}'
+                delay = englishDict[str(EnglishCounter)]["Delay"]
+                websockets.broadcast(ENGLISHCONNECTIONS, msgStr)
+            except KeyError:
+                delay = 1
+            time.sleep(delay)
+            EnglishCounter = EnglishCounter + delay
+
+def GermanMessageBus():
+    global GermanCounter
+    global paused
+    print("German")
+    
+    while True:
+        if not paused:
+            try:
+                msgText = germanDict[str(GermanCounter)]["Text"]
+                msgStr = '{ "' + str(GermanCounter) + '" : {"Delay": ' + str(delay) + ',"Text": "' + msgText + '"}}'
+                delay = germanDict[str(GermanCounter)]["Delay"]
+                websockets.broadcast(GERMANCONNECTIONS, msgStr)
+            except KeyError:
+                delay = 1
+            time.sleep(delay)
+            GermanCounter = GermanCounter + delay            
+
+
         
-    try:
-        await websocket.wait_closed()
-    finally:
-        CONNECTIONS.remove(websocket)
+async def echo(websocket):
+    connectMessage = await websocket.recv()
+    # Connection message
     
-def message_all(message):
-    websockets.broadcast(CONNECTIONS, message)        
-    
+    # English
+    if (connectMessage == "English"):
+        print("English Person")
+        ENGLISHCONNECTIONS.add(websocket)
+        try:    
+            await websocket.wait_closed()
+        finally:
+            print("Hello")
+            ENGLISHCONNECTIONS.remove(websocket)
+            
+    # German
+    elif (connectMessage == "German"):
+        print("German Person")
+        GERMANCONNECTIONS.add(websocket)
+        try:    
+            await websocket.wait_closed()
+        finally:
+            print("Hello")
+            GERMANCONNECTIONS.remove(websocket)
+            
+    # Chrome Extension
+    else:
+        print("Chrome Robot")
+        CHROMECONNECTIONS.add(websocket)
+        async for message in websocket:
+            parsed = json.loads(message)
+            messageStart = parsed["timestamp"]
+            paused = parsed["paused"]         
+        try:    
+            await websocket.wait_closed()
+        finally:
+            print("Hello")
+            CHROMECONNECTIONS.remove(websocket)
+          
 async def main():
     async with websockets.serve(echo, "0.0.0.0", 8765):
         await asyncio.Future()  # run forever
@@ -41,8 +98,17 @@ async def main():
 print("running")
 
 # Connect to Local Database
-# input = open("./python-socket/beeENG.srt")
-# srt.parse("input")
+eng = open("./python-socket/english.json")
+englishDict = json.load(eng)
 
+ger = open("./python-socket/german.json")
+germanDict = json.load(ger)
+
+EnglishMessageThread = threading.Thread(target=EnglishMessageBus)
+EnglishMessageThread.start()
+
+GermanMessageThread = threading.Thread(target=GermanMessageBus)
+GermanMessageThread.start()
 # Start Web Socket Server
 asyncio.run(main())
+
