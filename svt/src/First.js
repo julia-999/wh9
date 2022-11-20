@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+import Subtle from './Subtle.svg';
 import './App.css';
-import Badge from 'react-bootstrap/Badge';
+// import Badge from 'react-bootstrap/Badge';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import Dropdown from 'react-bootstrap/Dropdown';
 import React, { useState } from 'react';
-import raw from './files/world-languages-simple.csv';
-import WebSocket from './WebSocket.js'
+// import raw from './files/world-languages-simple.csv';
+// import WebSocket from './WebSocket.js'
 import { useNavigate } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function First(props) {
     const history = useNavigate();
@@ -118,21 +119,23 @@ function First(props) {
     // return <tbody>{rows}</tbody>;
 
     return (
+
         <div>
-        <Form>
-            <Form.Group className="mb-3" controlId="formBasicEmail">
-                <Form.Label>Enter the code for the movie:</Form.Label>
-                <Form.Control type="email" placeholder="Code" />
+          <img src={Subtle} style={{maxWidth:"20%", marginTop:"10%", marginBottom:"2%", alignContent:"left"}}/>
+          <h4 className="mb-4">Subtitles for anyone, anywhere.</h4>
+        <Form style={{alignContent:"left"}}>
+            <Form.Group controlId="formBasicEmail" style={{textAlign:"left", marginBottom:"5%", marginLeft:"10%", marginRight:"10%"}}>
+                <Form.Label >Enter the code for the movie:</Form.Label>
+                <Form.Control className="text" type="email" placeholder="Code" />
                 <Form.Text className="text-muted">
                     You can find this in your Google extension
                 </Form.Text>
             </Form.Group>
 
-            <Dropdown className="d-inline mx-2">
-                <Dropdown.Toggle>
+            <Dropdown className="d-inline mx-5" style={{color:"white"}} >
+                <Dropdown.Toggle className="btn-light btn-outline-secondary">
                     Choose your language:
                 </Dropdown.Toggle>
-
                 <Dropdown.Menu as={CustomMenu} style={{ maxHeight: "200px", overflowY: "scroll" }}>
                     {listLanguages}
                 </Dropdown.Menu>
@@ -143,5 +146,11 @@ function First(props) {
         </Form>
         </div>
     );
+
+ 
 }
+
+
+
+
 export default First;
