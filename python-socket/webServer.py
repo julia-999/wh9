@@ -1,42 +1,48 @@
 import asyncio
 import websockets
-import logging
-import os
-import psycopg
-from psycopg.errors import ProgrammingError
 
-def getSubtitle(status, timestamp):
-    # Remote SQL
-    try:
-        with conn.cursor() as cur:
-            cur.execute(stmt)
-            row = cur.fetchone()
-            conn.commit()
-            if row: print(row[0])
-    except ProgrammingError:
-        return
+# def getSubtitle(status, timestamp):
+#     # Remote SQL
+#     try:
+#         with conn.cursor() as cur:
+#             cur.execute(stmt)
+#             row = cur.fetchone()
+#             conn.commit()
+#             if row: print(row[0])
+#     except ProgrammingError:
+#         return
     
-    # Local SQl
+#     # Local Dict
+    
+CONNECTIONS = set()
 
-    
 async def echo(websocket):
-    # await websocket.recv()
+    CONNECTIONS.add(websocket)
     
     async for message in websocket:
-        print(message)
-        
+        print(message) 
         status = ""
         timestamp = ""
-        await websocket.send(getSubtitle(status, timestamp))
+        message_all('hello world')
         
-    await websocket.send("hello")
-
+    try:
+        await websocket.wait_closed()
+    finally:
+        CONNECTIONS.remove(websocket)
+    
+def message_all(message):
+    websockets.broadcast(CONNECTIONS, message)        
+    
 async def main():
-    async with websockets.serve(echo, "localhost", 8765):
+    async with websockets.serve(echo, "0.0.0.0", 8765):
         await asyncio.Future()  # run forever
 
+# Start Server Message
 print("running")
 
-# Connect to SQL Database
-connection = psycopg.connect(os.environ["DATABASE_URL"], application_name="$ docs_quickstart_python")
+# Connect to Local Database
+# input = open("./python-socket/beeENG.srt")
+# srt.parse("input")
+
+# Start Web Socket Server
 asyncio.run(main())

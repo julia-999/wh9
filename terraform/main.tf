@@ -1,6 +1,6 @@
 provider "google" {
-  project     = "my-project-id"
-  region      = "us-central1"
+  project     = "striped-option-369106"
+  region      = "northamerica-northeast2"
 }
 
 resource "google_compute_network" "vpc_network" {

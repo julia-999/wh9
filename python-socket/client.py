@@ -4,6 +4,7 @@ import websockets
 async def hello():
     async with websockets.connect("ws://localhost:8765") as websocket:
         await websocket.send("Hello world!")
-        await websocket.recv()
+        message = await websocket.recv()
+        print(message)
 
 asyncio.run(hello())

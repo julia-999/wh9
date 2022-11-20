@@ -17,7 +17,8 @@ function connect(host) {
             websocket.send(JSON.stringify({"currentPlayState": "playing"}));
         });
     };
-
+    
+    
     websocket.onmessage = function (event) {
         var received_msg = JSON.parse(event.data);
         var demoNotificationOptions = {
@@ -49,18 +50,18 @@ function closeWebSocketConnection(username) {
     }
 }
 
-// createWebSocketConnection()
-// connect()
+createWebSocketConnection()
+connect()
 
 // Play Pause Button
+
+
 var playPause = document.querySelector('[class*="atvwebplayersdk-playpause-button"]')
 
+
 // Time Stamp Slider
-var slider = document.querySelector('');
+// var slider = document.querySelector('[class*="atvwebplayersdk-trickplay-container"]');
 
 
-atvwebplayersdk-playpause-button
 
-
-checkbox.addEventListener('change', function()
 
