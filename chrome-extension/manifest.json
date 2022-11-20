@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "SBT - Subtitles for all",
+  "version": "1.0",
+  "description": "Add a universal subtitle display for users",
+
+  "icons": {
+    "32": "images/logo-32.png",
+    "16": "images/logo-16.png",
+    "48": "images/logo-48.png",
+    "128": "images/logo-128.png"
+  },
+  "permissions": ["activeTab", "scripting","tabs"],
+  "background": {
+    "service_worker": "scripts/background.js"
+  },
+  "action": {
+    "default_title": "Subtitles for all!",
+    "default_popup": "scripts/popup.html"
+  }
+}
