@@ -12,6 +12,7 @@ import raw from './files/world-languages-simple.csv';
 import WebSocket from './WebSocket.js'
 import First from './First.js'
 import Second from './Second.js'
+import SecondBackup from './SecondBackup'
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Routes>
         <Route path="/" element={<First/>} />
         <Route path="/second" element={<Second/>}/>
+        <Route path="/second2" element={<SecondBackup/>}/>
       </Routes>
       </BrowserRouter>
     </div>

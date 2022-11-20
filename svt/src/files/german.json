@@ -1,0 +1,3350 @@
+{
+    "53": {
+        "Delay": 4,
+        "Text": "Gelb-schwarz, gelb-schwarz, gelb-schwarz. Oh, schwarz-gelb. "
+    },
+    "58": {
+        "Delay": 3,
+        "Text": "Heute geht es mal so richtig ab. Ja! Ein bisschen Honig. "
+    },
+    "69": {
+        "Delay": 4,
+        "Text": "Barry, Fruhstuck ist fertig. Ich komme! "
+    },
+    "74": {
+        "Delay": 3,
+        "Text": "Telefon Eine Sekunde! "
+    },
+    "78": {
+        "Delay": 4,
+        "Text": "Hallo? Adam? Es ist so weit. Ich kann's kaum glauben. "
+    },
+    "82": {
+        "Delay": 2,
+        "Text": "Ich hol dich ab. "
+    },
+    "85": {
+        "Delay": 3,
+        "Text": "Sieht scharf aus. "
+    },
+    "90": {
+        "Delay": 5,
+        "Text": "Warum nimmst du nicht die Treppe? Tut mir leid, ich bin aufgeregt. "
+    },
+    "95": {
+        "Delay": 5,
+        "Text": "Unser Schulabgnger. Dein Abschlusszeugnis ist hervorragend. "
+    },
+    "100": {
+        "Delay": 4,
+        "Text": "Sehr stolz. Mom, du zerstrst meine neue Frisur. "
+    },
+    "105": {
+        "Delay": 3,
+        "Text": "Du hast da Fusseln auf deinem Pelz. Au, das bin ich! "
+    },
+    "109": {
+        "Delay": 3,
+        "Text": "Barry! Im Haus wird nicht geflogen! "
+    },
+    "133": {
+        "Delay": 5,
+        "Text": "Hey, Barry. Ist das Pelz-Gel? Etwas. An so einem Tag! "
+    },
+    "138": {
+        "Delay": 4,
+        "Text": "Ich dachte, das schaffe ich nie. 3 Tage Grundschule, 3 Gymnasium. "
+    },
+    "142": {
+        "Delay": 5,
+        "Text": "Die waren kein Honigschlecken. Gut, dass ich mal 'n Tag frei hatte. "
+    },
+    "147": {
+        "Delay": 4,
+        "Text": "Dabei hast du dich echt verndert. Hey, Arti! "
+    },
+    "151": {
+        "Delay": 4,
+        "Text": "Der Schnurrbart steht dir gut. Hast du das von Franki gehrt? Ja. "
+    },
+    "156": {
+        "Delay": 3,
+        "Text": "Gehst du zu seiner Beerdigung? Nein. Jeder wei, dass man stirbt, "
+    },
+    "160": {
+        "Delay": 4,
+        "Text": "wenn man jemanden sticht. Er htte den Weg freimachen knnen. "
+    },
+    "172": {
+        "Delay": 4,
+        "Text": "Ich finde es toll, dass der Vergnugungspark zum Alltag gehrt. "
+    },
+    "177": {
+        "Delay": 4,
+        "Text": "Deswegen wollen sie uns einreden, wir brauchen keine Ferien. "
+    },
+    "183": {
+        "Delay": 4,
+        "Text": "Mann, das nenne ich mal Pomp. Mit Pauken und Trompeten. "
+    },
+    "191": {
+        "Delay": 5,
+        "Text": "Heute fngt das Leben an. Als Mann. Als Biene, Mann! Auf die Bienen. "
+    },
+    "197": {
+        "Delay": 5,
+        "Text": "Studenten, Lehrkrfte, Bienen, bitte begruen Sie Dekan Summherum. "
+    },
+    "203": {
+        "Delay": 7,
+        "Text": "Willkommen zur neuen Wabenstaatsabschlussklasse von 915. "
+    },
+    "211": {
+        "Delay": 4,
+        "Text": "Damit ist die Feierlichkeit beendet. (Alle) Hurra! "
+    },
+    "215": {
+        "Delay": 5,
+        "Text": "Nun beginnt eure Karriere bei Honex. Suchen wir heute unseren Job aus? "
+    },
+    "221": {
+        "Delay": 4,
+        "Text": "Das soll zur Orientierung dienen. Augen auf! Jetzt geht es los. "
+    },
+    "225": {
+        "Delay": 4,
+        "Text": "(Lautsprecher) Halten Sie bei der Fahrt Hnde und Antennen im Wagen. "
+    },
+    "230": {
+        "Delay": 4,
+        "Text": "Keep your hands and antennae inside the tram at all time. "
+    },
+    "237": {
+        "Delay": 4,
+        "Text": "Ich bin gespannt, wie das so ist. Ein bisschen gruselig. "
+    },
+    "242": {
+        "Delay": 5,
+        "Text": "Willkommen bei Honex. Einem Unternehmensbereich der Honesco. "
+    },
+    "248": {
+        "Delay": 2,
+        "Text": "Da ist es schon. "
+    },
+    "251": {
+        "Delay": 3,
+        "Text": "(Beide) Wow! "
+    },
+    "258": {
+        "Delay": 4,
+        "Text": "Wir wissen, dass Sie als Biene immer darauf hingearbeitet haben, "
+    },
+    "263": {
+        "Delay": 4,
+        "Text": "endlich hier arbeiten zu knnen. Die Honigproduktion beginnt damit, "
+    },
+    "267": {
+        "Delay": 4,
+        "Text": "dass unsere Pollencrew den Nektar in den Bienenstock bringt, "
+    },
+    "271": {
+        "Delay": 4,
+        "Text": "wo er dank einer geheimen Formel automatisch farbkorrigiert, "
+    },
+    "275": {
+        "Delay": 5,
+        "Text": "duftjustiert und blasengeformt zu diesem wohltuenden suen Sirup wird. "
+    },
+    "281": {
+        "Delay": 3,
+        "Text": "Der Ihnen allen bekannt ist als... (Alle) Honig! "
+    },
+    "286": {
+        "Delay": 4,
+        "Text": "Das ist 'ne flotte Biene. Sie ist meine Cousine. "
+    },
+    "290": {
+        "Delay": 4,
+        "Text": "Wir sind alle Cousins und Cousinen. Wir sind bei Honex auf der Suche "
+    },
+    "295": {
+        "Delay": 4,
+        "Text": "nach Verbesserungsmglichkeiten. Dort wird unter extremen Bedingungen "
+    },
+    "299": {
+        "Delay": 3,
+        "Text": "eine neue Helmtechnologie getestet. "
+    },
+    "305": {
+        "Delay": 2,
+        "Text": "Er schreit. "
+    },
+    "315": {
+        "Delay": 4,
+        "Text": "Gut. Was der wohl verdient? Ganz sicher nicht genug. "
+    },
+    "319": {
+        "Delay": 5,
+        "Text": "Und hier: der Krelman. Wow. Wozu ist der gut? "
+    },
+    "324": {
+        "Delay": 4,
+        "Text": "Der sammelt die Honigruckstnde auf, die beim Ausgieen hngen bleiben. "
+    },
+    "328": {
+        "Delay": 3,
+        "Text": "Damit sparen wir Millionen. "
+    },
+    "331": {
+        "Delay": 5,
+        "Text": "Kann am Krelman jeder arbeiten? Ja. Die meisten Jobs sind kleine. "
+    },
+    "336": {
+        "Delay": 4,
+        "Text": "Aber Bienen wissen, dass jeder noch so kleine Job, der gut gemacht wird, "
+    },
+    "341": {
+        "Delay": 3,
+        "Text": "ein Beitrag zum Ganzen ist. Doch whlen Sie ihn sorgsam aus. "
+    },
+    "345": {
+        "Delay": 4,
+        "Text": "Den Job, den Sie ergreifen, werden Sie bis ans Lebensende behalten. "
+    },
+    "349": {
+        "Delay": 4,
+        "Text": "Ein Job bis ans Lebensende? Wurde das irgendwas ndern? "
+    },
+    "353": {
+        "Delay": 6,
+        "Text": "Und die Spezies Biene hatte keinen freien Tag in 27 Mio. Jahren. "
+    },
+    "361": {
+        "Delay": 5,
+        "Text": "Sollen wir uns zu Tode schuften? So kann man es auch ausdrucken. "
+    },
+    "382": {
+        "Delay": 5,
+        "Text": "Wow! Das war einfach spitze! Was wurde das ndern? "
+    },
+    "388": {
+        "Delay": 4,
+        "Text": "Adam, da fragst du noch? Ein Job fur alle Ewigkeiten! Das ist verruckt! "
+    },
+    "392": {
+        "Delay": 4,
+        "Text": "Jetzt mussen wir in unserem Leben nur noch eine Entscheidung treffen. "
+    },
+    "396": {
+        "Delay": 4,
+        "Text": "Wie konnten sie das verschweigen? Barry, wir sind Bienen. "
+    },
+    "401": {
+        "Delay": 3,
+        "Text": "Die am besten funktionierende Gesellschaft der Welt. Hey! "
+    },
+    "405": {
+        "Delay": 6,
+        "Text": "Irgendwie luft hier alles zu glatt. Und was? Nenn mir mal ein Beispiel. "
+    },
+    "414": {
+        "Delay": 3,
+        "Text": "Du weit doch, wovon ich spreche. "
+    },
+    "419": {
+        "Delay": 4,
+        "Text": "(Durchsage) Bitte Tor freimachen. Knigliche Nektargruppe. "
+    },
+    "423": {
+        "Delay": 5,
+        "Text": "Komm, das sehen wir uns an. Hey, das ist die Pollencrew. Wow! "
+    },
+    "438": {
+        "Delay": 4,
+        "Text": "So nah hab ich sie noch nie gesehen. Die wissen, wie es auerhalb ist. "
+    },
+    "443": {
+        "Delay": 3,
+        "Text": "Ja, aber manche von denen kommen nicht mehr zuruck. "
+    },
+    "463": {
+        "Delay": 3,
+        "Text": "(Durchsage) Nektar wird verladen. "
+    },
+    "468": {
+        "Delay": 4,
+        "Text": "Das habt ihr toll gemacht. Ihr seid Monster. Wahre Himmelshunde. "
+    },
+    "473": {
+        "Delay": 3,
+        "Text": "Ich bin begeistert. Begeistert! Wo die wohl gerade waren? "
+    },
+    "477": {
+        "Delay": 3,
+        "Text": "Deren Tag ist nicht vorgeplant. Sie fliegen drauen durch die Gegend "
+    },
+    "481": {
+        "Delay": 4,
+        "Text": "und tun wer wei was! Fur so was muss man geboren sein. "
+    },
+    "486": {
+        "Delay": 2,
+        "Text": "Ja. "
+    },
+    "488": {
+        "Delay": 5,
+        "Text": "Schau! Das sind mehr Pollen, als wir in unserem Leben sehen werden. "
+    },
+    "493": {
+        "Delay": 4,
+        "Text": "Das ist nur ein Statussymbol. Es sei denn, du hast welchen auf dir "
+    },
+    "498": {
+        "Delay": 4,
+        "Text": "und die Ladys sehen das. Diese Ladys? "
+    },
+    "502": {
+        "Delay": 4,
+        "Text": "Sind das nicht auch unsere Cousinen? Entfernte. "
+    },
+    "506": {
+        "Delay": 4,
+        "Text": "Wer sind denn die halben Portionen? Los, die nehmen wir mal aufs Korn. "
+    },
+    "510": {
+        "Delay": 4,
+        "Text": "Es ist bestimmt gefhrlich, einer von der Pollencrew zu sein. Ja. "
+    },
+    "515": {
+        "Delay": 3,
+        "Text": "Einmal hat mich ein Br mit seiner Tatze brutal auf 'nen Pilz gedruckt. "
+    },
+    "519": {
+        "Delay": 3,
+        "Text": "Und mir eine runtergehauen! Dafur musste ich ihn leider k.o. schlagen. "
+    },
+    "523": {
+        "Delay": 4,
+        "Text": "Und was hast du whrenddessen getan? Ich hab die Behrden verstndigt. "
+    },
+    "527": {
+        "Delay": 4,
+        "Text": "War heute 'ne steife Brise drauen? Ja, ganz schn sturmisch. "
+    },
+    "531": {
+        "Delay": 4,
+        "Text": "Morgen dusen wir zu dem 10 km entfernten Sonnenblumenfeld. 10 km? "
+    },
+    "536": {
+        "Delay": 3,
+        "Text": "Barry! Du bringst das vielleicht nicht. "
+    },
+    "539": {
+        "Delay": 4,
+        "Text": "Vielleicht aber doch. Nein. Start ist um 0900 am Tor J. "
+    },
+    "545": {
+        "Delay": 4,
+        "Text": "Hast du genug Mumm in den Flugeln? Gut mglich. "
+    },
+    "549": {
+        "Delay": 4,
+        "Text": "Kommt ganz darauf an, was 0900 bedeutet? "
+    },
+    "561": {
+        "Delay": 4,
+        "Text": "Hey, Honex! Oh, Dad. Hast du mich erschreckt. "
+    },
+    "566": {
+        "Delay": 3,
+        "Text": "Und, hast du dich schon entschieden? Nein. Die Auswahl ist gro. "
+    },
+    "570": {
+        "Delay": 4,
+        "Text": "Du hast nur eine Entscheidung. Ist es dir nie langweilig geworden? "
+    },
+    "574": {
+        "Delay": 4,
+        "Text": "Ich sag dir mal was uber das Ruhren. Du schnappst dir deinen Stab "
+    },
+    "578": {
+        "Delay": 4,
+        "Text": "und bewegst ihn im Kreis und ruhrst. Der Rhythmus ist wunderschn. "
+    },
+    "583": {
+        "Delay": 5,
+        "Text": "Weit du, Dad, ich glaube, dass die Fertigung nicht das Richtige ist. "
+    },
+    "589": {
+        "Delay": 4,
+        "Text": "Willst du Luftballons formen? Das ist nichts fur jemanden mit Stachel. "
+    },
+    "593": {
+        "Delay": 4,
+        "Text": "Janet? Dein Sohn wei nicht genau, ob er in die Honigfertigung will. "
+    },
+    "598": {
+        "Delay": 3,
+        "Text": "Manchmal bist du wirklich komisch. Ich will gar nicht komisch sein. "
+    },
+    "602": {
+        "Delay": 3,
+        "Text": "Du wirst Honig fertigen, als Ruhrer! - Du willst auch ein Ruhrer werden? "
+    },
+    "606": {
+        "Delay": 4,
+        "Text": "Nicht doch. Keiner hrt mir zu. Ich kann sagen, was ich will. "
+    },
+    "610": {
+        "Delay": 4,
+        "Text": "Ich lass mir 'ne Zecke ttowieren. Das ist ein Grund zum Feiern. "
+    },
+    "615": {
+        "Delay": 3,
+        "Text": "Und ein Piercing in die Flugel. Rasier mir die Antennen. "
+    },
+    "619": {
+        "Delay": 3,
+        "Text": "Und alle nennen mich nur: \"Alter.\" "
+    },
+    "629": {
+        "Delay": 3,
+        "Text": "Heute geht's los. Der groe Tag. "
+    },
+    "632": {
+        "Delay": 4,
+        "Text": "Komm schon. Sonst sind alle guten Jobs weg. Ja. Genau. "
+    },
+    "636": {
+        "Delay": 4,
+        "Text": "Pollenzhler, Stuntbiene, Eingieer, Ruhrer, Empfang, Haarentfernung. "
+    },
+    "641": {
+        "Delay": 3,
+        "Text": "Ist das noch frei? - Zwei Posten und einer fur Sie. "
+    },
+    "645": {
+        "Delay": 4,
+        "Text": "Was wirst du? Ich kratze Verkrustungen aus. Toll! "
+    },
+    "650": {
+        "Delay": 3,
+        "Text": "Ein paar Anfngerbienen? Ja, Sir. "
+    },
+    "654": {
+        "Delay": 4,
+        "Text": "Dann suchen Sie sich mal was aus. Willst du als Erster? "
+    },
+    "658": {
+        "Delay": 4,
+        "Text": "Nein. Du kannst ruhig. Was ist denn im Angebot? "
+    },
+    "662": {
+        "Delay": 4,
+        "Text": "Flugelvermieter ist immer frei. Ich wurde gern auf den Krelman. "
+    },
+    "667": {
+        "Delay": 2,
+        "Text": "Knnen Sie haben. Tut mir leid, "
+    },
+    "669": {
+        "Delay": 5,
+        "Text": "der Krelman-Posten ist schon weg. Ein Wabenschrauber wird gesucht. "
+    },
+    "674": {
+        "Delay": 4,
+        "Text": "Jetzt ist er wieder frei. Warum? Da ist wieder eine Biene gestorben. "
+    },
+    "678": {
+        "Delay": 4,
+        "Text": "Sehen Sie? Tot. Tot. Noch eine tot. Ganz tot. Toter als tot. "
+    },
+    "683": {
+        "Delay": 3,
+        "Text": "Und noch mal zwei tot. Von oben nach unten tot. Aber so ist das Leben. "
+    },
+    "687": {
+        "Delay": 3,
+        "Text": "Das ist schwierig. Heizer, Kuhler, Stuntbiene, Eingieer, Ruhrer, "
+    },
+    "691": {
+        "Delay": 4,
+        "Text": "Inspektor Nr. 7, Fusselkoordinator, Streifenaufseher, Antennenpolierer, "
+    },
+    "695": {
+        "Delay": 4,
+        "Text": "Milbendompteur. Barry, denkst du, soll ich... Barry? Barry? "
+    },
+    "703": {
+        "Delay": 3,
+        "Text": "Telefon Wo steckst du? "
+    },
+    "706": {
+        "Delay": 5,
+        "Text": "Ich will hier raus. Oh nein! Doch, es muss sein! "
+    },
+    "711": {
+        "Delay": 4,
+        "Text": "Bevor ich auf Lebzeiten arbeite. Du wirst umkommen. Hallo? "
+    },
+    "715": {
+        "Delay": 4,
+        "Text": "Es klopft in der Leitung. Du bist ver... "
+    },
+    "719": {
+        "Delay": 5,
+        "Text": "Das Feinkostgeschft auf der 83. kriegt frische Rosen geliefert. "
+    },
+    "724": {
+        "Delay": 4,
+        "Text": "Hey, Leute. Ist das nicht der von gestern? "
+    },
+    "728": {
+        "Delay": 4,
+        "Text": "Halt! Zum Flugdeck darfst du nicht! - Wir wollen ihn mit raus nehmen. "
+    },
+    "733": {
+        "Delay": 3,
+        "Text": "Da kann aber einer von Gluck reden. - Die Verzichtserklrung. "
+    },
+    "737": {
+        "Delay": 4,
+        "Text": "Hier unterschreiben. Und hier auch. - Heute gibt es eine Regenwarnung. "
+    },
+    "742": {
+        "Delay": 4,
+        "Text": "Und wie ihr wisst, knnen Bienen im Regen nicht fliegen. Also passt auf. "
+    },
+    "747": {
+        "Delay": 4,
+        "Text": "Und: Hutet euch vor Besen, Hunden, Vgeln, Bren und Fledermusen. "
+    },
+    "752": {
+        "Delay": 4,
+        "Text": "Und mir liegen Meldungen vor, dass Malzbier auf uns geschuttet wurde. "
+    },
+    "756": {
+        "Delay": 4,
+        "Text": "Murhpy musste deshalb ins Pflegeheim und zirpt blo noch wie eine Grille. "
+    },
+    "760": {
+        "Delay": 4,
+        "Text": "Ist ja grauenhaft. Bienengesetz Nr. 1 lautet: "
+    },
+    "764": {
+        "Delay": 5,
+        "Text": "\"Mit Menschen zu reden, ist streng verboten!\" In Startposition! "
+    },
+    "770": {
+        "Delay": 4,
+        "Text": "(Alle) Summ, summ, summ, summ, summ, summ. "
+    },
+    "775": {
+        "Delay": 4,
+        "Text": "Fur Knigin und Bienenstock. (Alle) Let's rock! "
+    },
+    "779": {
+        "Delay": 4,
+        "Text": "Und? Was ist? Bist du startklar? Ja, von mir aus kann's losgehen. "
+    },
+    "784": {
+        "Delay": 2,
+        "Text": "Wind, check! - Antenne, check! "
+    },
+    "788": {
+        "Delay": 3,
+        "Text": "Mach mir gleich in den Pelz, check! "
+    },
+    "791": {
+        "Delay": 3,
+        "Text": "Okay, Ladys. Dann mal raus mit euch. "
+    },
+    "804": {
+        "Delay": 4,
+        "Text": "Putzt die Petunien platt, ihr gestreiften Stngelsauger! "
+    },
+    "808": {
+        "Delay": 4,
+        "Text": "Los, vorwrts! Holt euch den Nektar! Ran an die Blumen! "
+    },
+    "827": {
+        "Delay": 5,
+        "Text": "Wow! Ich bin drauen! Ich kann's nicht glauben. Ich bin drauen! "
+    },
+    "834": {
+        "Delay": 3,
+        "Text": "So blau! "
+    },
+    "838": {
+        "Delay": 2,
+        "Text": "Wow! "
+    },
+    "843": {
+        "Delay": 3,
+        "Text": "Ich fuhl mich so schnell und frei. "
+    },
+    "846": {
+        "Delay": 4,
+        "Text": "Kastendrachen. Wow! "
+    },
+    "865": {
+        "Delay": 3,
+        "Text": "Alles voller Blumen. "
+    },
+    "872": {
+        "Delay": 4,
+        "Text": "Hier Blauer Anfuhrer. 30-Grad-Kurve einleiten und runtergehen. "
+    },
+    "877": {
+        "Delay": 2,
+        "Text": "Rosen. 30 Grad. Roger. Folgt mir. "
+    },
+    "891": {
+        "Delay": 4,
+        "Text": "Komm nicht zu nahe, Junge, das Ding hat's in sich. "
+    },
+    "899": {
+        "Delay": 3,
+        "Text": "Hektar um Hektar sammelt das Ding Nektar. "
+    },
+    "903": {
+        "Delay": 4,
+        "Text": "Hast du die Bestubung schon mal gesehen? Nein, Sir! "
+    },
+    "908": {
+        "Delay": 3,
+        "Text": "Ich sammele hier Pollen auf und verstreue sie da druben. "
+    },
+    "912": {
+        "Delay": 4,
+        "Text": "Ein bisschen wie Zauberei, was? Umwerfend. Warum machen wir das? "
+    },
+    "916": {
+        "Delay": 5,
+        "Text": "Mehr Pollen, mehr Blumen, mehr Nektar. Mehr Honig fur uns. "
+    },
+    "921": {
+        "Delay": 2,
+        "Text": "Cool. "
+    },
+    "942": {
+        "Delay": 5,
+        "Text": "Ich habe hellgelb geortet. Knnten Margeriten sein. Brauchen wir die? "
+    },
+    "948": {
+        "Delay": 3,
+        "Text": "Ich habe Sichtkontakt. - Moment! Eine Blume bewegt sich! "
+    },
+    "952": {
+        "Delay": 3,
+        "Text": "Hast du gemeldet, dass sich eine Blume bewegt? - Positiv. "
+    },
+    "966": {
+        "Delay": 5,
+        "Text": "Ist ja total irre. Was ist das? - Keine Ahnung. Ist 'ne tolle Farbe. "
+    },
+    "972": {
+        "Delay": 4,
+        "Text": "Ach, die riechen aber gut. Nicht wie Blumen, aber ich find's gut. "
+    },
+    "977": {
+        "Delay": 3,
+        "Text": "Ja, flauschig. - Eher chemieartig. Die sind ganz klebrig. "
+    },
+    "982": {
+        "Delay": 5,
+        "Text": "Ach, du lieber, gutiger Bienengott. Hey, Muckenhirn, komm da runter! "
+    },
+    "991": {
+        "Delay": 3,
+        "Text": "Jungs! Das knnte bse enden. "
+    },
+    "995": {
+        "Delay": 2,
+        "Text": "Sehr knapp. Das wird wehtun. "
+    },
+    "999": {
+        "Delay": 5,
+        "Text": "Ich habe doch nichts getan! Du solltest in Position bleiben. "
+    },
+    "1005": {
+        "Delay": 3,
+        "Text": "Den bekommst du zuruck wie eine Rakete. "
+    },
+    "1010": {
+        "Delay": 3,
+        "Text": "Helft mir! "
+    },
+    "1014": {
+        "Delay": 4,
+        "Text": "Das sind keine Blumen. - Sag's ihm. Er wei es schon. "
+    },
+    "1019": {
+        "Delay": 2,
+        "Text": "Was ist das? "
+    },
+    "1024": {
+        "Delay": 4,
+        "Text": "Matchball. Du kannst schon mal anfangen einzupacken, Sue. "
+    },
+    "1029": {
+        "Delay": 2,
+        "Text": "Gleich schlgt dein letztes Stundchen! "
+    },
+    "1062": {
+        "Delay": 3,
+        "Text": "Klimaanlage. "
+    },
+    "1067": {
+        "Delay": 4,
+        "Text": "Oh, eklig. Ich mach die Klimaanlage an. "
+    },
+    "1074": {
+        "Delay": 3,
+        "Text": "Hier ist 'ne Biene im Auto! Ah! "
+    },
+    "1078": {
+        "Delay": 3,
+        "Text": "Tu doch was! - Hi, Biene. "
+    },
+    "1081": {
+        "Delay": 3,
+        "Text": "Sie soll mich nicht stechen! "
+    },
+    "1090": {
+        "Delay": 4,
+        "Text": "Auf keinen Fall bewegen. Dann wird sie euch nicht stechen. "
+    },
+    "1096": {
+        "Delay": 3,
+        "Text": "Sie blinzelt. - Spruh sie voll, Oma. "
+    },
+    "1107": {
+        "Delay": 4,
+        "Text": "Wow! Also hier drauen ist es ja ziemlich anstrengend. "
+    },
+    "1112": {
+        "Delay": 3,
+        "Text": "Ich fliege nach Hause. "
+    },
+    "1123": {
+        "Delay": 3,
+        "Text": "Ich kann nicht im Regen fliegen. "
+    },
+    "1136": {
+        "Delay": 3,
+        "Text": "Mayday, Mayday, Biene sturzt ab! "
+    },
+    "1142": {
+        "Delay": 4,
+        "Text": "Kannst du mal das Fenster zumachen? - Ich zeig euch meinen Lebenslauf. "
+    },
+    "1146": {
+        "Delay": 3,
+        "Text": "Gestaltet als Faltbroschure. "
+    },
+    "1150": {
+        "Delay": 4,
+        "Text": "Oh nein, noch mehr Menschen. Das hat mir gerade noch gefehlt. "
+    },
+    "1154": {
+        "Delay": 4,
+        "Text": "Au! Was war das denn? Vielleicht diesmal. Diesmal. Diesmal. "
+    },
+    "1160": {
+        "Delay": 3,
+        "Text": "Oh, Gardinen. Das ist ja diabolisch. "
+    },
+    "1164": {
+        "Delay": 5,
+        "Text": "Da stehen all meine Fhigkeiten drin. Und meine 10 Lieblingsfilme. "
+    },
+    "1169": {
+        "Delay": 4,
+        "Text": "Welcher ist Nummer eins? Star Wars? - Nein. Auf dieses Geballer "
+    },
+    "1174": {
+        "Delay": 4,
+        "Text": "steh ich nicht so besonders. Die haben sie ja nicht mehr alle. "
+    },
+    "1178": {
+        "Delay": 4,
+        "Text": "Wenn ich mich irgendwo vorstelle, dann sind die immer vllig baff. "
+    },
+    "1183": {
+        "Delay": 3,
+        "Text": "Oh, da ist die Sonne. Vielleicht komm ich da irgendwo raus. "
+    },
+    "1187": {
+        "Delay": 5,
+        "Text": "Ist mir bisher nie aufgefallen, dass auf der Sonne so 'ne 75 drauf ist. "
+    },
+    "1194": {
+        "Delay": 4,
+        "Text": "Also, ich sag ja schon lange, dass es so kommt mit der Erderwrmung. "
+    },
+    "1199": {
+        "Delay": 4,
+        "Text": "Ich spure, dass es heier wird. Warte! Stopp! Biene! "
+    },
+    "1205": {
+        "Delay": 4,
+        "Text": "Tte sie! Tte sie! - Weg! Das sind meine Winterschuhe. "
+    },
+    "1211": {
+        "Delay": 4,
+        "Text": "Warte! Bring sie nicht um. Ich bin allergisch gegen Bienen! "
+    },
+    "1215": {
+        "Delay": 4,
+        "Text": "Willst du, dass die mich umbringt? Wieso ist ihr Leben weniger wert? "
+    },
+    "1220": {
+        "Delay": 5,
+        "Text": "Wieso ist ihr Leben weniger wert? Das kannst du nicht ernst meinen! "
+    },
+    "1225": {
+        "Delay": 4,
+        "Text": "Jedes Leben ist wertvoll. Vielleicht hat die Biene Gefuhle. "
+    },
+    "1231": {
+        "Delay": 3,
+        "Text": "Meine Faltbroschure. "
+    },
+    "1247": {
+        "Delay": 3,
+        "Text": "Jetzt kannst du raus, du kleines Ding. "
+    },
+    "1251": {
+        "Delay": 4,
+        "Text": "Ich habe keine Angst vor ihr, aber du weit schon, die Allergie. "
+    },
+    "1256": {
+        "Delay": 3,
+        "Text": "Schreib das in deinen Lebenslauf. - Mein Gesicht knnte anschwellen. "
+    },
+    "1260": {
+        "Delay": 4,
+        "Text": "Gehrt das nicht zu \"Besondere Fhigkeiten\"? "
+    },
+    "1268": {
+        "Delay": 4,
+        "Text": "Nchste Woche Joghurt-Abend? Ja, gern. Na klar, wie du meinst. "
+    },
+    "1273": {
+        "Delay": 5,
+        "Text": "Du knntest dir Kandis draufstreuen. Soll weniger Kalorien haben oder so. "
+    },
+    "1283": {
+        "Delay": 5,
+        "Text": "Ich muss doch was sagen. Sie hat mir das Leben gerettet. "
+    },
+    "1289": {
+        "Delay": 3,
+        "Text": "Schn, jetzt geht's los. "
+    },
+    "1310": {
+        "Delay": 2,
+        "Text": "Was soll ich sagen? "
+    },
+    "1314": {
+        "Delay": 3,
+        "Text": "Das knnte wirklich Ärger bedeuten. "
+    },
+    "1318": {
+        "Delay": 3,
+        "Text": "Das ist ein Bienengesetz. Es ist verboten, mit Menschen zu sprechen. "
+    },
+    "1322": {
+        "Delay": 4,
+        "Text": "Ich kann's nicht fassen, dass ich das mache. Ich muss es tun. "
+    },
+    "1326": {
+        "Delay": 3,
+        "Text": "Ich kann nicht. Komm schon! Nein! Ja! Nein! "
+    },
+    "1330": {
+        "Delay": 4,
+        "Text": "Mach schon. Ich kann nicht. Wie soll ich denn anfangen? "
+    },
+    "1334": {
+        "Delay": 5,
+        "Text": "Magst du Jazz? Das ist nicht gut. Da kommt sie. Sag was, du Trottel! "
+    },
+    "1340": {
+        "Delay": 3,
+        "Text": "Hi! Tut mir leid. "
+    },
+    "1343": {
+        "Delay": 5,
+        "Text": "Du kannst reden? Ja. Ich wei, tut mir leid. "
+    },
+    "1348": {
+        "Delay": 5,
+        "Text": "Wann bin ich denn ins Bett gegangen? Das kann nur ein Traum sein. "
+    },
+    "1353": {
+        "Delay": 5,
+        "Text": "Das ist sicher verwirrend fur Sie. Das ist schon uberraschend fur mich. "
+    },
+    "1359": {
+        "Delay": 4,
+        "Text": "Ich meine, du bist eine Biene! Ja, ich bin eine Biene, "
+    },
+    "1363": {
+        "Delay": 4,
+        "Text": "und ich soll das nicht tun. Aber die da haben versucht, mich umzubringen. "
+    },
+    "1367": {
+        "Delay": 5,
+        "Text": "Und wenn Sie nicht gewesen wren... Ich musste ich Ihnen einfach danken. "
+    },
+    "1373": {
+        "Delay": 2,
+        "Text": "Au! Au! Das war ganz schn merkwurdig. "
+    },
+    "1376": {
+        "Delay": 4,
+        "Text": "Ich spreche mit einer Biene. Ich unterhalte mich mit ihr. "
+    },
+    "1380": {
+        "Delay": 4,
+        "Text": "Die Biene unterhlt sich mit mir. Ich wollte nur danke sagen. Ciao. "
+    },
+    "1384": {
+        "Delay": 5,
+        "Text": "Wie hast du das gelernt? Was? Das Reden und so. "
+    },
+    "1390": {
+        "Delay": 4,
+        "Text": "Genauso wie Sie, wurde ich sagen. Mama, Dada, das schnappt man auf. "
+    },
+    "1394": {
+        "Delay": 4,
+        "Text": "Wirklich witzig. Ja, sonst mussten wir stets weinen. "
+    },
+    "1399": {
+        "Delay": 4,
+        "Text": "Wie auch immer. Kann ich dir was anbieten? "
+    },
+    "1404": {
+        "Delay": 4,
+        "Text": "Und was? Ich wei auch nicht. Kaffee? "
+    },
+    "1409": {
+        "Delay": 4,
+        "Text": "Ich mchte keine Umstnde machen. Wieso? Dauert nur zwei Minuten. "
+    },
+    "1413": {
+        "Delay": 4,
+        "Text": "Das ist nicht aufdringlich? Nein. Ein Tsschen wurde ich gern trinken. "
+    },
+    "1418": {
+        "Delay": 4,
+        "Text": "Hey, und dazu ein Stuck Rumkuchen? Ich glaub, das ist nicht gut. "
+    },
+    "1422": {
+        "Delay": 4,
+        "Text": "Ich habe schon ein paar Mikrogramm zu viel auf den Huften. Wo denn? "
+    },
+    "1427": {
+        "Delay": 3,
+        "Text": "Die Streifen helfen da nicht. Kennen Sie sich mit Mode aus? "
+    },
+    "1431": {
+        "Delay": 3,
+        "Text": "Alles in Ordnung? Nein. "
+    },
+    "1440": {
+        "Delay": 4,
+        "Text": "Dann kommt er endlich doch noch an. Die Hochzeit hat schon angefangen, "
+    },
+    "1444": {
+        "Delay": 4,
+        "Text": "und er sagt: \"Was denn? 'ne Litschi? Sagtest du nicht, eine aus Fidschi? "
+    },
+    "1449": {
+        "Delay": 3,
+        "Text": "Warum soll ich denn 'ne Litschi heiraten?\" "
+    },
+    "1454": {
+        "Delay": 2,
+        "Text": "Oh! "
+    },
+    "1457": {
+        "Delay": 4,
+        "Text": "Ist das ein Bienenwitz? Ja. So was ist unsere Art von Humor. "
+    },
+    "1461": {
+        "Delay": 5,
+        "Text": "Ist mal was anderes. Wie auch immer. Was hast du jetzt vor, Barry? "
+    },
+    "1466": {
+        "Delay": 5,
+        "Text": "Ich wurd gern was fur den Stock tun. Aber nicht so, wie die das wollen. "
+    },
+    "1472": {
+        "Delay": 4,
+        "Text": "Ich wei, wie du dich fuhlst. Ja? Naturlich! Meine Eltern wollten, "
+    },
+    "1477": {
+        "Delay": 3,
+        "Text": "dass ich Anwltin werde. Aber ich wollte Floristin werden. Echt? "
+    },
+    "1481": {
+        "Delay": 4,
+        "Text": "Blumen sind alles, was ich brauche. Mit dem Slogan hat unsere Knigin "
+    },
+    "1485": {
+        "Delay": 3,
+        "Text": "gerade die Wahl gewonnen. Na, jedenfalls... "
+    },
+    "1488": {
+        "Delay": 4,
+        "Text": "Weit du, wenn du mal... Da ist mein Bienenstock. Man kann ihn sehen. "
+    },
+    "1493": {
+        "Delay": 3,
+        "Text": "Oh, du wohnst auf der Sheep Meadow. Ich wohne neben dem Turtel-Grund. "
+    },
+    "1497": {
+        "Delay": 4,
+        "Text": "Ich wei, wo das ist. Ich hab da mal einen Zehenring verloren. "
+    },
+    "1502": {
+        "Delay": 4,
+        "Text": "Warum trgt man das? Das ist, als wurde man 'nen Hut aufs Knie setzen. "
+    },
+    "1506": {
+        "Delay": 4,
+        "Text": "Das probiere ich mal. Alles okay? Oh ja, bestens. "
+    },
+    "1510": {
+        "Delay": 3,
+        "Text": "Ich trinke nur zwei Tassen Kaffee. "
+    },
+    "1526": {
+        "Delay": 4,
+        "Text": "Das war toll. Danke fur den Kaffee. Das waren wirklich keine Umstnde. "
+    },
+    "1530": {
+        "Delay": 5,
+        "Text": "Ich konnte ihn nicht austrinken. Sonst knnte ich nie mehr schlafen. "
+    },
+    "1536": {
+        "Delay": 3,
+        "Text": "Kann ich ein Stuck davon mitnehmen? Naturlich. "
+    },
+    "1540": {
+        "Delay": 3,
+        "Text": "Hier, steck dir einen Krumel ein. Danke. "
+    },
+    "1546": {
+        "Delay": 4,
+        "Text": "Also gut, dann... Ich denke, wir sehen uns dann. Oder nicht... "
+    },
+    "1551": {
+        "Delay": 4,
+        "Text": "Okay, Barry. Danke noch mal fur meine Rettung. "
+    },
+    "1555": {
+        "Delay": 4,
+        "Text": "Oh, das. Das war doch nichts. Nichts war das nicht. Aber... "
+    },
+    "1576": {
+        "Delay": 3,
+        "Text": "(Durchsage) Testversuche! Hurrikan-Überlebenstest. "
+    },
+    "1580": {
+        "Delay": 4,
+        "Text": "Das kann unmglich funktionieren. - Lassen wir es drauf ankommen. "
+    },
+    "1585": {
+        "Delay": 2,
+        "Text": "Okay, Dave, zieh die Reileine. "
+    },
+    "1590": {
+        "Delay": 4,
+        "Text": "Das war der erschreckendste, glucklichste Moment meines Lebens. "
+    },
+    "1595": {
+        "Delay": 4,
+        "Text": "Ich kann nicht glauben, dass du bei Menschen warst! Riesige Menschen. "
+    },
+    "1599": {
+        "Delay": 4,
+        "Text": "Wie waren die denn so? Riesig! Sie reden verrucktes Zeug. "
+    },
+    "1604": {
+        "Delay": 3,
+        "Text": "Sie essen groe verruckte Sachen. Und versuchen sie, einen zu tten? "
+    },
+    "1608": {
+        "Delay": 3,
+        "Text": "Manche schon. Manche auch nicht. Du hast es geschafft. Toll. "
+    },
+    "1612": {
+        "Delay": 4,
+        "Text": "Du hast das gesehen, was du wolltest und viele Erfahrungen gesammelt. "
+    },
+    "1616": {
+        "Delay": 4,
+        "Text": "Jetzt such dir 'nen Job. Na ja. Na ja? Wie, na ja? "
+    },
+    "1621": {
+        "Delay": 3,
+        "Text": "Ich habe jemanden kennengelernt. War sie bienisch? "
+    },
+    "1625": {
+        "Delay": 4,
+        "Text": "Keine Gottesanbeterin oder 'ne Spinne. Keine Spinne. "
+    },
+    "1630": {
+        "Delay": 4,
+        "Text": "Fur viele sind sie ja das Schrfste. Ich verabscheue ihre Fratzen. "
+    },
+    "1635": {
+        "Delay": 2,
+        "Text": "Also? Wer ist sie? Sie ist... "
+    },
+    "1638": {
+        "Delay": 3,
+        "Text": "Ein Mensch. Das hast du nicht getan. "
+    },
+    "1641": {
+        "Delay": 4,
+        "Text": "Das ist ein Bienengesetz! Sie heit Vanessa. "
+    },
+    "1645": {
+        "Delay": 4,
+        "Text": "Oh nein, bitte nicht! Sie ist nett. Und sie ist Floristin. "
+    },
+    "1649": {
+        "Delay": 4,
+        "Text": "Du gehst mit einer Floristin. Wir gehen nicht miteinander. "
+    },
+    "1653": {
+        "Delay": 4,
+        "Text": "Du fliegst aus dem Bienenstock nach drauen und du redest mit Menschen. "
+    },
+    "1658": {
+        "Delay": 4,
+        "Text": "Menschen greifen uns mit Bllern an! Sie nicht. Sie hat mich gerettet. "
+    },
+    "1662": {
+        "Delay": 3,
+        "Text": "Und sie versteht mich. Es ist aus. Iss das! "
+    },
+    "1666": {
+        "Delay": 4,
+        "Text": "Es ist nicht aus. Was war das denn? Sie nennen es einen Krumel. "
+    },
+    "1671": {
+        "Delay": 3,
+        "Text": "Das schmeckt ja zum Reinstechen. Das ist noch nicht alles. "
+    },
+    "1675": {
+        "Delay": 3,
+        "Text": "Kennst du Cinnabon-Zimtrollen? Nein. Das ist Gebck. "
+    },
+    "1679": {
+        "Delay": 4,
+        "Text": "Sei nicht so laut. Setz dich dahin. Es ist ganz hei. "
+    },
+    "1683": {
+        "Delay": 4,
+        "Text": "Hr zu. Wir sind nicht die Menschen. Wir sind wir. Es gibt uns und die. "
+    },
+    "1687": {
+        "Delay": 4,
+        "Text": "Mein Herz schreit vor Sehnsucht! Es gibt keine Sehnsucht. "
+    },
+    "1692": {
+        "Delay": 4,
+        "Text": "Sag das deinem Herzen und hr zu. Fang an und denk wie eine Biene! "
+    },
+    "1696": {
+        "Delay": 4,
+        "Text": "Denk bienisch. (Alle) Denk bienisch. "
+    },
+    "1705": {
+        "Delay": 4,
+        "Text": "Da ist er ja. Er ist im Pool. - Weit du, was dein Problem ist? "
+    },
+    "1710": {
+        "Delay": 3,
+        "Text": "Ich denke noch nicht bienisch. Wie lange willst du noch abhngen? "
+    },
+    "1714": {
+        "Delay": 3,
+        "Text": "Wieso willst du nicht arbeiten? Weil ich noch uber lebenswichtige "
+    },
+    "1718": {
+        "Delay": 4,
+        "Text": "Entscheidungen nachdenken muss. Welches Leben? Du hast kein Leben. "
+    },
+    "1722": {
+        "Delay": 4,
+        "Text": "Du bist ja kaum eine Biene! - Wurde Honig machen dich umbringen? "
+    },
+    "1726": {
+        "Delay": 4,
+        "Text": "Komm raus. Dein Vater will sich mit dir unterhalten. Martin, sag was! "
+    },
+    "1730": {
+        "Delay": 3,
+        "Text": "(Martin) Barry, rede mit mir. "
+    },
+    "1759": {
+        "Delay": 3,
+        "Text": "Und, kommst du? Hast du alles? "
+    },
+    "1762": {
+        "Delay": 3,
+        "Text": "Alles bereit. Flieg los, ich hol dich ein. "
+    },
+    "1766": {
+        "Delay": 2,
+        "Text": "Mach aber nicht so lange. "
+    },
+    "1781": {
+        "Delay": 3,
+        "Text": "Sieh dir das an! "
+    },
+    "1794": {
+        "Delay": 2,
+        "Text": "Vanessa! "
+    },
+    "1798": {
+        "Delay": 5,
+        "Text": "Wir sind noch hier, Barry! - Ich sagte, schrei ihn nicht so an. "
+    },
+    "1803": {
+        "Delay": 4,
+        "Text": "Und warum schreist du jetzt mich an? - Weil du nie zuhrst. "
+    },
+    "1808": {
+        "Delay": 3,
+        "Text": "Ich muss los. Wo willst du hin? Ich treffe blo eine Freundin. "
+    },
+    "1812": {
+        "Delay": 4,
+        "Text": "Und das hat mit deiner Entscheidung zu tun? Ich hoffe, sie ist bienisch. "
+    },
+    "1820": {
+        "Delay": 4,
+        "Text": "Also findet in Pasadena jedes Jahr eine groe Blumenparade statt? "
+    },
+    "1825": {
+        "Delay": 3,
+        "Text": "Jeder Florist trumt davon, einmal bei dieser Rosenshow dabei zu sein. "
+    },
+    "1829": {
+        "Delay": 3,
+        "Text": "Umgeben von Blumen auf einem Festwagen und die Zuschauer jubeln! "
+    },
+    "1833": {
+        "Delay": 4,
+        "Text": "Wow! Ein Wettbewerb. Treten die Rosen da gegeneinander an? Nein! "
+    },
+    "1837": {
+        "Delay": 4,
+        "Text": "Wieso fliegst du nicht uberallhin? Weil es zu anstrengend ist. "
+    },
+    "1842": {
+        "Delay": 4,
+        "Text": "Warum rennst du nicht uberallhin? Wre doch schneller. Verstanden. "
+    },
+    "1846": {
+        "Delay": 4,
+        "Text": "Also, jetzt du wieder. Ihr hngt stundenlang im Netz. "
+    },
+    "1850": {
+        "Delay": 4,
+        "Text": "Ist das bei euch etwa anders? Wenn wir mal im Netz hngen, "
+    },
+    "1854": {
+        "Delay": 4,
+        "Text": "ist meistens 'ne Spinne in der Nhe. Du dumme Biene. "
+    },
+    "1859": {
+        "Delay": 4,
+        "Text": "Hast du nicht Lust, mal zu stechen? Wir versuchen nicht zu stechen. "
+    },
+    "1864": {
+        "Delay": 4,
+        "Text": "Das ist nmlich tdlich fur uns. Also musst du aufpassen. "
+    },
+    "1868": {
+        "Delay": 4,
+        "Text": "Oh ja, ich bin vorsichtig. Ich trete gegen 'ne Wand, gehe spazieren. "
+    },
+    "1872": {
+        "Delay": 5,
+        "Text": "Man verarbeitet das, wie bei allen Emotionen. Trauer, Eifersucht, Lust. "
+    },
+    "1878": {
+        "Delay": 4,
+        "Text": "Ach, du meine Gute! Alles in Ordnung? Ja. Puh! "
+    },
+    "1883": {
+        "Delay": 4,
+        "Text": "Was fllt dir ein? Ist 'ne Biene! Die tut doch niemandem was! "
+    },
+    "1887": {
+        "Delay": 4,
+        "Text": "Geh mir blo aus den Augen. Was war das? Die Bckerblume? "
+    },
+    "1891": {
+        "Delay": 4,
+        "Text": "Ja. Woher hast du das gewusst? Hat sich nach 10 Seiten angefuhlt. "
+    },
+    "1896": {
+        "Delay": 3,
+        "Text": "75 sind unser Limit. Das habt ihr untersucht? "
+    },
+    "1900": {
+        "Delay": 3,
+        "Text": "Ja. Ich habe einen Cousin durch die Vogue verloren. Glaube ich gern. "
+    },
+    "1904": {
+        "Delay": 4,
+        "Text": "Was, im Namen von Maja und Willi, ist denn das? Wie kommt der hierher? "
+    },
+    "1908": {
+        "Delay": 4,
+        "Text": "Suer Bienennektar, goldene Blute, Ray Liottas Privatauslese? "
+    },
+    "1913": {
+        "Delay": 3,
+        "Text": "Das ist dieser Schauspieler, oder? Nie gehrt. Wofur ist der Honig? "
+    },
+    "1917": {
+        "Delay": 4,
+        "Text": "Den kann man kaufen. Wir essen ihn. Wieso? Habt ihr nicht genug Eigenes? "
+    },
+    "1921": {
+        "Delay": 4,
+        "Text": "Wo habt ihr den her? Ihr macht ihn. Wer ihn macht, ist mir klar. "
+    },
+    "1926": {
+        "Delay": 3,
+        "Text": "Und es ist schwer, ihn zu machen. Er wird erhitzt, gekuhlt, geruhrt. "
+    },
+    "1930": {
+        "Delay": 4,
+        "Text": "Man braucht sogar das Krelman-Teil. Es ist nur Honig, Barry. "
+    },
+    "1934": {
+        "Delay": 4,
+        "Text": "Nur... Was? Bienen wissen nichts davon. Das ist Diebstahl. "
+    },
+    "1938": {
+        "Delay": 5,
+        "Text": "Ihr nehmt uns Schulen, Bienenstcke. Honig ist alles, was wir haben! "
+    },
+    "1944": {
+        "Delay": 5,
+        "Text": "Und dann noch im Angebot? Ich finde heraus, was hinter all dem steckt! "
+    },
+    "1955": {
+        "Delay": 3,
+        "Text": "Hey, Murat! "
+    },
+    "1959": {
+        "Delay": 3,
+        "Text": "Hast du's bald? - Gleich, Mann! "
+    },
+    "1963": {
+        "Delay": 3,
+        "Text": "Sie ist hier. Das kann ich riechen. "
+    },
+    "1974": {
+        "Delay": 4,
+        "Text": "Dann geh ich mal langsam nach Hause, und diesen schnen Honig, "
+    },
+    "1978": {
+        "Delay": 4,
+        "Text": "den lasse ich hier drauen stehen. Erwischt, du mieser Maulheld. "
+    },
+    "1983": {
+        "Delay": 3,
+        "Text": "Aha! Ich wusste es. Du kannst reden. Ja, sehr gut sogar. "
+    },
+    "1987": {
+        "Delay": 4,
+        "Text": "Aber jetzt wirst du erst mal reden. Wo habt ihr den goldenen Stoff her? "
+    },
+    "1992": {
+        "Delay": 3,
+        "Text": "Ich wei nicht, was du willst. Ich dachte, wir wren alle Freunde. "
+    },
+    "1996": {
+        "Delay": 4,
+        "Text": "Niemand will Streit mit Bienen! Du kommst zu spt. Er gehrt uns. "
+    },
+    "2000": {
+        "Delay": 4,
+        "Text": "Ihr legt euch mit dem Falschen an. Ihr endet gleich als Vorspeise "
+    },
+    "2004": {
+        "Delay": 4,
+        "Text": "fur meinen Leguan Hasan. Wo kommt der Honig her? "
+    },
+    "2009": {
+        "Delay": 4,
+        "Text": "Wer liefert ihn? Honey Farms. Die haben Honigfarmen. "
+    },
+    "2014": {
+        "Delay": 2,
+        "Text": "Honey Farms. "
+    },
+    "2036": {
+        "Delay": 3,
+        "Text": "Verruckter Kerl! "
+    },
+    "2071": {
+        "Delay": 4,
+        "Text": "Oh Mann, was ist hier Furchtbares passiert? Die entsetzten Gesichter, "
+    },
+    "2076": {
+        "Delay": 3,
+        "Text": "als wre etwas in sie gefahren. Und nun sind sie irgendwo im Nirgendwo. "
+    },
+    "2080": {
+        "Delay": 4,
+        "Text": "Pst. Halt einfach still. Du lebst? Ja. Die wischen alles sofort weg, "
+    },
+    "2084": {
+        "Delay": 4,
+        "Text": "was sich bewegt. Wo willst du hin? Zu den Honigfarmen. "
+    },
+    "2088": {
+        "Delay": 4,
+        "Text": "Ich bin einer Sache auf der Spur. Ich will in Alaska-Elche pieksen. "
+    },
+    "2093": {
+        "Delay": 4,
+        "Text": "Das drhnt einem voll die Birne weg. Und was ist mir dir? "
+    },
+    "2098": {
+        "Delay": 4,
+        "Text": "Der ist wirklich tot. Na schn. Was ist das? "
+    },
+    "2102": {
+        "Delay": 4,
+        "Text": "Der Scheibenwischer! Dreifach-Wischerbltter. Spring auf! "
+    },
+    "2106": {
+        "Delay": 4,
+        "Text": "Das ist deine einzige Chance, Biene. Warum muss bei euch alles so sauber "
+    },
+    "2111": {
+        "Delay": 4,
+        "Text": "und streifenfrei sein? Warum musst ihr alles sehen? Augen auf! "
+    },
+    "2116": {
+        "Delay": 4,
+        "Text": "Streckt die Kpfe aus dem Fenster. (Radio) Sie hren jetzt Nachrichten. "
+    },
+    "2120": {
+        "Delay": 3,
+        "Text": "Bitte, ttet keine Insekten mehr. "
+    },
+    "2124": {
+        "Delay": 3,
+        "Text": "Vorsicht, Biene! Ich, Piekser. "
+    },
+    "2136": {
+        "Delay": 4,
+        "Text": "Hrst du irgendwas? - Was denn? So kleine schreiende Stimmchen. "
+    },
+    "2140": {
+        "Delay": 3,
+        "Text": "Schalt mal das Radio aus. "
+    },
+    "2151": {
+        "Delay": 4,
+        "Text": "Hey, was geht ab, Bienenbubi? Hey, Piekser. "
+    },
+    "2156": {
+        "Delay": 4,
+        "Text": "Und da war eine endlose Reihe von Honigglsern. Wow! "
+    },
+    "2160": {
+        "Delay": 4,
+        "Text": "Darum vermute ich, da, wo der Laster hinfhrt, bekommen sie ihn her. "
+    },
+    "2164": {
+        "Delay": 4,
+        "Text": "Er gehrt uns. Vereinigt euch. Wir sind ein groes Ganzes. "
+    },
+    "2169": {
+        "Delay": 3,
+        "Text": "Bei uns macht jeder sein Ding. Jede Mucke ist auf sich allein gestellt. "
+    },
+    "2173": {
+        "Delay": 4,
+        "Text": "Und wenn ihr Schwierigkeiten habt? Als Mucke hast du die doch immer. "
+    },
+    "2177": {
+        "Delay": 4,
+        "Text": "Alle wollen uns blo schlagen. Wenigstens siehst du die Welt. "
+    },
+    "2181": {
+        "Delay": 4,
+        "Text": "Du musst viele Mdchen kennenlernen. Muckenbrute suchen was Besseres. "
+    },
+    "2185": {
+        "Delay": 4,
+        "Text": "Baggern Fliegen an oder Libellen. Muckenbrute stechen nicht auf uns. "
+    },
+    "2190": {
+        "Delay": 4,
+        "Text": "Wow! Ein Frischbluttransporter. Der Elchpiekser macht 'nen Abflug. "
+    },
+    "2194": {
+        "Delay": 5,
+        "Text": "Wir sehen uns, Biene. Hey, Leute, schn, euch hier zu treffen. "
+    },
+    "2205": {
+        "Delay": 2,
+        "Text": "Hupt "
+    },
+    "2216": {
+        "Delay": 5,
+        "Text": "Hier ist die Honigfarm. Damit machen wir 'ne Menge Gewinn. "
+    },
+    "2221": {
+        "Delay": 4,
+        "Text": "Was ist das hier blo? Das Gehirn von Bienen ist so gro "
+    },
+    "2226": {
+        "Delay": 2,
+        "Text": "wie 'n Stecknadelkopf. Lachen "
+    },
+    "2229": {
+        "Delay": 4,
+        "Text": "Diesen Smoker muss man haben. - Der Thomas 3 000. "
+    },
+    "2235": {
+        "Delay": 3,
+        "Text": "Smoker? 90 Rauchste/Min., automatisch, "
+    },
+    "2239": {
+        "Delay": 4,
+        "Text": "doppeltes Nikotin, volle Dosis Teer. Ein paar Pumpste davon "
+    },
+    "2243": {
+        "Delay": 3,
+        "Text": "zieht sie alle aus dem Verkehr. "
+    },
+    "2246": {
+        "Delay": 9,
+        "Text": "Den Honig machen Bienen, damit wir hubsch verdienen? "
+    },
+    "2272": {
+        "Delay": 3,
+        "Text": "Du meine Gute! "
+    },
+    "2276": {
+        "Delay": 4,
+        "Text": "Was ist hier los? Sind Sie verletzt? Nein. Es ist gleich wieder vorbei. "
+    },
+    "2281": {
+        "Delay": 4,
+        "Text": "Wie seid ihr Bienen hergekommen, in diesem kunstlichen Bienenstock? "
+    },
+    "2285": {
+        "Delay": 4,
+        "Text": "Die Knigin wurde hierher versetzt. Das ist eure Knigin? "
+    },
+    "2289": {
+        "Delay": 5,
+        "Text": "Das ist ein Mann in Frauenkleidern. Das ist 'ne Faschingsknigin. "
+    },
+    "2297": {
+        "Delay": 2,
+        "Text": "Was ist das? "
+    },
+    "2307": {
+        "Delay": 3,
+        "Text": "Oh nein! Das sind ja Hunderte. "
+    },
+    "2320": {
+        "Delay": 4,
+        "Text": "Unser Honig. Die stehlen ihn schamlos in gewaltigen Mengen. "
+    },
+    "2326": {
+        "Delay": 4,
+        "Text": "Das ist noch schlimmer als das mit den Bren. Ich muss etwas tun. "
+    },
+    "2330": {
+        "Delay": 3,
+        "Text": "Oh, Barry, hr auf! - Das ist nur ein Gerucht. "
+    },
+    "2334": {
+        "Delay": 5,
+        "Text": "Sehen die wie ein Gerucht aus? Das sind sicher geflschte Fotos. "
+    },
+    "2340": {
+        "Delay": 4,
+        "Text": "Barry, wie bist du darauf gestoen? Weil er mit Menschen gesprochen hat. "
+    },
+    "2344": {
+        "Delay": 4,
+        "Text": "Du redest mit Menschen? Er knutscht sogar mit einer. "
+    },
+    "2348": {
+        "Delay": 4,
+        "Text": "Ihr beide knutscht? Nein. Auf wessen Seite stehst du? "
+    },
+    "2353": {
+        "Delay": 2,
+        "Text": "Auf der der Bienen. Ich hatte mal 'ne Grillenfreundin, "
+    },
+    "2355": {
+        "Delay": 4,
+        "Text": "in San Antonio. Das waren Beine! Zum Verrucktwerden, sage ich euch. "
+    },
+    "2359": {
+        "Delay": 4,
+        "Text": "Willst du das in Zukunft tun? Es geht um unser aller Zukunft. "
+    },
+    "2363": {
+        "Delay": 4,
+        "Text": "Niemand arbeitet hrter als Bienen. Dad, du bist schon so uberarbeitet "
+    },
+    "2368": {
+        "Delay": 4,
+        "Text": "nach Hause gekommen, dass deine Hnde immer noch ruhrten. Stimmt. "
+    },
+    "2372": {
+        "Delay": 4,
+        "Text": "Was gibt ihnen das Recht auf unseren hart verdienten Honig? "
+    },
+    "2376": {
+        "Delay": 4,
+        "Text": "Wir leben von 2 Bechern im Jahr! Und was knnte eine Biene tun? "
+    },
+    "2381": {
+        "Delay": 4,
+        "Text": "Ich steche dorthin, wo es wehtut. Ins Gesicht? Ins Auge? "
+    },
+    "2385": {
+        "Delay": 4,
+        "Text": "Nein. In die Nase? Menschen haben einen wunden Punkt. "
+    },
+    "2389": {
+        "Delay": 4,
+        "Text": "An dem es richtig wehtut. (TV) Die Wabenshow um 5. "
+    },
+    "2394": {
+        "Delay": 4,
+        "Text": "Die einzige Nachrichtensendung im Stock, die wirklich aktuell ist. "
+    },
+    "2405": {
+        "Delay": 4,
+        "Text": "Mit unserem Moderator Horst Hummel. Das Wetter mit Stachelchen Sturm. "
+    },
+    "2409": {
+        "Delay": 4,
+        "Text": "Der Sport mit Brummer Laughi. Und Jeanette Chung. "
+    },
+    "2414": {
+        "Delay": 3,
+        "Text": "Ich bin Horst Hummel. - Und ich Jeanette Chung. "
+    },
+    "2418": {
+        "Delay": 4,
+        "Text": "Die Topstory. Barry Benson hat vor, die Menschen zu verklagen, "
+    },
+    "2422": {
+        "Delay": 4,
+        "Text": "weil die uns den Honig stehlen. Sie treiben damit illegalen Handel. "
+    },
+    "2428": {
+        "Delay": 5,
+        "Text": "Morgen Abend bei Biene Larry King, sehen Sie drei ehemalige Kniginnen, "
+    },
+    "2433": {
+        "Delay": 4,
+        "Text": "die zu uns ins Studio kommen werden. Sie stellen ihr neues Buch vor: "
+    },
+    "2437": {
+        "Delay": 4,
+        "Text": "\"Elegante Ladys\". Heute Abend reden wir mit Barry Benson. "
+    },
+    "2441": {
+        "Delay": 4,
+        "Text": "Haben Sie jemals gedacht: Ich bin nur eine Biene. Ich kann das nicht. "
+    },
+    "2446": {
+        "Delay": 3,
+        "Text": "Barry B. hatte nie Angst. Was ist mit Biene Kolumbus, Biene Gandhi, "
+    },
+    "2450": {
+        "Delay": 3,
+        "Text": "Biene Jesus? An so was dachten wir fruher nicht. "
+    },
+    "2454": {
+        "Delay": 4,
+        "Text": "Wir spielten mit Murmeln und so. Wie alt sind Sie eigentlich? "
+    },
+    "2458": {
+        "Delay": 4,
+        "Text": "Und ich mchte Ihnen sagen, dass die Bienengemeinschaft Sie unterstutzt. "
+    },
+    "2462": {
+        "Delay": 4,
+        "Text": "Das wird der Prozess uberhaupt. Es gibt auch einen Larry King "
+    },
+    "2466": {
+        "Delay": 4,
+        "Text": "in der Menschenwelt. Nchste Woche bei Biene Larry King: "
+    },
+    "2471": {
+        "Delay": 3,
+        "Text": "Nein, er sieht auch aus wie Sie. Er hat eine Show, hat Hosentrger an... "
+    },
+    "2475": {
+        "Delay": 3,
+        "Text": "Nchstes Mal bei Biene Larry King... Unten laufen Stze der Gste durch, "
+    },
+    "2479": {
+        "Delay": 4,
+        "Text": "die man gerade erst gehrt hat. Nchstes Mal haben wir Bren-Woche. "
+    },
+    "2483": {
+        "Delay": 5,
+        "Text": "Sie sind haarig und hier. Live! Er sieht aus wie Sie, und so alt. "
+    },
+    "2489": {
+        "Delay": 4,
+        "Text": "Hr zu, Van. Beim Tennis greift man immer die Schwachstellen an. "
+    },
+    "2494": {
+        "Delay": 3,
+        "Text": "Aber das war meine Gromutter, Ken. Sie ist 81. "
+    },
+    "2498": {
+        "Delay": 4,
+        "Text": "Ihre Ruckhand ist ein Witz. Soll ich das etwa nicht ausnutzen? "
+    },
+    "2502": {
+        "Delay": 4,
+        "Text": "Ruhe, bitte. Hier wird gearbeitet. Ist das schon wieder diese Biene? "
+    },
+    "2506": {
+        "Delay": 4,
+        "Text": "Ja, ist sie. Wir werden die Menschheit verklagen. "
+    },
+    "2511": {
+        "Delay": 3,
+        "Text": "Oh, hallo. Hallo, Biene. Das ist Ken. "
+    },
+    "2515": {
+        "Delay": 4,
+        "Text": "Ja, ich erinnere mich. Timberland, Gre 44, vulkanisierte Gummisohle. "
+    },
+    "2519": {
+        "Delay": 3,
+        "Text": "Habe ich Recht? Wieso kann der reden? "
+    },
+    "2523": {
+        "Delay": 4,
+        "Text": "Am besten gehst du jetzt. Aber heute ist unser Joghurt-Abend. "
+    },
+    "2529": {
+        "Delay": 3,
+        "Text": "Warum ist dieser Abend so schwierig? "
+    },
+    "2532": {
+        "Delay": 4,
+        "Text": "Du armes Ding. Ihr zwei sitzt doch schon seit Stunden daran. "
+    },
+    "2537": {
+        "Delay": 3,
+        "Text": "Ja, und Adam war eine groe Hilfe. Zuckerguss! "
+    },
+    "2541": {
+        "Delay": 3,
+        "Text": "Wie viel Zucker? Nur ein Stuck. "
+    },
+    "2545": {
+        "Delay": 4,
+        "Text": "Wieso hilfst du mir bei der Sache? Bienen haben gute Eigenschaften. "
+    },
+    "2550": {
+        "Delay": 3,
+        "Text": "Italienisch Es tut gut, sich nicht zu sorgen. "
+    },
+    "2554": {
+        "Delay": 4,
+        "Text": "Aber viele Leute verschenken lieber Luftballonstrue statt Blumen. "
+    },
+    "2558": {
+        "Delay": 4,
+        "Text": "Die sind toll. Wenn man drei ist. Sie fragen auch nach kunstlichen. "
+    },
+    "2562": {
+        "Delay": 4,
+        "Text": "Die machen mich irre! Mich auch. Man verbiegt sich die Stacheln, "
+    },
+    "2566": {
+        "Delay": 4,
+        "Text": "die Bestubung bringt nichts. Ja, Bienen mussen sie hassen! "
+    },
+    "2570": {
+        "Delay": 5,
+        "Text": "Das ist fur mich das Letzte. Dann ist das hier 'ne Abwechselung. "
+    },
+    "2575": {
+        "Delay": 5,
+        "Text": "Das kann ein groer Prozess werden. Sicher, dass du das machen willst? "
+    },
+    "2580": {
+        "Delay": 4,
+        "Text": "Wenn ich gewinne, knnen die Menschen nicht mal mehr sagen: "
+    },
+    "2584": {
+        "Delay": 4,
+        "Text": "\"Hallo, mein Honigschnuzchen\", ohne Lizenzgebuhren zu zahlen. "
+    },
+    "2589": {
+        "Delay": 3,
+        "Text": "Sarah, hier ist ganz schn was los im Zentrum von Manhattan. "
+    },
+    "2593": {
+        "Delay": 4,
+        "Text": "Wo die ganze Welt gespannt hinschaut und darauf wartet, zum ersten Mal "
+    },
+    "2597": {
+        "Delay": 5,
+        "Text": "in der Geschichte der Menschheit mitzuerleben, ob 'ne Biene spricht. "
+    },
+    "2604": {
+        "Delay": 5,
+        "Text": "Was haben wir losgetreten, Barry? Es ist 'ne sehr groe Sache, oder? "
+    },
+    "2609": {
+        "Delay": 4,
+        "Text": "Wow, wie viele Leute nicht arbeiten. Denkst du, diese milliardenschweren, "
+    },
+    "2614": {
+        "Delay": 3,
+        "Text": "multinationalen Lebensmittelkonzerne haben gute Anwlte? "
+    },
+    "2630": {
+        "Delay": 4,
+        "Text": "Was ist mir dir los? Mir lief es kalt den Rucken runter. "
+    },
+    "2639": {
+        "Delay": 5,
+        "Text": "Ah, die gestreifte Revolution. Hat einer von euch daran mitgearbeitet? "
+    },
+    "2647": {
+        "Delay": 4,
+        "Text": "Erheben Sie sich. Die Richterin Hummelmeier hat den Vorsitz. "
+    },
+    "2652": {
+        "Delay": 4,
+        "Text": "Prozess Nr. 4475 vor dem Gericht NY, Berry Benson Biene "
+    },
+    "2657": {
+        "Delay": 3,
+        "Text": "gegen die Honig-Industrie, ist hiermit erffnet. "
+    },
+    "2661": {
+        "Delay": 4,
+        "Text": "Mr. Montgomery, Sie ubernehmen die Vertretung der Lebensmittelkonzerne? "
+    },
+    "2665": {
+        "Delay": 4,
+        "Text": "Ist mir eine auerordentliche Ehre. - Mr. Benson, Sie ubernehmen "
+    },
+    "2669": {
+        "Delay": 3,
+        "Text": "die Vertretung aller Bienen dieser Welt? "
+    },
+    "2676": {
+        "Delay": 2,
+        "Text": "Summt "
+    },
+    "2681": {
+        "Delay": 5,
+        "Text": "War blo ein kleiner Scherz. Ja, Euer Ehren, wir sind dafur bereit. "
+    },
+    "2686": {
+        "Delay": 4,
+        "Text": "Mr. Montgomery, halten Sie bitte Ihr Erffnungspldoyer. "
+    },
+    "2692": {
+        "Delay": 4,
+        "Text": "Sehr verehrte Damen und Herren Geschworenen. Meine liebe Gromutter "
+    },
+    "2697": {
+        "Delay": 3,
+        "Text": "war eine einfache Frau. Geboren auf einer Farm, lebte sie im Glauben, "
+    },
+    "2701": {
+        "Delay": 4,
+        "Text": "dass es des Menschen Recht ist, von den Gaben der Natur zu profitieren, "
+    },
+    "2705": {
+        "Delay": 4,
+        "Text": "die Gott bereithlt. Wenn wir in der verdrehen Welt leben wurden, "
+    },
+    "2709": {
+        "Delay": 4,
+        "Text": "die Mr. Benson sich vorstellt, dann wurde das Folgendes bedeuten: "
+    },
+    "2713": {
+        "Delay": 4,
+        "Text": "Ich musste z.B. mit 'ner Seidenraupe um den Gummizug feilschen. "
+    },
+    "2718": {
+        "Delay": 5,
+        "Text": "Eine sprechende Biene. Woher wollen wir wissen, dass das nicht eine Art "
+    },
+    "2723": {
+        "Delay": 6,
+        "Text": "holografischer Hollywood-Budenzauber ist? Womglich gibt's Laserstrahlen? "
+    },
+    "2729": {
+        "Delay": 4,
+        "Text": "Roboter, Klone oder Bauchredner? Woher wissen wir schon, "
+    },
+    "2734": {
+        "Delay": 3,
+        "Text": "ob er nicht irgendwelche Steroide schluckt? "
+    },
+    "2738": {
+        "Delay": 3,
+        "Text": "Mr. Benson. "
+    },
+    "2745": {
+        "Delay": 4,
+        "Text": "Verehrte Damen und Herren Geschworenen, das ist kein Trick. "
+    },
+    "2749": {
+        "Delay": 4,
+        "Text": "Ich bin eine Biene. Honig ist sehr wichtig fur alle Bienen. "
+    },
+    "2754": {
+        "Delay": 3,
+        "Text": "Wir haben ihn erfunden. Wir machen ihn. Wir wollen ihn schutzen. "
+    },
+    "2758": {
+        "Delay": 2,
+        "Text": "Leider gibt es einige, die denken, "
+    },
+    "2761": {
+        "Delay": 4,
+        "Text": "sie knnen von uns nehmen, was sie wollen, weil wir die Kleinen sind. "
+    },
+    "2765": {
+        "Delay": 4,
+        "Text": "Mit dem Diebstahl des Honigs nehmen sie uns nicht nur alles weg, "
+    },
+    "2770": {
+        "Delay": 3,
+        "Text": "was wir haben, sondern auch alles, was wir sind. "
+    },
+    "2775": {
+        "Delay": 5,
+        "Text": "Er sollte sich immer so anziehen. - Rufen Sie Ihren ersten Zeugen auf. "
+    },
+    "2780": {
+        "Delay": 5,
+        "Text": "Mr. Klaus Vanderhayden von Honey Farms. Ihre Firma ist ziemlich gro. "
+    },
+    "2785": {
+        "Delay": 4,
+        "Text": "So kann man das ausdrucken. Ihnen gehrt auch Honeyburton "
+    },
+    "2789": {
+        "Delay": 4,
+        "Text": "und die Honron-Jobagentur. Sie vermitteln uns Bienenbetreuer. "
+    },
+    "2794": {
+        "Delay": 3,
+        "Text": "Dieser Ausdruck klingt ungewohnt fur mich, muss ich sagen. "
+    },
+    "2798": {
+        "Delay": 4,
+        "Text": "Haben Sie auch Bienenbefreier? Ich konnte Sie nicht hren. Nein. "
+    },
+    "2803": {
+        "Delay": 4,
+        "Text": "Weil Sie Bienen auch nicht befreien, sondern in Gefangenschaft halten! "
+    },
+    "2808": {
+        "Delay": 3,
+        "Text": "Sie glauben sogar, dass ein Br die passende Form fur den Honigtopf ist. "
+    },
+    "2812": {
+        "Delay": 5,
+        "Text": "Wieso? Das sind liebe Tierchen? Yogi Br, Fozzie Br, Teddybr. "
+    },
+    "2818": {
+        "Delay": 2,
+        "Text": "Ja, meinen Sie so einen? "
+    },
+    "2822": {
+        "Delay": 6,
+        "Text": "Bren tten Bienen! Wie fnden Sie es, wenn der in Ihrem Haus wre, "
+    },
+    "2828": {
+        "Delay": 4,
+        "Text": "Ihre Couch zerfleddert und dabei Ihre Kissen ausspuckt. "
+    },
+    "2832": {
+        "Delay": 4,
+        "Text": "Okay, das reicht. Bringen Sie ihn wieder raus. "
+    },
+    "2840": {
+        "Delay": 4,
+        "Text": "Mr. Sting, danke, dass Sie gekommen sind. Ihr Name macht mich neugierig. "
+    },
+    "2844": {
+        "Delay": 4,
+        "Text": "Wo hab ich ihn schon mal gehrt. Ich war in einer Band, The Police. "
+    },
+    "2849": {
+        "Delay": 3,
+        "Text": "Aber Sie waren nie Polizeibeamter? Naturlich war ich das nicht. "
+    },
+    "2853": {
+        "Delay": 3,
+        "Text": "Hier haben wir noch ein Beispiel, wie Bienenkultur gestohlen "
+    },
+    "2857": {
+        "Delay": 4,
+        "Text": "und missbraucht wird, nur um eine bessere Figur abzugeben. Bitte. "
+    },
+    "2861": {
+        "Delay": 5,
+        "Text": "Der Name bedeutet \"Stachel\". Und mir versetzt er einen Stich, Sting. "
+    },
+    "2866": {
+        "Delay": 4,
+        "Text": "Oder soll ich lieber sagen: Mr. Gorden M. Sumner! "
+    },
+    "2871": {
+        "Delay": 4,
+        "Text": "Das ist nicht sein richtiger Name? Idiot! - Hey! "
+    },
+    "2876": {
+        "Delay": 3,
+        "Text": "Mr. Liotta, ich gratuliere, dass Sie 2005 den Emmy "
+    },
+    "2880": {
+        "Delay": 4,
+        "Text": "fur eine Gastrolle in Emergency Room gewonnen haben. Danke. "
+    },
+    "2885": {
+        "Delay": 4,
+        "Text": "Ich entnehme Ihrem Lebenslauf, dass Sie ein Wesen in sich tragen, "
+    },
+    "2889": {
+        "Delay": 4,
+        "Text": "das jederzeit explodieren kann. Ich finde gut, was ich tue. "
+    },
+    "2893": {
+        "Delay": 4,
+        "Text": "Ist das ein Verbrechen? Nein. Aber musste es so weit kommen? "
+    },
+    "2898": {
+        "Delay": 3,
+        "Text": "Sie beuten hilflose Bienen aus, nur weil Sie Ihre Rollen nicht wollen "
+    },
+    "2902": {
+        "Delay": 3,
+        "Text": "und Ihnen Texte lernen schwer fllt. Vorsicht! Ich knnte explodieren. "
+    },
+    "2906": {
+        "Delay": 4,
+        "Text": "Er spielt im Film schon nicht die Guten. Er ist im Leben ein Bser! "
+    },
+    "2910": {
+        "Delay": 4,
+        "Text": "Wieso zertritt ihn niemand? Dann knnten wir alle nach Hause. "
+    },
+    "2914": {
+        "Delay": 3,
+        "Text": "Das denkt ihr doch auch alle. - Ruhe! "
+    },
+    "2919": {
+        "Delay": 4,
+        "Text": "\"Biene klagt an. Filmstudio streicht Liotta-Projekt.\" "
+    },
+    "2925": {
+        "Delay": 5,
+        "Text": "Ich fand das nett von dem Bren. Die Geschworenen halten zu uns. "
+    },
+    "2931": {
+        "Delay": 3,
+        "Text": "Machen wir juristisch alles richtig? Ich bin Floristin. "
+    },
+    "2935": {
+        "Delay": 4,
+        "Text": "Richtig. Auf ein groartiges Team. Auf ein groartiges Team. "
+    },
+    "2941": {
+        "Delay": 3,
+        "Text": "Hallo. Oh, Ken! Hallo! "
+    },
+    "2945": {
+        "Delay": 4,
+        "Text": "Mit dir hab ich nicht gerechnet. Ich wollte anrufen, "
+    },
+    "2949": {
+        "Delay": 4,
+        "Text": "aber der Akku war leer. Ich wollte nichts wegschmeien, "
+    },
+    "2953": {
+        "Delay": 4,
+        "Text": "also dachte ich, ich ruf Barry an. Und zufllig hatte er Zeit. Ja. "
+    },
+    "2958": {
+        "Delay": 4,
+        "Text": "Was fur ein Gluck. Ein bisschen was ist noch ubrig. "
+    },
+    "2962": {
+        "Delay": 5,
+        "Text": "Das kann ich dir aufwrmen. Ja, mach das. Ganz wie du willst. "
+    },
+    "2970": {
+        "Delay": 4,
+        "Text": "Ich hrte, Sie sind ein guter Tennisspieler. Ich finde, "
+    },
+    "2974": {
+        "Delay": 3,
+        "Text": "der Ball ist etwas klebrig. "
+    },
+    "2978": {
+        "Delay": 4,
+        "Text": "Normalerweise sitze ich da. Genau da. "
+    },
+    "2983": {
+        "Delay": 4,
+        "Text": "Barry hat sich deinen Lebenslauf angesehen. Er war auch der Meinung, "
+    },
+    "2988": {
+        "Delay": 3,
+        "Text": "dass mit Stbchen essen keine besondere Fhigkeit ist. "
+    },
+    "2992": {
+        "Delay": 3,
+        "Text": "Glaub mir, ich durchschaue dich. Ich wei genau, wie schwer es ist, "
+    },
+    "2996": {
+        "Delay": 4,
+        "Text": "den richtigen Job zu finden. Das haben wir gemeinsam. Meinst du? "
+    },
+    "3000": {
+        "Delay": 4,
+        "Text": "Tja, ich rei mich nicht darum, Schdlingsvernichter zu werden. "
+    },
+    "3004": {
+        "Delay": 3,
+        "Text": "Ich tu das gerne. Ist mein Hobby. "
+    },
+    "3008": {
+        "Delay": 5,
+        "Text": "Ken, ich habe Barry deinen Rasierer geborgt, fur seinen Pelz. Okay? "
+    },
+    "3016": {
+        "Delay": 4,
+        "Text": "Ich flieg mal kurz den Stachel wringen. Ja, tu das. "
+    },
+    "3023": {
+        "Delay": 2,
+        "Text": "Sieh dir das an! "
+    },
+    "3033": {
+        "Delay": 6,
+        "Text": "So langsam habe ich die Nase voll von dir und von deinen Spielchen. "
+    },
+    "3039": {
+        "Delay": 4,
+        "Text": "Was ist das? Die Vogue. Mama Mia, die hat aber viele Seiten. "
+    },
+    "3043": {
+        "Delay": 4,
+        "Text": "Sind viele Anzeigen drin. Aber was sagte Vanessa? Wieso ist "
+    },
+    "3048": {
+        "Delay": 4,
+        "Text": "ihr Leben mehr wert als meins? Daran kann ich mich nicht erinnern! "
+    },
+    "3052": {
+        "Delay": 4,
+        "Text": "Nanu? Irgendwas stinkt hier drin. Ich liebe den Geruch von Blumen. "
+    },
+    "3057": {
+        "Delay": 5,
+        "Text": "Ja? Wie gefllt dir denn der Geruch von Flammen? Nicht so besonders. "
+    },
+    "3075": {
+        "Delay": 4,
+        "Text": "Wasserkfer! Ich bin neutral. - Da hilft nur der Nadelstrahl. "
+    },
+    "3079": {
+        "Delay": 4,
+        "Text": "Was soll ich noch machen? Ich trag schon 'nen Lippenstiftdeckel. "
+    },
+    "3084": {
+        "Delay": 4,
+        "Text": "Ich halt's nicht aus! Schreie "
+    },
+    "3088": {
+        "Delay": 4,
+        "Text": "Was darf's sein? Waschen und spulen? Sie bluffen doch nur. "
+    },
+    "3093": {
+        "Delay": 1,
+        "Text": "Meinst du? "
+    },
+    "3104": {
+        "Delay": 4,
+        "Text": "Die Saison ist erffnet, Kumpel. Popo-Wasser! "
+    },
+    "3110": {
+        "Delay": 5,
+        "Text": "Die Schussel hat einen Hammerdrive. Wenn blo die Streifen nicht wren! "
+    },
+    "3115": {
+        "Delay": 5,
+        "Text": "Ken! Was tust du denn da? Ich kann Honig noch nicht ausstehen. "
+    },
+    "3120": {
+        "Delay": 4,
+        "Text": "Ich esse keinen! Er ist nur eine kleine Biene. "
+    },
+    "3125": {
+        "Delay": 4,
+        "Text": "Und er ist die netteste Biene, die ich jemals kennengelernt habe! "
+    },
+    "3130": {
+        "Delay": 4,
+        "Text": "Wieso denn jemals? Gibt es noch mehr von diesen Tieren in deinem Leben? "
+    },
+    "3135": {
+        "Delay": 3,
+        "Text": "Nein! Aber da sind einige Dinge, die mich tierisch nerven. "
+    },
+    "3139": {
+        "Delay": 3,
+        "Text": "Und du bist eins davon. Redende Bienen, kein Joghurt-Abend! "
+    },
+    "3143": {
+        "Delay": 5,
+        "Text": "Ich bin vollkommen fix und fertig! Auf Wiedersehen, Ken! "
+    },
+    "3151": {
+        "Delay": 5,
+        "Text": "Und zu deiner Info: Ich mag nur zuckerfreie, kunstliche Sustoffe, "
+    },
+    "3156": {
+        "Delay": 5,
+        "Text": "die von Menschen gemacht werden! Es tut mir alles so leid. "
+    },
+    "3161": {
+        "Delay": 5,
+        "Text": "Ich wei, die hinterlassen einen Nachgeschmack. Ich steh drauf! "
+    },
+    "3167": {
+        "Delay": 5,
+        "Text": "Diese Barriere zwischen ihm und mir konnte ich nicht uberwinden. Na ja. "
+    },
+    "3172": {
+        "Delay": 5,
+        "Text": "Bist du bereit fur den Prozess? Mr. Montgomery gehen die Ideen aus. "
+    },
+    "3178": {
+        "Delay": 4,
+        "Text": "Und nun rufe ich Mr. Barry Benson Biene in den Zeugenstand. "
+    },
+    "3182": {
+        "Delay": 5,
+        "Text": "Jetzt wird auch klar, warum ihn alle fur den besten Anwalt... Adam. "
+    },
+    "3190": {
+        "Delay": 4,
+        "Text": "Layton, entweder Sie verzaubern die Geschworenen oder es ist alles aus. "
+    },
+    "3194": {
+        "Delay": 4,
+        "Text": "Das Einzige, was ich tun muss, um die Geschworenen zu uberzeugen, ist, "
+    },
+    "3199": {
+        "Delay": 3,
+        "Text": "ihnen ins Gedchtnis zu rufen, was sie nicht an Bienen mgen. "
+    },
+    "3203": {
+        "Delay": 3,
+        "Text": "Konnten Sie die Pinzette besorgen? - Sind Sie allergisch? "
+    },
+    "3207": {
+        "Delay": 3,
+        "Text": "Nur dagegen zu verlieren. Mr. Benson Biene, ich frage Sie nun etwas: "
+    },
+    "3211": {
+        "Delay": 5,
+        "Text": "Was fur eine Art Beziehung haben Sie explizit zu dieser Frau? "
+    },
+    "3218": {
+        "Delay": 3,
+        "Text": "Wir sind Freunde. Gute Freunde? Ja. "
+    },
+    "3222": {
+        "Delay": 3,
+        "Text": "Kann es sein, dass Sie zusammenleben? "
+    },
+    "3226": {
+        "Delay": 4,
+        "Text": "Sind Sie auch im Bett ihr Stecher? Hey! Das ist nicht der Gegenstand... "
+    },
+    "3230": {
+        "Delay": 4,
+        "Text": "Ich habe Dokus uber Bienen gesehen. Alle Bienenkinder schlupfen doch "
+    },
+    "3235": {
+        "Delay": 5,
+        "Text": "im Stock aus Eiern der Knigin. Dann sind das nicht Ihre Eltern! "
+    },
+    "3240": {
+        "Delay": 5,
+        "Text": "Doch, das sind sie. Halt mich! Sie sind also eine uneheliche Biene? "
+    },
+    "3246": {
+        "Delay": 3,
+        "Text": "Der verleumdet Bienen. Habt ihr was mit euren Cousinen? "
+    },
+    "3250": {
+        "Delay": 3,
+        "Text": "Einspruch! Den Typ mach ich zum Nadelkissen! "
+    },
+    "3255": {
+        "Delay": 3,
+        "Text": "Adam, nicht! Das will er doch nur! "
+    },
+    "3262": {
+        "Delay": 4,
+        "Text": "Ich bin getroffen! Gott im Himmel, lass mich am Leben. "
+    },
+    "3267": {
+        "Delay": 4,
+        "Text": "Ruhe! Reien Sie sich zusammen. - Das Gift jagt durch meine Adern. "
+    },
+    "3272": {
+        "Delay": 3,
+        "Text": "Ich bin von einem geflugelten Vernichtungsmonster niedergestreckt! "
+    },
+    "3276": {
+        "Delay": 3,
+        "Text": "Sie knnen uns nicht gleichwertig behandeln. Das sind Wilde! "
+    },
+    "3280": {
+        "Delay": 3,
+        "Text": "Stechen ist alles, was sie knnen. Das ist ihre Art! "
+    },
+    "3284": {
+        "Delay": 4,
+        "Text": "Adam, lass mich nicht im Stich. Ich habe kein Gefuhl in den Beinen. "
+    },
+    "3288": {
+        "Delay": 5,
+        "Text": "Welcher Gnadenengel tritt hervor und saugt mir das Gift aus dem Hintern? "
+    },
+    "3294": {
+        "Delay": 4,
+        "Text": "Ich bitte um Ruhe im Gerichtssaal. Ruhe! Ruhe, bitte. "
+    },
+    "3300": {
+        "Delay": 4,
+        "Text": "(TV) Der Prozess Honigbienen gegen die Menschheit hat sich gestern... "
+    },
+    "3304": {
+        "Delay": 4,
+        "Text": "Danke schn. fur die Bienen zugespitzt. "
+    },
+    "3323": {
+        "Delay": 3,
+        "Text": "Hey, Kumpel. Hast du Schmerzen? Ja. "
+    },
+    "3329": {
+        "Delay": 5,
+        "Text": "Ich habe den Fall vermasselt, oder? Das ist egal. Hauptsache, du lebst. "
+    },
+    "3334": {
+        "Delay": 4,
+        "Text": "Du httest sterben knnen. Ich wre auch lieber tot. "
+    },
+    "3338": {
+        "Delay": 6,
+        "Text": "Sieh mich an. Das Ding haben sie aus einem Thunfischsandwich. "
+    },
+    "3344": {
+        "Delay": 5,
+        "Text": "Siehst du? Da ist noch Gurke dran. Was war \"Stechen\" fur ein Gefuhl? "
+    },
+    "3350": {
+        "Delay": 4,
+        "Text": "Ich kann es nicht einmal erklren. Es war ein Erregungszustand, "
+    },
+    "3354": {
+        "Delay": 5,
+        "Text": "und dann eine Ekstase. Oh, na schn. "
+    },
+    "3360": {
+        "Delay": 4,
+        "Text": "Du denkst, es war 'ne Falle von ihm? Sicher! Was haben wir uns gedacht? "
+    },
+    "3364": {
+        "Delay": 5,
+        "Text": "Sieh uns an. Wir sind nichts weiter als Ungeziefer in dieser Welt. "
+    },
+    "3369": {
+        "Delay": 4,
+        "Text": "Was werden sie mit uns machen, wenn sie gewinnen? Keine Ahnung. "
+    },
+    "3373": {
+        "Delay": 6,
+        "Text": "Mit Fliegen spielen sie nur Tennis. Es klatscht einmal und es ist aus. "
+    },
+    "3379": {
+        "Delay": 3,
+        "Text": "Du meine Gute. "
+    },
+    "3383": {
+        "Delay": 4,
+        "Text": "Hol bitte eine Schwester. Sie soll das Fenster schlieen. Wieso? "
+    },
+    "3388": {
+        "Delay": 4,
+        "Text": "Der Rauch. Bienen rauchen nicht. Richtig. Bienen wurden nie rauchen. "
+    },
+    "3393": {
+        "Delay": 4,
+        "Text": "Bienen rauchen zwar nicht, aber es gibt Bienen, die verruchert werden. "
+    },
+    "3398": {
+        "Delay": 3,
+        "Text": "Das ist es! Das ist unser Fall. Ach ja? Es ist nicht vorbei? "
+    },
+    "3402": {
+        "Delay": 4,
+        "Text": "Nein. Zieh dich an. Du gehst wieder ins Gericht und schindest Zeit! "
+    },
+    "3408": {
+        "Delay": 5,
+        "Text": "Und wenn sie alles richtig gemacht haben, ist es Zeit zum Baden. "
+    },
+    "3419": {
+        "Delay": 3,
+        "Text": "Mr. Flayman. Ja? Ja, Euer Ehren? "
+    },
+    "3422": {
+        "Delay": 4,
+        "Text": "Wo ist der Rest Ihres Teams? Ja, Euer Ehren, das ist interessant. "
+    },
+    "3427": {
+        "Delay": 4,
+        "Text": "Wir Bienen haben es nicht so mit der Punktlichkeit. "
+    },
+    "3431": {
+        "Delay": 5,
+        "Text": "Ich habe ubrigens eine ziemlich lustige Geschichte... Euer Ehren! "
+    },
+    "3436": {
+        "Delay": 4,
+        "Text": "Diese Insekten haben nun wirklich genug Zeit des Gerichts beansprucht. "
+    },
+    "3441": {
+        "Delay": 3,
+        "Text": "Wie lange wollen wir ihnen diese absurden Tricks durchgehen lassen? "
+    },
+    "3445": {
+        "Delay": 4,
+        "Text": "Sie haben keine Beweise vorgelegt, die eine strafbare Handlung "
+    },
+    "3449": {
+        "Delay": 4,
+        "Text": "meiner Mandanten darlegen wurden. Da diese legale Unternehmen fuhren. "
+    },
+    "3454": {
+        "Delay": 3,
+        "Text": "Ich pldiere dafur, das gesamte Verfahren komplett einzustellen! "
+    },
+    "3458": {
+        "Delay": 3,
+        "Text": "Mr. Flayman, ich furchte, dass ich seinem Antrag stattgeben muss. "
+    },
+    "3462": {
+        "Delay": 4,
+        "Text": "Nein! Der Tatbestand ist eindeutig. Wo sind eure Beweise? Eure Indizien? "
+    },
+    "3467": {
+        "Delay": 4,
+        "Text": "Der Fall ist nur Schall und Rauch. Warten Sie, Euer Ehren! "
+    },
+    "3471": {
+        "Delay": 5,
+        "Text": "Wenn Sie auf Rauch bestehen? Hier ist der Rauch, um den es geht. "
+    },
+    "3478": {
+        "Delay": 4,
+        "Text": "Was ist das? Ein Smoker, um uns einzuruchern. "
+    },
+    "3482": {
+        "Delay": 4,
+        "Text": "Diese harmlose kleine Blechbuchse? Das knnte keiner Fliege was tun. "
+    },
+    "3493": {
+        "Delay": 4,
+        "Text": "Verehrte Geschworene, sehen Sie, was mit den Bienen passiert ist. "
+    },
+    "3498": {
+        "Delay": 3,
+        "Text": "Ist es das, was die Natur fur uns vorgesehen hat? "
+    },
+    "3502": {
+        "Delay": 4,
+        "Text": "Mit Gewalt nach den Rauchmaschinen suchtig gemacht zu werden? "
+    },
+    "3507": {
+        "Delay": 4,
+        "Text": "Ein trostloses Dasein als Honigsklaven fur den weien Mann? "
+    },
+    "3513": {
+        "Delay": 4,
+        "Text": "Was sollen wir denn jetzt tun? - Ihr spielt den achten Trumpf aus. "
+    },
+    "3518": {
+        "Delay": 3,
+        "Text": "Bitte, ich denke, dass wir es verdienen. Befreit die Bienen! "
+    },
+    "3522": {
+        "Delay": 5,
+        "Text": "(Alle) Befreit die Bienen, befreit die Bienen... "
+    },
+    "3529": {
+        "Delay": 4,
+        "Text": "Das Gericht entscheidet den Fall zu Gunsten der Bienen. "
+    },
+    "3533": {
+        "Delay": 4,
+        "Text": "Vanessa, wir haben gewonnen! Ja! Ich wusste es. Gib mir funf! "
+    },
+    "3538": {
+        "Delay": 3,
+        "Text": "Oh, entschuldige. Es geht mir gut. Vanessa, weit du, "
+    },
+    "3542": {
+        "Delay": 4,
+        "Text": "was das bedeutet? Der Honig gehrt endlich nur noch den Bienen. "
+    },
+    "3546": {
+        "Delay": 3,
+        "Text": "Wir mussen uns nicht mehr abrackern! "
+    },
+    "3549": {
+        "Delay": 4,
+        "Text": "Das ist ein nicht gottgewollter Eingriff in die Natur, Benson. "
+    },
+    "3554": {
+        "Delay": 4,
+        "Text": "Das wird dir noch leidtun. - Wie viel Honig gibt es da drauen? "
+    },
+    "3559": {
+        "Delay": 3,
+        "Text": "Ist schon gut. Nacheinander. Barry, welche Marke tragen Sie? "
+    },
+    "3563": {
+        "Delay": 3,
+        "Text": "Mein Pullover ist von Ralf Lorey. Was ist, wenn Montgomery Recht hat? "
+    },
+    "3567": {
+        "Delay": 5,
+        "Text": "Was meinst du? Wir leben schon 27 Mio. Jahre so. "
+    },
+    "3573": {
+        "Delay": 4,
+        "Text": "Gratuliere zu Ihrem Sieg. Was werden Sie als Abfindung beantragen? "
+    },
+    "3578": {
+        "Delay": 5,
+        "Text": "Als Erstes werden wir die Schlieung aller Bienenlager einfordern. "
+    },
+    "3583": {
+        "Delay": 4,
+        "Text": "Dann wollen wir den Honig zuruck, der uns von Anfang an gehrt hat. "
+    },
+    "3588": {
+        "Delay": 3,
+        "Text": "Daruber hinaus muss mit der Brenverherrlichung Schluss sein. "
+    },
+    "3592": {
+        "Delay": 5,
+        "Text": "Er ist nichts anderes als eine verfilzte Mundgeruchstinkmaschine. "
+    },
+    "3598": {
+        "Delay": 4,
+        "Text": "Warten Sie auf mein Zeichen. Knipsen Sie ihn aus. "
+    },
+    "3604": {
+        "Delay": 3,
+        "Text": "Er ist bald wieder fit. "
+    },
+    "3608": {
+        "Delay": 4,
+        "Text": "Und wir werden weder Bienen negative Spitznamen dulden "
+    },
+    "3613": {
+        "Delay": 4,
+        "Text": "noch die unntige Verwendung von Honig in Schwindelprodukten. "
+    },
+    "3617": {
+        "Delay": 5,
+        "Text": "Noch die Schickimicki-Verwendung von Honig zur Versuung des Tees. "
+    },
+    "3625": {
+        "Delay": 3,
+        "Text": "Her mit dem Honig, Jungs. "
+    },
+    "3637": {
+        "Delay": 5,
+        "Text": "Herr Summherum, wir sind schon bei 3 Tassen, und da kommen noch mehr! "
+    },
+    "3642": {
+        "Delay": 4,
+        "Text": "Wir mussen alles runterfahren. - Das haben wir noch nie getan! "
+    },
+    "3647": {
+        "Delay": 3,
+        "Text": "Die Honigproduktion runterfahren. Hrt auf, Honig zu machen. "
+    },
+    "3655": {
+        "Delay": 3,
+        "Text": "Dreht eure Schlussel herum. "
+    },
+    "3668": {
+        "Delay": 2,
+        "Text": "Und was machen wir jetzt? "
+    },
+    "3673": {
+        "Delay": 3,
+        "Text": "Arschbombe! "
+    },
+    "3682": {
+        "Delay": 4,
+        "Text": "Mission abbrechen. - Nektar sammeln einstellen. "
+    },
+    "3686": {
+        "Delay": 2,
+        "Text": "Kehren um. "
+    },
+    "3723": {
+        "Delay": 3,
+        "Text": "Was? Keine Blumen mehr? "
+    },
+    "3734": {
+        "Delay": 4,
+        "Text": "Adam, es gab drauen so viel Honig, nicht zu fassen. Ach ja? "
+    },
+    "3739": {
+        "Delay": 4,
+        "Text": "Was ist denn hier los? Wo sind denn alle? Sind die unterwegs? Feiern? "
+    },
+    "3743": {
+        "Delay": 4,
+        "Text": "Die sind zu Hause. Sie wissen nicht, was sie tun sollen. "
+    },
+    "3747": {
+        "Delay": 4,
+        "Text": "Sie liegen in der Sonne, schlafen. Aber wir haben unseren Honig wieder. "
+    },
+    "3752": {
+        "Delay": 3,
+        "Text": "Ja, aber manchmal denke ich: Und? Wenn die Menschen Honig mgen... "
+    },
+    "3756": {
+        "Delay": 5,
+        "Text": "Wer tut das nicht? Es war eine groe Freude, ihn herstellen zu durfen. "
+    },
+    "3761": {
+        "Delay": 4,
+        "Text": "Das war mein neuer Schreibtisch. Das war mein neuer Job. "
+    },
+    "3766": {
+        "Delay": 3,
+        "Text": "Ich wollte ihn richtig gut machen, und jetzt kann ich das nicht mehr. "
+    },
+    "3779": {
+        "Delay": 5,
+        "Text": "Warum sind sie nicht glucklich? Ich dachte, ihr Leben wre jetzt besser. "
+    },
+    "3784": {
+        "Delay": 4,
+        "Text": "Sie tun gar nichts. Unglaublich. Honig verndert die Bienen wirklich. "
+    },
+    "3788": {
+        "Delay": 4,
+        "Text": "Weit du, was sich gerade tut? Was wolltest du mir zeigen? "
+    },
+    "3792": {
+        "Delay": 5,
+        "Text": "Das! Oh, was ist denn hier passiert? "
+    },
+    "3797": {
+        "Delay": 3,
+        "Text": "Das ist erst der Anfang davon. "
+    },
+    "3805": {
+        "Delay": 4,
+        "Text": "Oh, nein. Du meine Gute, alles verwelkt. "
+    },
+    "3810": {
+        "Delay": 3,
+        "Text": "Sieht nicht sehr gut aus, was? Nein. "
+    },
+    "3813": {
+        "Delay": 3,
+        "Text": "Was glaubst du, wer schuld ist? "
+    },
+    "3818": {
+        "Delay": 5,
+        "Text": "Lass mich raten. Bienen? Bienen? Meine? Ich wusste nicht, "
+    },
+    "3823": {
+        "Delay": 4,
+        "Text": "dass es all das beeinflusst, wenn Bienen keinen Honig mehr machen. "
+    },
+    "3828": {
+        "Delay": 4,
+        "Text": "Es sind nicht nur die Blumen. Obst, Gemuse. Nichts gedeiht ohne Bienen. "
+    },
+    "3832": {
+        "Delay": 4,
+        "Text": "Das sagen sie auch an den Schulen. Wenn ihr aufhrt zu produzieren, "
+    },
+    "3837": {
+        "Delay": 3,
+        "Text": "dann ist die ganze Tierwelt davon betroffen. Und daher auch... "
+    },
+    "3841": {
+        "Delay": 2,
+        "Text": "Du meinst, die Menschheit? "
+    },
+    "3843": {
+        "Delay": 6,
+        "Text": "Wow. Ohne Bestubung durch uns knnte alles den Bach runtergehen. "
+    },
+    "3849": {
+        "Delay": 5,
+        "Text": "Naturlich ist mir klar, dass das auch teilweise meine Schuld ist. "
+    },
+    "3855": {
+        "Delay": 1,
+        "Text": "Ach. "
+    },
+    "3857": {
+        "Delay": 3,
+        "Text": "Wie wrs mit einem Selbstmord-Pakt? Wie wollen wir's tun? "
+    },
+    "3861": {
+        "Delay": 4,
+        "Text": "Ich steche und du trittst. Das ttet dich doppelt. "
+    },
+    "3865": {
+        "Delay": 4,
+        "Text": "Hr zu, Barry. Tut mir leid, aber ich muss jetzt los. "
+    },
+    "3875": {
+        "Delay": 4,
+        "Text": "Und das nur, weil ich meinen Mund nicht halten konnte. "
+    },
+    "3880": {
+        "Delay": 9,
+        "Text": "Vanessa. Warum gehst du? Und wohin? Zur womglich letzten Rosenparade. "
+    },
+    "3890": {
+        "Delay": 4,
+        "Text": "Sie haben es vorgezogen, weil schon alle Blumen eingehen. "
+    },
+    "3895": {
+        "Delay": 4,
+        "Text": "Das ist die letzte Chance fur mich, das zu sehen. Vanessa, ich... "
+    },
+    "3899": {
+        "Delay": 5,
+        "Text": "Ich wollte nicht, dass das so kommt. Das wei ich doch. Niemand von uns. "
+    },
+    "3906": {
+        "Delay": 4,
+        "Text": "Ein Wettbewerb fur Rosen. Rosen knnen doch keinen Sport machen. "
+    },
+    "3911": {
+        "Delay": 2,
+        "Text": "Warte mal. Rosen. Rosen! "
+    },
+    "3914": {
+        "Delay": 4,
+        "Text": "Rosen! Vanessa! "
+    },
+    "3919": {
+        "Delay": 4,
+        "Text": "Rosen. Barry? Rosen sind Blumen! "
+    },
+    "3924": {
+        "Delay": 4,
+        "Text": "Ja, allerdings. Blumen, Bienen, Pollen! "
+    },
+    "3928": {
+        "Delay": 4,
+        "Text": "Deswegen wird es die letzte Parade. Aber vielleicht nicht. "
+    },
+    "3933": {
+        "Delay": 4,
+        "Text": "Knnte er etwas langsamer fahren? Fahren Sie bitte nicht so schnell. "
+    },
+    "3939": {
+        "Delay": 3,
+        "Text": "Barry! Es ist alles meine Schuld. "
+    },
+    "3944": {
+        "Delay": 4,
+        "Text": "Ich habe den Planeten ruiniert und statt dir beim Laden zu helfen, "
+    },
+    "3948": {
+        "Delay": 4,
+        "Text": "habe ich es noch schlimmer gemacht. Er ist geschlossen! "
+    },
+    "3953": {
+        "Delay": 4,
+        "Text": "Ich dachte, du musst nur renovieren. Ja, dennoch habe ich eine neue Idee, "
+    },
+    "3957": {
+        "Delay": 4,
+        "Text": "die besser ist als alle zusammen. Ich will sie nicht hren. "
+    },
+    "3961": {
+        "Delay": 5,
+        "Text": "Die haben die Rosen, die Rosen haben Pollen. Ich kenne jede Biene, "
+    },
+    "3966": {
+        "Delay": 5,
+        "Text": "Pflanze und Blutenknospe im Park. Wir mussen die Rosen dahin bringen. "
+    },
+    "3971": {
+        "Delay": 4,
+        "Text": "(Beide) Biene, Park, Polle, Blume. Bestubung mit Verstand. "
+    },
+    "3975": {
+        "Delay": 2,
+        "Text": "Im ganzen Land. "
+    },
+    "3977": {
+        "Delay": 5,
+        "Text": "Rosenparade Pasadena, Kalifornien. Die haben da nichts als Blumen. "
+    },
+    "3982": {
+        "Delay": 4,
+        "Text": "Und strenge Sicherheitsmanahmen. Ich habe eine Idee. "
+    },
+    "3987": {
+        "Delay": 4,
+        "Text": "Vanessa Bloome, Floristenverband. Ich habe einen floralen Auftrag. "
+    },
+    "3991": {
+        "Delay": 4,
+        "Text": "Tut mir leid. Hubsche Brosche. Danke. Das war ein Geschenk. "
+    },
+    "3995": {
+        "Delay": 4,
+        "Text": "Und wenn wir drin sind, suchen wir nur nach dem richtigen Festwagen. "
+    },
+    "4000": {
+        "Delay": 3,
+        "Text": "Da, die Prinzessin auf der Erbse. Ich bin die Prinzessin und du, "
+    },
+    "4004": {
+        "Delay": 3,
+        "Text": "du spielst die Erbse. Ja, verstanden. Ich bin zu spt. "
+    },
+    "4008": {
+        "Delay": 4,
+        "Text": "Wo soll ich hin? Was bist du denn? Ich glaube, die Erbse. "
+    },
+    "4012": {
+        "Delay": 3,
+        "Text": "Die muss unter den Matratzen liegen. In diesem Mrchen aber nicht. "
+    },
+    "4015": {
+        "Delay": 5,
+        "Text": "Das bespreche ich mit dem Chef. Ja. Diese Parade ist ein Fiasko. "
+    },
+    "4020": {
+        "Delay": 4,
+        "Text": "Mal sehen, was das Baby draufhat. Hey, was soll denn das? "
+    },
+    "4027": {
+        "Delay": 5,
+        "Text": "Dann mischen wir uns unter den Verkehr. Naturlich ohne aufzufallen. "
+    },
+    "4034": {
+        "Delay": 4,
+        "Text": "Wenn wir in L.A. am Flughafen sind, kann uns keiner mehr aufhalten. "
+    },
+    "4038": {
+        "Delay": 4,
+        "Text": "Sicherheitsdienst. Haben Sie und Ihr Insekt den Wagen gepackt. Ja. "
+    },
+    "4043": {
+        "Delay": 4,
+        "Text": "Schuhe aus und Taschen leeren. Knnten Sie Ihren Stachel abnehmen? "
+    },
+    "4047": {
+        "Delay": 4,
+        "Text": "Der ist festgewachsen. Ich wei. War nur ein kleiner Spa. "
+    },
+    "4057": {
+        "Delay": 5,
+        "Text": "Und mit etwas Gluck haben wir genug Pollen, um alles zu schaffen. "
+    },
+    "4063": {
+        "Delay": 4,
+        "Text": "Wir haben genug Pollen, um alles hinzubekommen. Ich denke, es klappt. "
+    },
+    "4068": {
+        "Delay": 3,
+        "Text": "Ich kann es nur hoffen. (Durchsage) Hier spricht Ihr Pilot. "
+    },
+    "4072": {
+        "Delay": 4,
+        "Text": "Durch das schlechte Wetter mussen wir mit lngerer Versptung rechnen. "
+    },
+    "4076": {
+        "Delay": 4,
+        "Text": "Das sind Schnittblumen. Sie haben kein Wasser. Sie gehen kaputt. "
+    },
+    "4080": {
+        "Delay": 4,
+        "Text": "Dann rede ich mal mit den Fliegerkollegen. Pass auf. "
+    },
+    "4085": {
+        "Delay": 4,
+        "Text": "Klopfen Ich brauche Hilfe beim Bordmagazin. "
+    },
+    "4089": {
+        "Delay": 4,
+        "Text": "Ich mchte den sprechenden Reiseswimmingpoolfilter kaufen. "
+    },
+    "4096": {
+        "Delay": 3,
+        "Text": "Ich hab ein Problem. Was ist, Hell? "
+    },
+    "4099": {
+        "Delay": 3,
+        "Text": "Gar nichts, wieso? - Eine Biene! "
+    },
+    "4102": {
+        "Delay": 5,
+        "Text": "Nicht aufregen. Es knnte sein, dass meine gesamte Spezies... "
+    },
+    "4108": {
+        "Delay": 3,
+        "Text": "Was machst du denn? Hr auf! "
+    },
+    "4114": {
+        "Delay": 4,
+        "Text": "Warten Sie! Ich bin Anwalt. Nicht bewegen! "
+    },
+    "4123": {
+        "Delay": 4,
+        "Text": "Oh, Barry. Verehrte Passagiere, hier spricht Ihr Kapitn. "
+    },
+    "4128": {
+        "Delay": 5,
+        "Text": "Wir mchten Vanessa Bloome bitten, sich im Cockpit zu melden, schnell! "
+    },
+    "4136": {
+        "Delay": 4,
+        "Text": "Was war denn hier los? Ich wollte mit Ihnen reden, "
+    },
+    "4141": {
+        "Delay": 3,
+        "Text": "aber jetzt sind beide ohnmchtig. "
+    },
+    "4145": {
+        "Delay": 4,
+        "Text": "Ist das wieder so ein Bienenwitz? Nein! Niemand fliegt das Flugzeug. "
+    },
+    "4149": {
+        "Delay": 5,
+        "Text": "(Funk) Hier ist JFK, der Tower. Hier ist Vanessa Bloome. "
+    },
+    "4154": {
+        "Delay": 4,
+        "Text": "Ich bin aus NY. Wo ist der Pilot? Er ist ohnmchtig. "
+    },
+    "4159": {
+        "Delay": 3,
+        "Text": "Genauso wie der Copilot. Jemand mit Flugerfahrung an Bord? "
+    },
+    "4163": {
+        "Delay": 3,
+        "Text": "Ja. Wer ist das? Barry Benson. "
+    },
+    "4166": {
+        "Delay": 4,
+        "Text": "Dieser Bienenanwalt? Na toll. Das ist nur 'ne groe Metallbiene. "
+    },
+    "4171": {
+        "Delay": 4,
+        "Text": "Es hat Flugel und Triebwerke. Ich kann kein Flugzeug fliegen. "
+    },
+    "4175": {
+        "Delay": 4,
+        "Text": "Ist John Travolta nicht Pilot? Ja. Dann kann's nicht so schwer sein. "
+    },
+    "4180": {
+        "Delay": 3,
+        "Text": "Augenblick mal, Barry, wir fliegen auf eine Gewitterfront zu! "
+    },
+    "4185": {
+        "Delay": 4,
+        "Text": "(TV) Hier ist Horst Hummel mit neuen Meldungen vom Flughafen JFK. "
+    },
+    "4190": {
+        "Delay": 4,
+        "Text": "Barry Benson versucht ein Flugzeug zu landen, indem sich Menschen, "
+    },
+    "4194": {
+        "Delay": 3,
+        "Text": "Das ist Barry. "
+    },
+    "4198": {
+        "Delay": 4,
+        "Text": "Blumen und eine auer Kraft gesetzte Besatzung befinden. - Blumen? "
+    },
+    "4202": {
+        "Delay": 4,
+        "Text": "Es herrscht Gewitter, und zwei Individuen fliegen den Jet, "
+    },
+    "4207": {
+        "Delay": 4,
+        "Text": "die keinerlei Flugerfahrung haben. - Da ist auch 'ne Biene mit drin. "
+    },
+    "4212": {
+        "Delay": 5,
+        "Text": "Oh, haben Sie nicht schon genug Schaden verursacht? "
+    },
+    "4218": {
+        "Delay": 3,
+        "Text": "Aber ist er nicht unsere Hoffnung? - Bienen knnen nicht fliegen. "
+    },
+    "4222": {
+        "Delay": 5,
+        "Text": "Zu kleine Flugel, zu dicker Krper. Ja, Ihre Flugel sind im Verhltnis "
+    },
+    "4227": {
+        "Delay": 4,
+        "Text": "zu ihrer Krpermasse viel zu klein. Schalten Sie das auf Sendung. "
+    },
+    "4232": {
+        "Delay": 4,
+        "Text": "Wir gehen live drauf. Wie wir arbeiten, scheint fur euch "
+    },
+    "4236": {
+        "Delay": 4,
+        "Text": "unverstndlich zu sein. Man braucht viele Bienen zum Honig machen. "
+    },
+    "4241": {
+        "Delay": 4,
+        "Text": "Wenn wir unsere Arbeit gut machen, knnen wir damit viel bewirken. "
+    },
+    "4246": {
+        "Delay": 4,
+        "Text": "Mehr als uns klar ist. Deswegen mussen wir Bienen wieder das tun, "
+    },
+    "4250": {
+        "Delay": 4,
+        "Text": "was wir am besten knnen: Zusammenarbeiten. Das ist unsre Art. "
+    },
+    "4254": {
+        "Delay": 4,
+        "Text": "Wir fliegen zusammen wie ein Block, fur Knigin und Bienenstock. "
+    },
+    "4258": {
+        "Delay": 3,
+        "Text": "(Alle) Let's rock! "
+    },
+    "4263": {
+        "Delay": 4,
+        "Text": "Links, rechts, runter. Schweben. Schweben? Das ist nicht schwer. "
+    },
+    "4271": {
+        "Delay": 4,
+        "Text": "Barry, was ist passiert? Wir sind mit Autopilot geflogen. "
+    },
+    "4276": {
+        "Delay": 3,
+        "Text": "Das war bestimmt ziemlich hilfreich. Und jetzt ist er aus! "
+    },
+    "4280": {
+        "Delay": 4,
+        "Text": "Wie es aussieht, kann ich doch kein Flugzeug fliegen. "
+    },
+    "4285": {
+        "Delay": 3,
+        "Text": "Los, Jungs! Fliegen wir zusammen wie ein Block. Ausschwrmen! "
+    },
+    "4298": {
+        "Delay": 4,
+        "Text": "Die einzige Chance ist, dass ich es dir vorfliege und du es nachmachst! "
+    },
+    "4303": {
+        "Delay": 3,
+        "Text": "Deshalb musst du nicht schreien. Ich schreie nicht! "
+    },
+    "4307": {
+        "Delay": 5,
+        "Text": "Ich kann mich nicht konzentrieren. Ich bin in Panik! "
+    },
+    "4323": {
+        "Delay": 4,
+        "Text": "Ich glaube, ich kann das nicht. Vanessa, krieg dich mal wieder ein. "
+    },
+    "4327": {
+        "Delay": 4,
+        "Text": "Krieg du dich mal wieder ein! Krieg du dich mal wieder ein! "
+    },
+    "4352": {
+        "Delay": 5,
+        "Text": "Krieg du dich mal wieder ein. Krieg du dich ein. Schluss jetzt! "
+    },
+    "4357": {
+        "Delay": 4,
+        "Text": "Wieso? Komm schon, ich bin dran. Wie fliegt denn das Flugzeug? "
+    },
+    "4363": {
+        "Delay": 5,
+        "Text": "Ja? Wofur sind die Blumen? Die Pollencrew! "
+    },
+    "4368": {
+        "Delay": 4,
+        "Text": "Die fliegen wirklich wie ein Block. Fur Knigin und Bienenstock. "
+    },
+    "4373": {
+        "Delay": 3,
+        "Text": "Was dagegen, wenn wir landen? Wo? Ich sehe gar nichts. Du? "
+    },
+    "4377": {
+        "Delay": 5,
+        "Text": "Nein, nichts. Es ist so bewlkt. Komm schon! Denk bienisch, Barry. "
+    },
+    "4382": {
+        "Delay": 5,
+        "Text": "(Alle) Denk bienisch, denk bienisch, denk bienisch... "
+    },
+    "4387": {
+        "Delay": 5,
+        "Text": "Moment. Ich kann was spuren. Was? Es ist stark und zieht mich an. "
+    },
+    "4393": {
+        "Delay": 4,
+        "Text": "Wie 'n 27 Mio. Jahre alter Instinkt. Bring die Nase des Flugzeugs runter. "
+    },
+    "4399": {
+        "Delay": 3,
+        "Text": "(Alle) Denk bienisch, denk bienisch. "
+    },
+    "4402": {
+        "Delay": 4,
+        "Text": "Was ist da auf dem Rollfeld? - Haltet die Scheinwerfer darauf. "
+    },
+    "4407": {
+        "Delay": 3,
+        "Text": "(Alle) Denk bienisch, denk bienisch, denk bienisch... "
+    },
+    "4411": {
+        "Delay": 3,
+        "Text": "Fliegt zur Blume. Triebwerke aus! Ich soll sie ausschalten? "
+    },
+    "4415": {
+        "Delay": 4,
+        "Text": "Wir fliegen mit Bienenantrieb. Fertig, Mnner? Vollkommen. "
+    },
+    "4420": {
+        "Delay": 5,
+        "Text": "Gut. Ganz ruhig. So ist gut. Lande auf der Blume. Jungs, bereit? "
+    },
+    "4426": {
+        "Delay": 2,
+        "Text": "Volle Kraft zuruck. Dreht sie um! "
+    },
+    "4430": {
+        "Delay": 4,
+        "Text": "Nicht die Blume. Ich fliege doch auf die Blume zu. "
+    },
+    "4435": {
+        "Delay": 4,
+        "Text": "Das ist ein dicker Mann in einem Blumenhemd! Ich meine die blinkende, "
+    },
+    "4439": {
+        "Delay": 4,
+        "Text": "schwarz-gelbe Blume aus Bienen. Lenk vorwrts, Nase runter. "
+    },
+    "4444": {
+        "Delay": 3,
+        "Text": "Hinterteil nach oben. Flieg im Kreis um sie herum. "
+    },
+    "4448": {
+        "Delay": 4,
+        "Text": "Das ist doch krank, Barry! Anders kann ich nicht fliegen. "
+    },
+    "4452": {
+        "Delay": 4,
+        "Text": "Fliegen die nach Insektenmuster? Halt die Nase rein, keine Angst. "
+    },
+    "4457": {
+        "Delay": 4,
+        "Text": "Nher ran. Volle Kraft zuruck. Lass es fallen, werde ein Teil davon. "
+    },
+    "4461": {
+        "Delay": 5,
+        "Text": "Halt auf die Mitte zu. Und jetzt fallen lassen. Lass dich fallen. "
+    },
+    "4473": {
+        "Delay": 4,
+        "Text": "Komm, mach schon. Klingel "
+    },
+    "4481": {
+        "Delay": 4,
+        "Text": "Wir haben es geschafft. Du hast mir beigebracht, wie man fliegt. "
+    },
+    "4486": {
+        "Delay": 4,
+        "Text": "Nicht abklatschen! Richtig. Barry, es hat funktioniert. "
+    },
+    "4490": {
+        "Delay": 4,
+        "Text": "Hast du diese riesige Blume gesehen? Welche Blume? Ich hab sie gesehen. "
+    },
+    "4494": {
+        "Delay": 5,
+        "Text": "Die war genial, Mann! Danke schn. Aber wir sind noch nicht fertig. "
+    },
+    "4506": {
+        "Delay": 4,
+        "Text": "Hrt mal alle zu. Diese Landebahn ist bedeckt mit den letzten Pollen "
+    },
+    "4510": {
+        "Delay": 4,
+        "Text": "der letzten Blumen, die zu finden sind. Das ist unsere letzte Chance. "
+    },
+    "4515": {
+        "Delay": 4,
+        "Text": "Nur wir machen Honig, bestuben, bestuben und ziehen uns so an. "
+    },
+    "4520": {
+        "Delay": 4,
+        "Text": "Wenn wir als Spezies uberleben wollen, dann ist das der Moment. "
+    },
+    "4524": {
+        "Delay": 5,
+        "Text": "Wollen wir Bienen sein oder Schlusselanhnger? "
+    },
+    "4530": {
+        "Delay": 3,
+        "Text": "(Alle) Wir sind Bienen! - Schlusselanhnger! "
+    },
+    "4533": {
+        "Delay": 4,
+        "Text": "Dann folgt mir! Warte, Barry. "
+    },
+    "4538": {
+        "Delay": 2,
+        "Text": "Hier, die hast du verdient. "
+    },
+    "4546": {
+        "Delay": 2,
+        "Text": "Yeah. "
+    },
+    "4549": {
+        "Delay": 3,
+        "Text": "Ja. Ich bin einer von der Pollencrew. "
+    },
+    "4552": {
+        "Delay": 5,
+        "Text": "Die passt perfekt. Vorausgesetzt, ich lass die Ärmel kurzen. "
+    },
+    "4559": {
+        "Delay": 3,
+        "Text": "Oh ja. Das ist unser Barry. "
+    },
+    "4629": {
+        "Delay": 3,
+        "Text": "Mom, die Bienen sind wieder da! "
+    },
+    "4643": {
+        "Delay": 5,
+        "Text": "Wenn jemand telefonieren muss, dann jetzt. Wir machen Überstunden! "
+    },
+    "4661": {
+        "Delay": 4,
+        "Text": "Wem kann ich weiterhelfen mit Honig, Blumen oder einer Rechtsberatung? "
+    },
+    "4666": {
+        "Delay": 5,
+        "Text": "Wer ist der Nchste? Wer ist dran? Darf ich Ihnen den Honig empfehlen? "
+    },
+    "4672": {
+        "Delay": 5,
+        "Text": "Milch, Sahne, Kse. Das kommt alles von mir. Und ich sehe dafur nichts. "
+    },
+    "4677": {
+        "Delay": 4,
+        "Text": "Ich fuhle mich wie 'n Stuck Fleisch. Wer htte das gedacht? "
+    },
+    "4681": {
+        "Delay": 4,
+        "Text": "Barry? Hast du gerade einen Moment? Wurden Sie mich kurz entschuldigen? "
+    },
+    "4686": {
+        "Delay": 3,
+        "Text": "Mein Kollege kann Ihnen helfen. Ist der auch ein Anwalt? "
+    },
+    "4690": {
+        "Delay": 4,
+        "Text": "Ein blutsaugender Parasit war ich immer. Mir fehlte die Aktentasche. "
+    },
+    "4694": {
+        "Delay": 4,
+        "Text": "Schnen Tag noch. Ich soll fur 'ne Hochzeit massig Tulpen besorgen. "
+    },
+    "4698": {
+        "Delay": 4,
+        "Text": "Aber niemand hat welche. Kein Problem. Überlass das mir. "
+    },
+    "4703": {
+        "Delay": 3,
+        "Text": "Du rettest mir das Leben, Barry. Also gut. Ausschwrmen, Jungs. "
+    },
+    "4707": {
+        "Delay": 2,
+        "Text": "Wir haben einen Auftrag. Danke, Barry! "
+    },
+    "4711": {
+        "Delay": 6,
+        "Text": "Oh, diese Biene lebt mein Leben! Hrt dieser Albtraum nie auf? "
+    },
+    "4724": {
+        "Delay": 5,
+        "Text": "Wunderschner Tag fur einen Flug. Ich musste mal raus aus dem Buro. "
+    }
+}
