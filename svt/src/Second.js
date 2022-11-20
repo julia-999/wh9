@@ -6,12 +6,12 @@ import Form from 'react-bootstrap/Form';
 import Dropdown from 'react-bootstrap/Dropdown';
 import React, { useState } from 'react';
 import raw from './files/world-languages-simple.csv';
-import WebSocket from './WebSocket.js'
+// import WebSocket from './WebSocket.js'
 
 function Second(props) {
 
-    return (
-        <WebSocket/>
-    );
+    // return (
+    //     <WebSocket/>
+    // );
 }
 export default Second;
